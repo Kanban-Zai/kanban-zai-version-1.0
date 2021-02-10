@@ -11,3 +11,8 @@ Contributons from tens of thousands of hours put in by multiple developers with 
 CONTRIBUTE
 
 If you have something to add please sumbit a pull request.
+
+
+JOIN
+
+If you would like to help curate and guide Kanban-Zai request to join the crew through the github team.
