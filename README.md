@@ -10,4 +10,4 @@ Contributons from tens of thousands of hours put in by multiple developers with 
 
 CONTRIBUTE
 
-If you have something to add please put in a pull request.
+If you have something to add please sumbit a pull request.
