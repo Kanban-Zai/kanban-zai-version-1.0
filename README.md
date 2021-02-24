@@ -1,7 +1,7 @@
 # Kanban-Zai Core Manifesto
 
-. This repo describes the core idea of Kanban-Zai.  
-. This is an open sorce project with a holistic intent.
+* This repo describes the core idea of Kanban-Zai.  
+* This is an open sorce project with a holistic intent.
 
 Kanban-Zai was born of the tens of thousands of hours experience in Agile and other methodologys from a collection of developers who long for a better way of doing things.
 
