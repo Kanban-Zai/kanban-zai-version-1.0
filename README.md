@@ -7,23 +7,23 @@ This is an open sorce project with a holistic intent.
 
 Kanban-Zai was born of the tens of thousands of hours experience in Agile and other methodologys from a collection of developers who long for a better way of doing things.
 
-##WHAT IS KANBAN-ZAI?
+## WHAT IS KANBAN-ZAI?
 
 Kanban-Zai is an objective reality framework they enables all parties of interest in a development project to rally around a common flag.
 
-=CONTRIBUTE
+## CONTRIBUTE
 
 If you have something to add please sumbit a pull request.
 
-=JOIN
+## JOIN
 
 If you would like to help curate and guide Kanban-Zai then request to join the crew through the github team.
 
-=IMPLEMENT
+## IMPLEMENT
 
 To imlement Kanban-Zai in your project all you need to do is formally adopt the Kanban-Zai core.
 
-=LICENSE
+## LICENSE
 
 If you choose to implement Kanban-Zai and wish to say you are running a Kanban-Zai project then you MUST, at a minimum, implement the Kanban-Zai core.
 
