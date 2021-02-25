@@ -11,13 +11,13 @@ The eventual manifestation, of KANBAN-ZAI will depend heavily on your teams coll
 
 “If Henry Ford listened to what his customers actually wanted we would all be driving around in 150 horsepower cars powered by 150 actual horses, and carbon emissions would be through the roof!”
 
-CORE IDEA
+##CORE IDEA
 
-CONSENSUS   - Ensure everyone is one the same page.
-TRUST       - Which must be nurtured by stakeholders.
-FEEDBACK    - everyone needs it.  ALL the time. 
-TEAM NORMS  - Your team's standard operational settings.
-DEVIATIONS  - The one and only meeting Kanban-Zai enforces.  Irregularly.  Use this to modify your settings.
+*CONSENSUS   - Ensure everyone is one the same page.
+*TRUST       - Which must be nurtured by stakeholders.
+*FEEDBACK    - everyone needs it.  ALL the time. 
+*TEAM NORMS  - Your team's standard operational settings.
+*DEVIATIONS  - The one and only meeting Kanban-Zai enforces.  Irregularly.  Use this to modify your settings.
 
 There is only one rule.  Do not deviate from these ideas.  If you do you can no longer be considered to be practicing Kanban-Zai.
 
