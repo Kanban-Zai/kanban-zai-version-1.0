@@ -29,7 +29,8 @@ Additionally you may not modify the Kanban-Zai Core in any way, but you may exte
 
 You may not extend your implementation in any way that nullifys or alters the meaning of any part of the Kanban-Zai core.
 
-Breaching any part of this license revokes your right to say or imply in any way that you are running under the banner of Kanban-Zai.  There is of course no legal recourse, and no day in court if you do.  However this is a public declaration and a flag to rally around.  The implication is you want to use it because you value the core tenants of Kanban-Zai, the primary one being that of trust.  Anyone can read this document and can work out for themselves that you are not putting your best foot forward when it comes to fostering trust.  In this case we feel that the court of public opinion is a far harsher option than a court of law.
-So your choice really.
+Breaching any part of this license revokes your right to publically declare, any endeavour you undertake, as Kanban-Zai.
+
+This license applys to all legal entities including but not limited to individual people, companies, partnerships, sole traders, dogs called max, Artifical Intelligences, movie producers...I don't know...you name it, it applies.
 
 In light of the above please note that the Kanban-Zai core is an open source framework that you may contribute to via a pull request in github or by joining the Kanban-Zai core team.
