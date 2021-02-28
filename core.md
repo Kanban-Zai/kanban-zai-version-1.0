@@ -19,13 +19,16 @@ The eventual manifestation, of KANBAN-ZAI will depend heavily on your teams coll
 * TEAM NORMS  - Your team's standard operational settings.
 * DEVIATIONS  - The one and only meeting Kanban-Zai enforces.  Irregularly.  Use this to modify your settings.
 
-There is only one rule.  Do not deviate from these ideas.  If you do you can no longer be considered to be practicing Kanban-Zai.
+## GETTING STARTED
 
-GETTING STARTED
+It is probbly not worth implementing any form of management process if you are 3 or less in a team, but if your team has outside influences in any form it's probably worth considering.
 
-Every Kanban-Zai team starts with the same default settings IE: none.  Run with them for a bit.   
-If it works for you great.  
-If it doesn't run a "Deviation"
+There are some core immutable concepts your team need to take on-board, without which you are not doing Kanban-Zai.
+
+  * VISIBILITY  - this is an important factor in trust, consenus and feedback.  However you communicate what needs to be achieved should be visible to all team members.  There should be one source of truth for the work ahead.  This means no personal task lists.
+  * OBJECTIVITY - Personal opinion does not matter.  Team opinion does.
+  * EVIDENCE    - There should be evidence compelling the team to start a peice of work and evidence to compel the team to cease that peice of work.
+  * PRIORITY    - All things can be done as long as they are prioritized.  When deadlines are required priority defines what is descoped.
 
 
 THE PROCESS
