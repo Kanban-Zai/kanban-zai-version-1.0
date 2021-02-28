@@ -33,7 +33,7 @@ There are some core immutable concepts your team need to take on-board, without 
 
 THE PROCESS
 
-Kanban-Zai is a hybrid collaboration between hardware and wetware.  Computers automate the process and humans provide the creative power.  Because quite frankly we are better at it.
+Kanban-Zai is a collaboration process.
 
 (Investigate -> Ideate -> descope -> iterate)
 
