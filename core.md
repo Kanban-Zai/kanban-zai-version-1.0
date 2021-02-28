@@ -37,11 +37,11 @@ Kanban-Zai is a hybrid collaboration between hardware and wetware.  Computers au
 
 (Investigate -> Ideate -> descope -> iterate)
 
-Investigate 	- Gather data and intuition and define problems
-Ideate 		    - Come up with ideas to solve the problems
-Descope	      - Ruthlessly descope.  Don’t be afraid to go scorched earth.
-Iterate		    - Execute what’s left over 
-Repeat.       - start again
+* Investigate 	- Gather data and intuition and define problems
+* Ideate 		    - Come up with ideas to solve the problems
+* Descope	      - Ruthlessly descope.  Don’t be afraid to go scorched earth.
+* Iterate		    - Execute what’s left over 
+* Repeat.       - start again
 
 DEVIATIONS
 
