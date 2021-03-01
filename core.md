@@ -13,6 +13,7 @@ If you want to build scalable teams and enhance productivity and genuinely enric
 * TRUST       - Which must be nurtured by stakeholders.
 * FEEDBACK    - everyone needs it.  ALL the time. 
 * TEAM NORMS  - Your team's standard operational settings.
+* DISCIPLINE  - Every one in the team must follow the collaborative process
 * DEVIATIONS  - The one and only meeting Kanban-Zai enforces.  Irregularly.  Use this to modify your settings.
 
 ## GETTING STARTED
