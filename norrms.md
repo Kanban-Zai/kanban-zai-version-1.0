@@ -1,8 +1,8 @@
-WHAT ARE TEAM NORMS?
+## WHAT ARE TEAM NORMS?
 
 These direct the day to day behaviour of your team.  They will likeley be different for each and every team, although there could be common themes.
 
-EXTENDING KANBAN-ZAI
+## EXTENDING KANBAN-ZAI
 
 Team Norms are your path to making Kanban-Zai fit your team, and even change with the team and the times.
 
@@ -12,4 +12,6 @@ BACKPORTING - In some cases cards are generally estimates (guesses) of what need
 However during the course of the work you may drop something, add something or change someting about the card.  Record this change, split out new cards
 or combine existing ones.  The goal of backporting is for the card to represent what was done rather than what was asked for.
 
+
+## Summary
 Obviously this is going to require some negotiation with the team do keep your changes visible and get consensus.
