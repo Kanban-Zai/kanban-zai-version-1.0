@@ -3,13 +3,9 @@ Fail Fast Adapt Fast
 Document source url: https://github.com/Kanban-Zai/core.git
 
 
-WHAT IS KANBAN-ZAI
+WHY KANBAN-ZAI
 
-Kanban-Zai is a modern, people centric, flexible and extendable methodology for Software Development teams.  
-A particular way of working is not enforced and the group of people involved are all encouraged to participate in extending your teams own subjective manifestation. 
-The eventual manifestation, of KANBAN-ZAI will depend heavily on your teams collective interpretation of the following allegory.
-
-“If Henry Ford listened to what his customers actually wanted we would all be driving around in 150 horsepower cars powered by 150 actual horses, and carbon emissions would be through the roof!”
+If you want to build scalable teams and enhance productivity and genuinely enrich the lives of everybody involved then Kanban-Zai is for you.
 
 ## CORE IDEA
 
