@@ -7,7 +7,7 @@ Kanban-Zai was born of the tens of thousands of hours experience in Agile and ot
 
 ## WHAT IS KANBAN-ZAI?
 
-Kanban-Zai is an objective reality framework they enables all parties of interest in a development project to rally around a common flag.
+Kanban-Zai is project framework that encourages an objective reality and developer discipline on a daily basis.
 
 ## CONTRIBUTE
 
