@@ -21,11 +21,13 @@ If you would like to help curate and guide Kanban-Zai then request to join the c
 
 To imlement Kanban-Zai in your project all you need to do is formally adopt the Kanban-Zai core by creating a version repository outlining the version of Kanban-Zai core that you are adopting in the read me.  You will also need to list your team norms in norms.md and optionally in a file called feedback.md where you can document your experience with Kanban-Zai core and team norms that did or did not work out for you
 
-## CULTURE
+## CULTURE DOS AND DONTS
 * reinforce reliability as a cultural value, most reliability issues between people can be boiled down to poor communication, which is easily fixed
-* Don't let blame blind you
 * Be ok with failure, do it often
-
+* Be proactive about genuinley and generously giving credit to others
+* Don't let blame blind you
+* Don't wait to share bad news or ask for help
+* Don't surprise people with decisions or problems out of the blue
 
 ## NOTES
 * Kanban-Zai core will be continuously improved, however no minor version will ever change the meaning of the major version.  If there is a significant deviation in meaning the minor version will then become the next major version
