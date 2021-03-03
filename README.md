@@ -21,6 +21,9 @@ If you would like to help curate and guide Kanban-Zai then request to join the c
 
 To imlement Kanban-Zai in your project all you need to do is formally adopt the Kanban-Zai core by creating a version repository outlining the version of Kanban-Zai core that you are adopting in the read me.  You will also need to list your team norms in norms.md and optionally in a file called feedback.md where you can document your experience with Kanban-Zai core and team norms that did or did not work out for you
 
+## NOTES
+* Kanban-Zai core will be continuously improved, however no minor version will ever change the meaning of the major version.  If there is a significant deviation in meaning the minor version will then become the next major version
+
 ## LICENSE
 
 If you choose to implement Kanban-Zai and wish to say you are running a Kanban-Zai project then you MUST, at a minimum, implement the Kanban-Zai core.
