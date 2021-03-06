@@ -9,7 +9,7 @@ Team Norms are your path to making Kanban-Zai fit your team, and even change wit
 Here are a few that you can adopt when you first begin with Kanban-Zai.  Longer term they may not fit, but in the beginning they will help alot.
 
 #### BACKPORTING
-In some cases cards are generally estimates (guesses) of what needs to be done.  You just dont know what you dont know sometimes.
+In many cases cards are generally estimates (guesses) of what needs to be done.  You just dont know what you dont know sometimes.
 However during the course of the work you may drop something, add something or change someting about the card.  Record this change, split out new cards
 or combine existing ones.  The goal of backporting is for the card to represent what was done rather than what was asked for.
 
@@ -23,6 +23,10 @@ Limit the amount of work in play at any one time.  It is to easy to get caught u
 Approximate the size of each chunk of work, it helps long term.
 
 #### BOY-SCOUTING
+
+This is a great norm to have for your team when it is at risk of dying the "Death of a Thousand Cuts".  With the consensus of the team the boy scout will take a collection of cards and conglomerate them into one card and then work through the items on the card.  And only those items.  The boy scout must not deviate from 
+card and there should be time and scope constraints on the card.   Any work not completed within the time and scope constraint must be recarded with any insights
+to feed back into the process
 
 #### COWBOYING
 
