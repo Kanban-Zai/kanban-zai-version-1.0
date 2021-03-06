@@ -23,7 +23,13 @@ Limit the amount of work in play at any one time.  It is to easy to get caught u
 Approximate the size of each chunk of work, it helps long term.
 
 #### BOY-SCOUTING
-The team grants the permission, under a flag, to go through the codebase and actively find, in the opinion of the boy scout, problems and fix them. The flag must be visually raised on the board and have generally accepted constraints by way of time and scope.  This is a great idea when the team is in danger of dying from death by a thousand cuts as to many very small cards can pointlessly overwhelm and detract from the end goal.  This is a break from normal process so there needs to be a reconcillation at the close of the card.  The boy scout must inform the team of changes made and the team must generally accept them good or bad.  Why bad?  Because this is not planned work, its search and destroy type stuff, some things may go wrong and have to be cleaned up.  Remember to set time and scope constraints to pre-mitigate some of the damage.  Also remember that boy scouts can be annoying so only raise this flag with a majority consenus.
+
+#### COWBOYING
+
+The team grants the permission, under a flag, to go through the codebase and actively find, in the opinion of the "cowboy", problems and fix them.
+ The flag must be visually raised on the board and have generally accepted constraints by way of time and scope.  This is a break from normal process, usually 
+ instigated in an emergency or when there is some unknown problem that needs to be found, so there needs to be a reconcillation at the close of the card.  The "Cowboy" must inform the team of changes made and the team must generally accept them good or bad.  Why bad?  Because this is not planned work, its search and destroy type stuff, some things may go wrong and have to be cleaned up.  Remember to set time and scope constraints to pre-mitigate some of the damage.  Also remember that cowboy's can cause as many problems as they solve so only raise this flag with a majority consenus.
+
 
 ## Summary
 Obviously this is going to require some negotiation with the team do keep your changes visible and get consensus.
