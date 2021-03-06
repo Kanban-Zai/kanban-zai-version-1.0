@@ -2,6 +2,12 @@
 
 These direct the day to day behaviour of your team.  They will likely be different for each and every team, although there could be common themes.
 
+* Team norms as decided on by the team and changed via a deviation.  
+* They define the operational boundaries of team culture ( no need for HR )
+* New people coming in should be familiarised with them
+* they should be splattered all over the walls so they can be pointed at by anyone at any time.  
+* Overtime they define the team culture.
+
 ## EXTENDING KANBAN-ZAI
 
 Team Norms are your path to making Kanban-Zai fit your team, and even change with the team and the times.
