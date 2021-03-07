@@ -28,17 +28,19 @@ Limit the amount of work in play at any one time.  It is to easy to get caught u
 #### T-SHIRT SIZING
 Approximate the size of each chunk of work, it helps long term.
 
-#### BOY-SCOUTING
+#### BOY-SCOUT
+Essentially boy scouting is clearing technical debt as a regular practice which anyone can do all the time.  This is actually more dangerous and expensive than it sounds.
 
-This is a great norm to have for your team when it is at risk of dying the "Death of a Thousand Cuts".  With the consensus of the team the boy scout will take a collection of cards and conglomerate them into one card and then work through the items on the card.  And only those items.  The boy scout must not deviate from 
-card and there should be time and scope constraints on the card.   Any work not completed within the time and scope constraint must be recarded with any insights
-to feed back into the process
+#### COWBOY
+Under this setting members of the team are working fast and loose and generally leaving a wake of technical debt and everyone is ok with it.  This is a good way
+to start a project sometimes.  Ultimatley though the tech debt is going to weigh you down, but it stretches the costing model out months or years.
 
-#### COWBOYING
+#### AMORTIZE
+Leave as little tech debt as possible and record what you do leave.  The team can reguarly choose to clear up some tech tebt OR leave it until new work comes along
+and it is removed.  This is a balance between Boy-Scout and Cowboy.
 
-The team grants the permission, under a flag, to go through the codebase and actively find, in the opinion of the "cowboy", problems and fix them.
- The flag must be visually raised on the board and have generally accepted constraints by way of time and scope.  This is a break from normal process, usually 
- instigated in an emergency or when there is some unknown problem that needs to be found, so there needs to be a reconcillation at the close of the card.  The "Cowboy" must inform the team of changes made and the team must generally accept them good or bad.  Why bad?  Because this is not planned work, its search and destroy type stuff, some things may go wrong and have to be cleaned up.  Remember to set time and scope constraints to pre-mitigate some of the damage.  Also remember that cowboy's can cause as many problems as they solve so only raise this flag with a majority consenus.
+#### TEST DRIVEN DEVELOPMENT
+This is a very formal seting which requires all developers tho be disciplined.  It adds technical debt in the form of tests and in the form of code depending on your settings. How this is implemented will have a very big impact on your team.
 
 
 ## Summary
