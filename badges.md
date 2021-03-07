@@ -18,6 +18,6 @@ regular updates must be made.
 
 ## Wild
 
-This badge falls between Nuclear and Standard.  By choosing this badge the team expects and ackowledges this card will invole a lot of investigation and will take 
+This badge falls between Nuclear and Standard.  By choosing this badge the team expects and ackowledges this card will involve a lot of investigation and will take 
 more time and may only result in a series of cards being written.  Any solution that comes from a wild card is probably going to be neccasarily more complcated but 
-it is still a surgical intervention.
+it is still a surgical intervention and it is not to be confused with a spike.  Expect code changes from a wild card.
