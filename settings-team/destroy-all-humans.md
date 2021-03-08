@@ -1,8 +1,8 @@
 # This is how you destroy a team real quick!
 
-Trust is hard, once broken its hard to fix.  So how do you do it?
+Trust is hard, once broken its hard to fix.
 
-## Major Reasons
+## Major Reasons why trust breaks down
 * Inability or unwilliness to negotiate a consensus.
 * Collusion and the formation of cliques because now 1 person has 2 votes.
 * Non team members affecting the internal running of the team in any way.
@@ -16,4 +16,4 @@ Trust is hard, once broken its hard to fix.  So how do you do it?
 * Overly enthusiastic people.
 * People affected to much by impostor syndrome - causes very defensive behaviours
 * People not affected enough by impostor syndrome - causes very offensive behaviours
-* Surprising people 
+* Surprising people - 
