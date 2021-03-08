@@ -29,8 +29,6 @@ There are some core immutable principles your team need to take on-board, withou
   * RESPECT -
   * TEAM NORMS  - Your team's standard operational settings.
 
- 
-
 ## CULTURE
 
 It is important to create a work environment where those who want to grow, and are prepared to commit to it, are able to do so.  To that end there is no assumption of what the culture in any given team should or will be.  There are guidelines on how a teams culture can avoid colliding with the core principles of Kanban-Zai
@@ -60,6 +58,3 @@ Kanban-Zai is a collaboration process.
 A deviation is a formal method of changing settings.  Dont do it at any other time.  Keep it short and involve everybody.  A deviation is not a retrospective
 in the agile sense.  But, for example, a deviation allows you to indroduce ( or remove ) a Team-Norm retrospective.
 
-## CONTRIBUTING
-
-Contribute the way you would to any other open source project.  Raise a pull request.

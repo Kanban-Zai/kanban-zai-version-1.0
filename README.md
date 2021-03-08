@@ -37,3 +37,13 @@ Breaching any part of this license revokes your right to publically declare, any
 This license applys to all legal entities including but not limited to individual people, companies, partnerships, sole traders, dogs called max, Artifical Intelligences, movie producers...I don't know...you name it, it applies.
 
 In light of the above please note that the Kanban-Zai core is an open source framework that you may contribute to via a pull request in github or by joining the Kanban-Zai core team.
+
+#### PERSONAL RECOMENDATIONS
+
+It’s mentally tough trying to explain simplicity to people. 
+They all want it to be difficult, I think. It isn’t really.
+##### Edward (name and company withheld)
+
+
+#### CITATIONS
+
