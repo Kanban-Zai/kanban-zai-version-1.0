@@ -9,7 +9,8 @@ want.  However you must not use the Kanban-Zai assigned names.
 
 All cards are standard cards unless a badge has been deliberatley included on the card.  
 The default standard behaviour is to do only what is neccasary.  The simplest thing to achieve the goal usually to make 
-test pass but as not all projects are TDD consider that developer scope is limited.
+test pass but as not all projects are TDD consider that developer scope is limited.  It this case the simplest this quite 
+synonomous with "The least work right now", regardless of the technical debt this would undoubtedly create.
 
 ## Investigation Required
 
