@@ -1,18 +1,10 @@
 # Kanban-Zai Core Manifesto
 
-* This repo describes the core idea of Kanban-Zai.  
-* This is an open sorce project with a holistic intent.
-
-Kanban-Zai was born of the tens of thousands of hours experience in Agile and other methodologies from a collection of 
-developers who long for a better way of doing things.
-
-## WHAT IS KANBAN-ZAI?
-
-Kanban-Zai is project framework that encourages an objective reality and developer discipline on a daily basis.
+This manifesto describes the core idea of an open source social contract for development teams.
 
 ## CONTRIBUTE
 
-If you have something to add please sumbit a pull request.
+If you have something to add please submit a pull request.
 
 ## JOIN
 
@@ -54,12 +46,12 @@ sole traders, dogs called max, Artifical Intelligences, movie producers...I don'
 In light of the above please note that the Kanban-Zai core is an open source framework that you may contribute to via 
 a pull request in github or by joining the Kanban-Zai core team.
 
-#### PERSONAL RECOMENDATIONS
+#### PERSONAL RECOMMENDATIONS
 
 It’s mentally tough trying to explain simplicity to people. 
 They all want it to be difficult, I think. It isn’t really.
 ##### Edward (name and company withheld)
 
 
-#### CITATIONS
+## CITATIONS
 

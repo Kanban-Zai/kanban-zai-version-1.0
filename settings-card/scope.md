@@ -14,7 +14,8 @@ consider that developer scope is limited.  It this case the simplest this quite 
 
 ## Maintainable 
 
-Work assigned to this type of card may address a larger scope than the previous setting.
+Work assigned to this type of card may address a larger scope than the previous setting.  Primarily this is where this 
+card touches other parts of the system.
 
 ## Carte Blanche
 

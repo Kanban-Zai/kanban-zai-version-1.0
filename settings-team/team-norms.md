@@ -13,7 +13,13 @@ These direct the day to day behaviour of your team.  They will likely be differe
 #### QUORUM OVERRIDES
 
 To keep everything running with as little overhead as possible a quorum team members can override
-all team and card settings except the team norms which maybe changed by running a deviation.
+all team and card settings except the team norms which maybe changed by running a deviation.  The definition
+of a quorum in Kanban-Zai is this.  To vote there must be the number of team members present to achieve a
+majority vote.
+
+#### NO ABSTAINING
+
+You may not abstain from a vote you are present for.
 
 #### NO SURPRISES
 
@@ -25,11 +31,6 @@ Don't do it.  You will be glad you listened.
 Team Norms are your path to making Kanban-Zai fit your team, and even change with the team and the times.
 Here are a few that you can adopt when you first begin with Kanban-Zai.  Longer term they may not fit, but in the
 beginning they will help a lot.
-
-#### QUORUM
-
-This is the minimum number of team members required to override general team business including card settings and team
-settings but not including team norms.
 
 #### BACKPORTING
 In many cases cards are generally estimates (guesses) of what needs to be done.  You just dont know what you dont know 

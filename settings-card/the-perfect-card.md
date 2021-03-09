@@ -19,8 +19,9 @@ The more cards there are the great the risk of staleness.
 
 ## A set of rules to put a card into play
 
-* Assign an estimate
-* Assign a badge
+* A definition of done to constrain the depth of work
+* A scope to constrain the breadth of work
+* A Size to constrain the length
 
 ## Progressing a card
 
