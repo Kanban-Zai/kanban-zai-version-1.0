@@ -5,7 +5,8 @@ Document source url: https://github.com/Kanban-Zai/core.git
 
 ## WHY KANBAN-ZAI
 
-If you want to build scalable teams and enhance productivity and genuinely enrich the lives of everybody involved then Kanban-Zai is for you.
+If you want to build scalable teams and enhance productivity and genuinely enrich the lives of everybody involved 
+then Kanban-Zai is for you.
 
 ## CORE PRINCIPLES
 

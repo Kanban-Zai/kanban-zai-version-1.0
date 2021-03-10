@@ -55,3 +55,4 @@ They all want it to be difficult, I think. It isn’t really.
 
 ## CITATIONS
 
+https://review.firstround.com/use-this-equation-to-determine-diagnose-and-repair-trust

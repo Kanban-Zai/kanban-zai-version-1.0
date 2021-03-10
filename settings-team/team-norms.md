@@ -14,8 +14,8 @@ These direct the day to day behaviour of your team.  They will likely be differe
 
 To keep everything running with as little overhead as possible a quorum team members can override
 all team and card settings except the team norms which maybe changed by running a deviation.  The definition
-of a quorum in Kanban-Zai is this.  To vote there must be the number of team members present to achieve a
-majority vote.
+of a quorum in Kanban-Zai is this.  To vote there must be the number of team members present that could in theory 
+achieve a majority vote otherwise no binding vote must be taken.
 
 #### NO ABSTAINING
 
@@ -23,8 +23,20 @@ You may not abstain from a vote you are present for.
 
 #### NO SURPRISES
 
-The definition of surprise is an action taken or a decision made in the absence of evidence for such action or decision.
-Don't do it.  You will be glad you listened.
+The definition of surprise is an action taken or a decision made or an outcome made visible in the absence of 
+evidence for such action, decision or outcome.  Don't do it.  You will be glad you listened.
+
+#### SANCTIONS
+
+A sanction is not a punishment or a reward.  It is a record of a team member deviating from the team norms or going 
+out of bounds of a card or breaking the bounds of Kanban-Zai in some fashion.  
+
+This is neither a good or bad thing by itself.  For example many experienced developers break protocol all the time
+as do many inexperienced developers.  Additionally maybe your team requires someone like this or really wants to run
+a tight ship.
+
+As a team you are required to record sanctions, but only with a QUORUM. It should never be recorded why a team member is
+working for you currently or no longer working for you.
 
 ## OPTIONAL TEAM NORMS AND EXTENDING KANBAN-ZAI
 
@@ -50,13 +62,14 @@ Essentially boy scouting is clearing technical debt as a regular practice which 
 This is actually more dangerous and expensive than it sounds.
 
 #### COWBOY
-Under this setting members of the team are working fast and loose and generally leaving a wake of technical debt 
-and everyone is ok with it.  This is a good way to start a project sometimes.  Ultimatley though the tech debt is 
-going to weigh you down, but it stretches the costing model out months or years.
+Under this setting members of the team are working fast and loose to dimisish a sudden avalance of work with the
+downside of leaving a wake of technical debt.  This is a good way to start a project sometimes.  
+Ultimatley though the tech debt is going to weigh you down, but it stretches the costing model 
+out months or years.
 
  
 #### TEST DRIVEN DEVELOPMENT
-This is a very formal seting which requires all developers tho be disciplined.  It adds technical debt in the form of
+This is a very formal setting which requires all developers to be disciplined.  It adds technical debt in the form of
  tests and in the form of code depending on your settings. 
  How this is implemented will have a very big impact on your team.
 
