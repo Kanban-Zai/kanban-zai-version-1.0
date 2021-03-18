@@ -38,17 +38,18 @@ a tight ship.
 As a team you are required to record sanctions, but only with a QUORUM. It should never be recorded why a team member is
 working for you currently or no longer working for you.
 
+#### BACKPORTING
+In many cases cards are generally estimates (guesses) of what needs to be done.  You just dont know what you dont know 
+sometimes.  However during the course of the work you may drop something, add something or change something about 
+the card.  Record this change, split out new cards or combine existing ones.  The goal of backporting is for the card 
+to represent what was done rather than what was asked for.
+
+
 ## OPTIONAL TEAM NORMS AND EXTENDING KANBAN-ZAI
 
 Team Norms are your path to making Kanban-Zai fit your team, and even change with the team and the times.
 Here are a few that you can adopt when you first begin with Kanban-Zai.  Longer term they may not fit, but in the
 beginning they will help a lot.
-
-#### BACKPORTING
-In many cases cards are generally estimates (guesses) of what needs to be done.  You just dont know what you dont know 
-sometimes.  However during the course of the work you may drop something, add something or change someting about the card.  
-Record this change, split out new cards or combine existing ones.  
-The goal of backporting is for the card to represent what was done rather than what was asked for.
 
 #### SPEED LIMIT
 Limit the amount of work in play at any one time.  It is to easy to get caught up in just pumping out work.  
@@ -62,7 +63,7 @@ Essentially boy scouting is clearing technical debt as a regular practice which 
 This is actually more dangerous and expensive than it sounds.
 
 #### COWBOY
-Under this setting members of the team are working fast and loose to dimisish a sudden avalance of work with the
+Under this setting members of the team are working fast and loose to diminish a sudden avalance of work with the
 downside of leaving a wake of technical debt.  This is a good way to start a project sometimes.  
 Ultimatley though the tech debt is going to weigh you down, but it stretches the costing model 
 out months or years.
