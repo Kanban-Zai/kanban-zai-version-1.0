@@ -1,23 +1,21 @@
-# THE KANBAN-ZAI MANIFESTO ( VERSION 2 )
-Fail Fast Adapt Fast
+# THE KANBAN-ZAI MANIFESTO ( VERSION 2 | QAPLA')
 Document source url: https://github.com/Kanban-Zai/
 
 ## WHAT IS KANBAN-ZAI
 
-Kanban-Zai is a social contract between all stake holders
+Kanban-Zai enables execution teams to "Fail Fast", "Adapt Fast" and move forward with objectivity.
 
 ## WHY KANBAN-ZAI
 
-If you want to build scalable teams that are local or remote and enhance productivity and genuinely enrich the 
+If you want to build scalable teams that are local or remote, enhance productivity and genuinely enrich the 
 lives of everybody involved then Kanban-Zai is for you.
 
 ## CORE PRINCIPLES
 
-* CONSENSUS   - Ensure everyone is one the same page.
-* TRUST       - Which must be nurtured by stakeholders.
-* FEEDBACK    - everyone needs it.  ALL the time. 
-* DISCIPLINE  - Every one in the team must follow the collaborative process
-* DEVIATIONS  - The one and only meeting Kanban-Zai enforces.  Run monthly, unless there is 100% consensus against it.
+* TRUST 
+* CONSENSUS
+* FEEDBACK
+* DISCIPLINE
 
 ## GETTING STARTED
 
@@ -38,6 +36,14 @@ There are some core immutable principles your team need to take on-board, withou
   * RESPECT -
   * TEAM NORMS  - Your team's standard operational settings.
 
+## EXTEND
+
+The formal process for extending Kanban-Zai is by running a deviation. This is the one and only meeting Kanban-Zai 
+enforces.  Run monthly, unless there is 100% consensus against it.  You dont have to change settings in a deviation
+but it provides a regular opportunity for anyone to do so.  
+
+Via a deviation you may change the team Norms and settings.
+
 
 ## THE PROCESS
 
@@ -48,7 +54,8 @@ Kanban-Zai is a collaboration process.  Conceptually the larger team is separate
 * Execution Team    - Responsible for taking a backlog of work and creating a product.
 
 ### The Vision Team
-Primarily comprises of the Client, End Users, Product Owner
+
+Primarily comprises of the Client, End Users, Product Owner.
 
 As the saying goes.  The feet walk where the eyes lead.  It does not work that well the other
 way around.  It also does not work that well when the feet both walk and lead.

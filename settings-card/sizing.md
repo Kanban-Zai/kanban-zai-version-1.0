@@ -15,4 +15,4 @@ Fibbonaci sequence pointing
 
 # Tee-Shirt Sizing
 
-xs, s, m, l, xl
+ This setting enforces the t-shirt sizing of cards - xs, s, m, l, xl

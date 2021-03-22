@@ -2,18 +2,13 @@
 
 ## SIZING
 
-    Tee-Shirt Sizing
-
-This is a broad setting that will give a reasonable return on time spent 
-in planning.
+    Tee-Shirt Sizing - This setting enforces the t-shirt sizing of cards
 
 ## SCOPE
-    Constrained
-
-Allows you to get work done and keep a sembalance of code sanity  
+    Constrained - This setting enforces a very narrow code scope.  You may not follow threads without a quorum.
 
 ## DOD
 
-    Progressive
+    Progressive - Address technical debt that work on this card produces.
      
 Allows you to get work done and keep a sembalance of code sanity  

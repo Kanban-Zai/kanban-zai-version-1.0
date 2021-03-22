@@ -1,0 +1,13 @@
+DEVIATIONS:
+  - :
+    type: norm
+    
+    description:  Describe this deviation
+    reason: why was this deviation
+    date: 11/27/2015
+  - :
+    type: setting
+
+    description:  Describe this deviation
+    reason: why was this deviation
+    date: 11/27/2015

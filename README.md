@@ -1,6 +1,6 @@
 # Kanban-Zai Core Manifesto
 
-This manifesto describes the core idea of an open source social contract for development teams.
+This manifesto describes the core idea of an open source social contract for execution teams.
 
 ## CONTRIBUTE
 
@@ -15,15 +15,12 @@ If you would like to help curate and guide Kanban-Zai then request to join the c
 To implement Kanban-Zai in your project all you need to do is formally adopt the Kanban-Zai core by creating a version 
 repository including the version of Kanban-Zai core that you are adopting in the read me.  
 
-You will also need to document your team norms, past and present and date of implementation or expulsion and a reason
-for implementation or expulsion.
+## EXTEND
 
-Additionally team members past and present must be able to add commentary to commentary.md file via a pull request which 
-you must include unaltered and in a timely fashion.
+One size does not fit all when it comes to an execution team.  It is quite likley that you will want to or need to
+extend the Kanban-Zai core you better fit your team.
 
-The required files can be found in the extension folder.
-
-## NOTES
+## COMMITMENT
 
 Kanban-Zai core will be continuously improved, however no minor version will ever change the meaning of the major 
 version.  If there is a significant deviation in meaning the minor version will then become the next major version.
