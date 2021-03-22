@@ -1,6 +1,6 @@
 # Kanban-Zai Core Manifesto
 
-This manifesto describes the core idea of an open source social contract for execution teams.
+This manifesto describes the core idea of an open source social contract for Software Development Execution teams.
 
 ## CONTRIBUTE
 

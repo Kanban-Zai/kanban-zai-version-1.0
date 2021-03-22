@@ -3,7 +3,7 @@ Document source url: https://github.com/Kanban-Zai/
 
 ## WHAT IS KANBAN-ZAI
 
-Kanban-Zai enables execution teams to "Fail Fast", "Adapt Fast" and move forward with objectivity.
+Kanban-Zai enables Software Development Eexecution teams to "Fail Fast", "Adapt Fast" and move forward with objectivity.
 
 ## WHY KANBAN-ZAI
 
@@ -12,34 +12,26 @@ lives of everybody involved then Kanban-Zai is for you.
 
 ## CORE PRINCIPLES
 
-* TRUST 
-* CONSENSUS
-* FEEDBACK
-* DISCIPLINE
+* TRUST, CONSENSUS and OBJECTIVITY
+* VISIBILITY, EVIDENCE and PRIORITY
+* FEEDBACK, DISCIPLINE, CONSITIENCY
+
+Development can be a very subjective world as it brings together people from, many, different walks of life.  A software
+development execution team (S.D.E) no longer contains only software developers ( and has not for a long time now).
+Different people have different ideas, and this is a good thing but the responsibility of an S.D.E is to execute one 
+idea.  A collection of ideas is not useful at execution time.
+
+Getting to that one idea can be very tricky sometimes.
 
 ## GETTING STARTED
 
-It is probably not worth implementing any form of management process if you are 3 or less in a team, but if your team 
-has outside influences in any form it's probably worth considering.
-
-There are some core immutable principles your team need to take on-board, without which you are not doing Kanban-Zai.
-
-  * VISIBILITY  - this is an important factor in trust, consenus and feedback.  However you communicate, what needs to 
-                  be achieved should be visible to all team members.  There should be one source of truth for the work 
-                  ahead.  This means no personal task lists.
-  * OBJECTIVITY - Personal opinion does not matter.  A consensus of opinions does.
-  * EVIDENCE    - There should be evidence compelling the team to start a peice of work and evidence to compel the team
-                  to cease that peice of work.
-  * PRIORITY    - All things can be done as long as they are prioritized.  When deadlines are required priority defines
-                  what is descoped.
-  * CONSISTENCY - 
-  * RESPECT -
-  * TEAM NORMS  - Your team's standard operational settings.
+To get started, just choose to implement Kanban-Zai.  Run with the default settings for a while.  See how it goes. if
+you need to change something then run a deviation meeting and extend your implementation.
 
 ## EXTEND
 
 The formal process for extending Kanban-Zai is by running a deviation. This is the one and only meeting Kanban-Zai 
-enforces.  Run monthly, unless there is 100% consensus against it.  You dont have to change settings in a deviation
+enforces.  Run monthly, unless there is a full consensus against it.  You dont have to change settings in a deviation
 but it provides a regular opportunity for anyone to do so.  
 
 Via a deviation you may change the team Norms and settings.

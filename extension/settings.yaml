@@ -42,6 +42,15 @@ SETTINGS:
     date: 01/01/2021
   - :
     type: norm
+    name: norm-devation-meeting
+    status: default
+    modifiable: false
+    required: true
+    description: The team must run a deviation meeting once per calendar month.  This meeting can be forestall with full
+    consensus.
+    date: 01/01/2021
+  - :
+    type: norm
     name: norm-quorum-overrides
     status: default
     modifiable: false
