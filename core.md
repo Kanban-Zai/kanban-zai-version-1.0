@@ -1,4 +1,4 @@
-# THE KANBAN-ZAI MANIFESTO ( VERSION 2 | QAPLA')
+# THE KANBAN-ZAI PROTOCOL ( VERSION 2 | QAPLA')
 Document source url: https://github.com/Kanban-Zai/
 
 ## WHAT IS KANBAN-ZAI
