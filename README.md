@@ -1,4 +1,4 @@
-# Kanban-Zai Core Manifesto
+# The Kanban-Zai Protocol
 
 This manifesto describes the core idea of an open source social contract for Software Development Execution teams.
 
