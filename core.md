@@ -3,25 +3,27 @@ Document source url: https://github.com/Kanban-Zai/
 
 ## WHAT IS KANBAN-ZAI
 
-Kanban-Zai enables Software Development Eexecution teams to "Fail Fast", "Adapt Fast" and move forward with objectivity.
+Kanban-Zai enables collaboration teams to "Fail Fast", "Adapt Fast" and move forward with objectivity.
 
 ## WHY KANBAN-ZAI
 
 If you want to build scalable teams that are local or remote, enhance productivity and genuinely enrich the 
 lives of everybody involved then Kanban-Zai is for you.
 
-## CORE PRINCIPLES
+## BENEFITS
 
-* TRUST, CONSENSUS and OBJECTIVITY
-* VISIBILITY, EVIDENCE and PRIORITY
-* FEEDBACK, DISCIPLINE, CONSITIENCY
+The main benefit of Kanban-Zai to all is a team who's every action is based on facts and evidence and consensus rather 
+than personal bias.  In other words Objectivity.
 
-Development can be a very subjective world as it brings together people from, many, different walks of life.  A software
-development execution team (S.D.E) no longer contains only software developers ( and has not for a long time now).
-Different people have different ideas, and this is a good thing but the responsibility of an S.D.E is to execute one 
-idea.  A collection of ideas is not useful at execution time.
+###FOR EMPLOYERS
+* Increase your available talent pool.
+* Fit Kanban-Zai to your business.
+* Kanban-Zai does not change or dictate your internal processes.
 
-Getting to that one idea can be very tricky sometimes.
+###FOR EMPLOYEES
+* Immediate familiarity with process.
+* 
+* 
 
 ## GETTING STARTED
 
@@ -37,6 +39,28 @@ but it provides a regular opportunity for anyone to do so.
 Via a deviation you may change the team Norms and settings.
 
 
+---
+
+
+## THE PYRAMID OF PRINCIPLES
+
+The principles of Kanban-Zai are a pyramid with objectivity at the peak.
+
+                                OBJECTIVITY
+                         TRUST | CONSENSUS | EVIDENCE
+       VISIBILITY | DISCIPLINE | CONSISTIENCY | FEEDBACK | PRIORITY
+
+Collaboration can be a very subjective world as it brings together people from, many, different walks of life.  
+Different people have different ideas.  It is very easy for personal bias to creep into any process and objectivity
+suffers.  If objectivity suffers you can just flip the pyramid upside down to see what happens. 
+
+       VISIBILITY | DISCIPLINE | CONSISTIENCY | FEEDBACK | PRIORITY
+                         TRUST | CONSENSUS | EVIDENCE
+                                OBJECTIVITY  <---- Crumbling objectivity = A bad day for everyone
+
+Objectivity, as well as all the other principles, must be constantly maintained.  Lose one, lose all.
+
+                                
 ## THE PROCESS
 
 Kanban-Zai is a collaboration process.  Conceptually the larger team is separated into 3 teams.
