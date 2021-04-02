@@ -54,22 +54,6 @@ Team Norms are your path to making Kanban-Zai fit your team, and even change wit
 Here are a few that you can adopt when you first begin with Kanban-Zai.  Longer term they may not fit, but in the
 beginning they will help a lot.
 
-#### SPEED LIMIT
-Limit the amount of work in play at any one time.  It is to easy to get caught up in just pumping out work.  
-By taking some time out you can save time in the future.
-
-#### T-SHIRT SIZING
-Approximate the size of each chunk of work, it helps long term.
-
-#### BOY-SCOUT
-Essentially boy scouting is clearing technical debt as a regular practice which anyone can do all the time.  
-This is actually more dangerous and expensive than it sounds.
-
-#### COWBOY
-Under this setting members of the team are working fast and loose to diminish a sudden avalance of work with the
-downside of leaving a wake of technical debt.  This is a good way to start a project sometimes.  
-Ultimatley though the tech debt is going to weigh you down, but it stretches the costing model 
-out months or years.
 
  
 #### TEST DRIVEN DEVELOPMENT

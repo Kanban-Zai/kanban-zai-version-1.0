@@ -1,0 +1,102 @@
+Kanban-Zai:
+  version: 1
+  speed-limit: 2
+  tech-debt: minimum
+  card-sizing: T-Shirt
+  card-scope: card-only
+  code-tinker: no-tinkering
+
+  settings:
+
+    - :
+      recordtype: team-norm
+      name: norm-devation-meeting
+      status: default
+      modifiable: false
+      required: true
+      description: The team must run a deviation meeting once per calendar month.  This meeting can be forestall with full
+      consensus.
+      date: 01/01/2021
+    - :
+      recordtype:  team-norm
+      name: norm-quorum-overrides
+      status: default
+      modifiable: false
+      required: true
+      description: A quorum may override the previous consenus
+      date: 01/01/2021
+    - :
+      recordtype:  team-norm
+      name: norm-no-abstainees
+      status: default
+      modifiable: false
+      required: true
+      description: You may not abstain from a vote you are present for.
+      date: 01/01/2021
+    - :
+      recordtype:  team-norm
+      name: norm-no-surprises
+      status: default
+      modifiable: false
+      required: true
+      description: The definition of surprise is an action taken or a decision made or an outcome made visible in the
+      absence of evidence for such action, decision or outcome.  Don't do it.  You will be glad you listened.
+      date: 01/01/2021
+    - :
+      recordtype:  team-norm
+      name: norm-sanctions
+      status: default
+      modifiable: false
+      required: true
+      description: A sanction is not a punishment or a reward.  It is a record of a team member deviating from the team
+        norms or going out of bounds of a card or breaking the bounds of Kanban-Zai in some fashion.
+        This is neither a good or bad thing by itself.  For example many experienced developers break protocol all the
+        time as do many inexperienced developers.  Additionally maybe your team requires someone like this or really
+        wants to run a tight ship.  As a team you are required to record sanctions, but only with a QUORUM. It should
+        never be recorded why a team member is working for you currently or no longer working for you.
+      date: 01/01/2021
+    - :
+      recordtype:  team-norm
+      name: norm-backporting
+      status: default
+      modifiable: false
+      required: true
+      description: In many cases cards are generally estimates (guesses) of what needs to be done.  You just dont know
+      what you dont know sometimes.  However during the course of the work you may drop something, add something or change
+      something about the card.  Record this change, split out new cards or combine existing ones.  The goal of
+      backporting is for the card to represent what was done rather than what was asked for.
+      date: 01/01/2021
+    - :
+      recordtype:  team-norm
+      name: norm-no-collusion
+      status: default
+      modifiable: false
+      required: true
+      description: Each member of the team must provide thier vote and only thiers.  Colluding with others is not allowed.
+      date: 01/01/2021
+  sanctions:
+    -:
+      recordtype: about
+      name: sanctions
+      value: example
+      status: default
+      modifiable: false
+      consensus: full
+      required: true
+      description: A sanction is merely a record of team consensus.  It is not an indicator of punishment it just
+      represents when a team member, for any reason, deviated from the restrictions of Kanban-Zai.  All team members
+      past and present must be recorded. It should never be recorded in here why a team member is working for you
+      currently or no longer working for you.
+      date: 01/01/2021
+  feedback:
+    - :
+      recordtype: about
+      name: feedback
+      value: example
+      status: default
+      modifiable: false
+      consensus: none
+      required: true
+      description: This is the place for team members past and present to comment on their experience of Kanban-Zai
+      on your team.
+      date: 01/01/2021

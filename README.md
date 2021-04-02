@@ -12,8 +12,8 @@ If you would like to help curate and guide Kanban-Zai then request to join the c
 
 ## IMPLEMENT
 
-To implement Kanban-Zai in your project all you need to do is formally adopt the Kanban-Zai core by creating a version 
-repository including the version of Kanban-Zai core that you are adopting in the read me.  
+To implement Kanban-Zai in your project all you need to do is formally adopt the [Kanban-Zai core](https://github.com/Kanban-Zai/kanban-zai-core/blob/main/core.md) 
+by creating a github repository including the version of Kanban-Zai core that you are adopting in the read me.  
 
 ## EXTEND
 
