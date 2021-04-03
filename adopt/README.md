@@ -10,31 +10,3 @@ Currently these properties are as follows.
 * settings
 * sanctions
 * feedback
-
-##Creating a setting
-
-      type: recordtype
-      name: settings
-      value: example
-      status: default
-      modifiable: false
-      consensus: none
-      required: true
-      description: Records the current and past settings of your team.  This is your teams extension of Kanban-Zai.
-      on your team.
-      date: 01/01/2021
-      
-
-### Property Documentation
-    type - Defines the recordtype.  Can be any of the following values [ about | setting | norm ]
-    name - Setting name.  Currently one of [ card-sizing | card-scope | card-definiton-of-done ]
-    value - Any text value
-    status: default
-    modifiable: false
-    consensus: none
-    required: true
-    description: Records the current and past settings of your team.  This is your teams extension of Kanban-Zai.
-    on your team.
-    date: 01/01/2021
-##Creating a setting
- 

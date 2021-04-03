@@ -1,4 +1,4 @@
-# THE KANBAN-ZAI PROTOCOL ( VERSION 2 | QAPLA')
+# THE KANBAN-ZAI PROTOCOL.  VERSION 2.
 Document source url: https://github.com/Kanban-Zai/
 
 ## WHAT IS KANBAN-ZAI
@@ -15,15 +15,11 @@ lives of everybody involved then Kanban-Zai is for you.
 The main benefit of Kanban-Zai to all is a team who's every action is based on facts and evidence and consensus rather 
 than personal bias.  In other words Objectivity.
 
-###FOR EMPLOYERS
+### FOR EMPLOYERS
 * Increase your available talent pool.
-* Fit Kanban-Zai to your business.
-* Kanban-Zai does not change or dictate your internal processes.
 
-###FOR EMPLOYEES
-* Immediate familiarity with process.
-* 
-* 
+### FOR EMPLOYEES
+* Immediate familiarity with the process in a new role.
 
 ## GETTING STARTED
 
@@ -112,11 +108,6 @@ Tese just acknowledges where you are in your thinking and actions around a parti
 project is small you are likley to only refer the entire project tense, on a bigger project, different aspects will
 have different tenses.  It is important to know tht predictions about delivery can only be made when you are working
 in "Future Tense".
-
-### Scaling
-    Pairing
-    Parallelism
-
 
 ## DEVIATIONS
 
