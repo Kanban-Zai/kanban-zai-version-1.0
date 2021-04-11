@@ -2,6 +2,58 @@
 
 This manifesto describes the core idea of an open source social contract for Software Development Execution teams.
 
+## WHAT IS KANBAN-ZAI
+
+Kanban-Zai is a human centric collaboration protocol.  The first release is aimed at software development teams, but
+in time we hope it will find utility elsewhere also.
+
+## WHY KANBAN-ZAI
+
+These days "Automation" is the mantra of many businesses.  In these times it is easy to forget that it is humans who
+are running the show.  Humans do not always gel together as well as they could and are not all at the same level of
+knowledge or experience in life.
+
+This last statement is often countered with "My company only hires the best people".   Well.  Assuming the person
+saying that believes it to be a truthful statement then the counter question would be "who do google, facebook, apple 
+and microsoft have?"
+
+The reality is you probably are not hiring what you consider the best people, and the term "best people" is somewhat of
+a fallacy.  People are different, dont always see eye to eye and have followed a different path through life.  
+Kanban-Zai takes the view that this is THE ASSET that any team wants, people with a different perspective.
+
+Where there are people there are politics.  Politics is great when out in the open.  In-fact it can generate robust
+team narrative and lead to a better consensus.  More than that, politics in the open can be reined in if those politics 
+become not about the team narrative.
+
+When politics becomes subversive and not openly disscussed it can very quickly erode trust and objectivity because 
+a part of the team (more than one person) is now colluding against another part of the team, in the shadows.
+
+If this happens your team is done.  The nastiness of it will ebb and flow as people leave and new people arrive. Infact
+ this personel churn is one of the traditional metrics of determine problems in an organisation or team.  However, once
+the rot sets in it is very difficult to remove.
+
+one of the two primary ideas behind Kanban-zai core is to protect a team from this scenario.  To protect a team 
+from itself.
+
+The second of those primary ideas is to protect the team from politics external to the team.  This is not a new idea
+and many forms of agile account for this already, with varying degrees of success.
+
+
+## BENEFITS
+
+The main benefit of Kanban-Zai to all is a team who's every action is based on facts and evidence and consensus rather 
+than personal bias.  In other words Objectivity.
+
+### FOR EMPLOYERS
+* People want to work 
+* Increase your available talent pool.
+* Attract talent that want to work in Kanban-Zai
+* Minimise team attrition 
+
+### FOR EMPLOYEES
+* work in Kanban-Zai
+* 
+
 ## CONTRIBUTE
 
 If you have something to add please submit a pull request.
@@ -12,7 +64,7 @@ If you would like to help curate and guide Kanban-Zai then request to join the c
 
 ## IMPLEMENT
 
-To implement Kanban-Zai in your project all you need to do is formally adopt the [Kanban-Zai core](https://github.com/Kanban-Zai/kanban-zai-core/blob/main/core.md) 
+To implement Kanban-Zai in your project all you need to do is formally adopt the [Kanban-Zai core](https://github.com/Kanban-Zai/kanban-zai-core/blob/main/module-core.md) 
 by creating a github repository including the version of Kanban-Zai core that you are adopting in the read me.  
 
 ## EXTEND
@@ -53,3 +105,11 @@ They all want it to be difficult, I think. It isn’t really.
 ## CITATIONS
 
 https://review.firstround.com/use-this-equation-to-determine-diagnose-and-repair-trust
+
+## CREDITS
+
+    Max Aston https://www.linkedin.com/in/maxashton/
+    Sunil Patel https://www.linkedin.com/in/sunilpatelqa/
+    Suki Bains https://www.linkedin.com/in/suki-bains-0745473/
+    Paul Sanderson https://www.linkedin.com/in/paul-sanderson-27a6731a5/
+    Andy Hoyle https://www.linkedin.com/in/andyhoyle/

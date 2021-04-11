@@ -1,0 +1,45 @@
+Kanban-Zai:
+  version: 1
+  speed-limit: 2
+  tech-debt: minimum
+  card-sizing: T-Shirt
+  card-scope: card-only
+  tinkering: none
+  quroum: 2
+  deviation-frequency: 1 month
+  bugs: last
+  norms:
+    - :
+      url: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/docs/norm-consenus.md
+      date: 01/01/2021
+    - :
+      url: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/docs/norm-backporting.md
+      date: 01/01/2021
+    - :
+      url: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/docs/norm-voice.md
+      date: 01/01/2021
+  protests:
+    -:
+    when: date
+    who:  your email address or your-kanban-zai-url here
+    what: A protest is a public declaration of an individual team members difference of opinion from team consensus that
+          they feel is important to record.
+  sanctions:
+    -:
+    when: date
+    who: your email address or your-kanban-zai-url here
+    what: A sanction is merely a record of team consensus.  It is not an indicator of punishment it just
+    represents when a team member, for any reason, deviated from the restrictions of Kanban-Zai.  All team members
+    past and present must be recorded. It should never be recorded in here why a team member is working for you
+    currently or no longer working for you.
+  feedback:
+    - :
+    when: date
+    who: your email address  or your-kanban-zai-url here
+    what: This is the place for team members past and present to comment on their experience of Kanban-Zai on your team.
+    date: 01/01/2021
+  history:
+    - :
+      past employees
+      past employers
+      um...
