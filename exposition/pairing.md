@@ -1,3 +1,3 @@
 # Pairing
 
-isn't it just a waste of money?
+Version 1 off kanbanzai has no concept of pairing.

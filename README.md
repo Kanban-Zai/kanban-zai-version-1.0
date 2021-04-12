@@ -29,8 +29,8 @@ When politics becomes subversive and not openly disscussed it can very quickly e
 a part of the team (more than one person) is now colluding against another part of the team, in the shadows.
 
 If this happens your team is done.  The nastiness of it will ebb and flow as people leave and new people arrive. Infact
- this personel churn is one of the traditional metrics of determine problems in an organisation or team.  However, once
-the rot sets in it is very difficult to remove.
+ this personel churn-over is one of the traditional metrics of determine problems in an organisation or team.  However, 
+once the rot sets in it is very difficult to remove.
 
 one of the two primary ideas behind Kanban-zai core is to protect a team from this scenario.  To protect a team 
 from itself.
@@ -41,17 +41,26 @@ and many forms of agile account for this already, with varying degrees of succes
 
 ## BENEFITS
 
-The main benefit of Kanban-Zai to all is a team who's every action is based on facts and evidence and consensus rather 
+The main benefit of Kanban-Zai to all is a team who's actions are based on facts, evidence and consensus rather 
 than personal bias.  In other words Objectivity.
 
-### FOR EMPLOYERS
-* People want to work 
+### As an EMPLOYER what's in it for me?
+* Continuity of knowledge.
+* Saving time by not being able to micro manage.
+* Mitigate the impact of churn-over.
+* Minimise the impact of the spinning your wheels.
 * Increase your available talent pool.
 * Attract talent that want to work in Kanban-Zai
-* Minimise team attrition 
+* Minimise team attrition.
 
-### FOR EMPLOYEES
-* work in Kanban-Zai
+
+### What benefits does a team get
+* Objectivity
+* Smoother collaboration.
+* 
+
+### As an individual what do i get?
+* Objectivity regardless of experience
 * 
 
 ## CONTRIBUTE

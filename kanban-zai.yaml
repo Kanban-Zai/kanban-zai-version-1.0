@@ -1,22 +1,28 @@
 Kanban-Zai:
   version: 1
+  quroum: 2
+  cards-only: always
+  boy-scouting: never
+  tinkering: never
+  pairing: undefined
   speed-limit: 2
-  tech-debt: minimum
+  payback-tech-debt: never
   card-sizing: T-Shirt
   card-scope: card-only
-  tinkering: none
-  quroum: 2
+  sprint-length: 5 days
+  lead-time: 12 weeks
   deviation-frequency: 1 month
   bugs: last
+
   norms:
     - :
-      url: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/docs/norm-consenus.md
+      url: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/docs/norms/norm-consenus.md
       date: 01/01/2021
     - :
-      url: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/docs/norm-backporting.md
+      url: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/docs/norms/norm-backporting.md
       date: 01/01/2021
     - :
-      url: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/docs/norm-voice.md
+      url: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/docs/norms/norm-voice.md
       date: 01/01/2021
   protests:
     -:
@@ -37,7 +43,6 @@ Kanban-Zai:
     when: date
     who: your email address  or your-kanban-zai-url here
     what: This is the place for team members past and present to comment on their experience of Kanban-Zai on your team.
-    date: 01/01/2021
   history:
     - :
       past employees
