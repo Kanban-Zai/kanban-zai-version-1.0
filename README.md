@@ -1,6 +1,6 @@
 # The Kanban-Zai Protocol
 
-This manifesto describes the core idea of an open source social contract for Software Development Execution teams.
+This manifesto describes the core idea of an open source social contract for Software Delivery Teams.
 
 
 ## BENEFITS
@@ -30,7 +30,7 @@ than personal bias.  In other words Objectivity.
 
 ## WHAT IS KANBAN-ZAI
 
-Kanban-Zai is a human centric collaboration protocol.  The first release is aimed at software development teams, but
+Kanban-Zai is a human centric collaboration protocol.  The first release is aimed at software delivery teams (S.D.T), but
 in time we hope it will find utility elsewhere also.
 
 It contains 4 modules.
@@ -125,7 +125,7 @@ They all want it to be difficult, I think. It isn’t really.
 
 ## CITATIONS
 
-https://review.firstround.com/use-this-equation-to-determine-diagnose-and-repair-trust
+* https://review.firstround.com/use-this-equation-to-determine-diagnose-and-repair-trust
 
 ## CREDITS
 
