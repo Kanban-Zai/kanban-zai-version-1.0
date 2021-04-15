@@ -11,6 +11,13 @@ contains sensible defaults for your team.
 
 Congratulations you are now practicing Kanban-Zai.
 
+## HOW IT WORKS
+
+once you have created your Kanban-Zai.yaml and published it you a public repo you are "doing Kanban-Zai".
+
+The next step is to run a deviation and choose the settings and team norms you want to start your team with.
+
+
 ## EXTEND
 
 The formal process for extending Kanban-Zai is by running a deviation. This is the one and only meeting Kanban-Zai 

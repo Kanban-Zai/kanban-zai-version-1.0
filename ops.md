@@ -33,12 +33,12 @@ Kanban-Zai is a collaboration process.  Conceptually the larger team is separate
 
 ### The Vision Team
 
-The vision teams role is to protect the teams bugdet and protect the team from outside micro management.
+The vision team takes the raw idea from the client and outputs epics.  The process through which this happens is
+the process that protects the team from the outside world.
 
-This must be achieved by engaging the client and taking the their idea and moulding it into costable
-packets that can be passed to the planning team.  The clients idea must be taken from what they think 
-they want to something that is practically buildable.  It also must account for the current appitite for
-the idea.
+Epics are the clients vision realized over time. Each epic has an approximate budget and an approximate build order 
+aggreed with the client.
+ 
 
 Not all ideas are equal and each must be balanced against many things
 

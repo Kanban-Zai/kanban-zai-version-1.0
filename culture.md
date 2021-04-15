@@ -53,3 +53,6 @@ less skilled in some aspect of the project or have entirely different skills tha
 
 Regardless they must all have access to the same information, the same reasoning, the same goal set, as everyone else.
 
+## organized spontaneity
+
+Dont do it

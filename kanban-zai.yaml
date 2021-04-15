@@ -10,7 +10,7 @@ Kanban-Zai:
   card-sizing: T-Shirt
   card-scope: card-only
   sprint-length: 5 days
-  lead-time: 12 weeks
+  backlog-length: 12 weeks
   deviation-frequency: 1 month
   bugs: last
 

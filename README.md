@@ -2,10 +2,44 @@
 
 This manifesto describes the core idea of an open source social contract for Software Development Execution teams.
 
+
+## BENEFITS
+
+The main benefit of Kanban-Zai to all is a team who's actions are based on facts, evidence and consensus rather 
+than personal bias.  In other words Objectivity.
+
+### As an EMPLOYER what's in it for me?
+* Continuity of knowledge.
+* Saving time by not being able to micro manage.
+* Mitigate the impact of churn-over.
+* Minimise the impact of the spinning your wheels.
+* Increase your available talent pool.
+* Attract talent that want to work in Kanban-Zai
+* Minimise team attrition.
+
+
+### What benefits does a team get
+* Objectivity
+* Smoother collaboration.
+* 
+
+### As an individual what do i get?
+* Objectivity regardless of experience
+* 
+
+
 ## WHAT IS KANBAN-ZAI
 
 Kanban-Zai is a human centric collaboration protocol.  The first release is aimed at software development teams, but
 in time we hope it will find utility elsewhere also.
+
+It contains 4 modules.
+    * core       - Defines the boundries of the team and enforces objectivity.
+    * continuity - Provides best practices for maintaining the continuity of knowledge in your team.
+    * operations - Provides a standard Kanban-Zai operational process.
+    * culture    - Best, but generalized, practices to help keep everybody on the same page.
+
+You must implement all 4 in version 1 of Kanban-Zai.
 
 ## WHY KANBAN-ZAI
 
@@ -39,47 +73,23 @@ The second of those primary ideas is to protect the team from politics external 
 and many forms of agile account for this already, with varying degrees of success.
 
 
-## BENEFITS
 
-The main benefit of Kanban-Zai to all is a team who's actions are based on facts, evidence and consensus rather 
-than personal bias.  In other words Objectivity.
+---
 
-### As an EMPLOYER what's in it for me?
-* Continuity of knowledge.
-* Saving time by not being able to micro manage.
-* Mitigate the impact of churn-over.
-* Minimise the impact of the spinning your wheels.
-* Increase your available talent pool.
-* Attract talent that want to work in Kanban-Zai
-* Minimise team attrition.
+## CONTRIBUTE OR JOIN!
 
-
-### What benefits does a team get
-* Objectivity
-* Smoother collaboration.
-* 
-
-### As an individual what do i get?
-* Objectivity regardless of experience
-* 
-
-## CONTRIBUTE
-
-If you have something to add please submit a pull request.
-
-## JOIN
-
-If you would like to help curate and guide Kanban-Zai then request to join the crew through the github team.
+If you have something to add please submit a pull request. If you would like to help curate and guide Kanban-Zai then
+ request to join the crew through the github team.
 
 ## IMPLEMENT
 
-To implement Kanban-Zai in your project all you need to do is formally adopt the [Kanban-Zai core](https://github.com/Kanban-Zai/kanban-zai-core/blob/main/module-core.md) 
+To implement Kanban-Zai in your project all you need to do is formally adopt the [Kanban-Zai core](https://github.com/Kanban-Zai/kanban-zai-core/blob/main/core.md) 
 by creating a github repository including the version of Kanban-Zai core that you are adopting in the read me.  
 
 ## EXTEND
 
 One size does not fit all when it comes to an execution team.  It is quite likley that you will want to or need to
-extend the Kanban-Zai core you better fit your team.
+extend the Kanban-Zai core you better fit your team. [Kanban-Zai core](https://github.com/Kanban-Zai/kanban-zai-core/blob/main/extend.md) 
 
 ## COMMITMENT
 
@@ -104,6 +114,8 @@ sole traders, dogs called max, Artifical Intelligences, movie producers...I don'
 In light of the above please note that the Kanban-Zai core is an open source framework that you may contribute to via 
 a pull request in github or by joining the Kanban-Zai core team.
 
+---
+
 #### PERSONAL RECOMMENDATIONS
 
 It’s mentally tough trying to explain simplicity to people. 
@@ -117,8 +129,17 @@ https://review.firstround.com/use-this-equation-to-determine-diagnose-and-repair
 
 ## CREDITS
 
+    These people had a direct hand in the development of Kanban-Zai whether they knew it or not.
+    
     Max Aston https://www.linkedin.com/in/maxashton/
     Sunil Patel https://www.linkedin.com/in/sunilpatelqa/
     Suki Bains https://www.linkedin.com/in/suki-bains-0745473/
     Paul Sanderson https://www.linkedin.com/in/paul-sanderson-27a6731a5/
     Andy Hoyle https://www.linkedin.com/in/andyhoyle/
+    
+    These people, over the years, provided some of the inspiration behind the creation of Kanban-Zai,
+    and they probably have no idea about that fact.
+    
+    Zak Holdsworth https://www.linkedin.com/in/zakholdsworth/    <-- this guy
+    Howard Van Rooijen https://www.linkedin.com/in/howardvanrooijen/
+    Edward scothcer https://www.linkedin.com/in/edwardscotcher/
