@@ -21,7 +21,7 @@ than personal bias.  In other words Objectivity.
 ### What benefits does a team get
 * Objectivity
 * Smoother collaboration.
-* 
+* nice place to work
 
 ### As an individual what do i get?
 * Objectivity regardless of experience
@@ -33,13 +33,15 @@ than personal bias.  In other words Objectivity.
 Kanban-Zai is a human centric collaboration protocol.  The first release is aimed at software delivery teams (S.D.T), but
 in time we hope it will find utility elsewhere also.
 
-It contains 4 modules.
-    * core       - Defines the boundries of the team and enforces objectivity.
-    * continuity - Provides best practices for maintaining the continuity of knowledge in your team.
-    * operations - Provides a standard Kanban-Zai operational process.
-    * culture    - Best, but generalized, practices to help keep everybody on the same page.
+It contains 5 modules.
 
-You must implement all 4 in version 1 of Kanban-Zai.
+* core       - Defines the boundries of the team and enforces objectivity.
+* culture    - Defines some cultural boundries inside the team
+* continuity - Provides best practices for maintaining the continuity of knowledge in your team.
+* operations - Provides a standard Kanban-Zai operational process.
+* extend     - Best practices to extend Kanban-Zai
+
+You must implement all 5 in version 1 of Kanban-Zai.
 
 ## WHY KANBAN-ZAI
 
