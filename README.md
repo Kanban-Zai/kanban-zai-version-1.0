@@ -83,14 +83,14 @@ If you have something to add please submit a pull request. If you would like to 
 
 ## IMPLEMENT
 
-To implement Kanban-Zai in your project all you need to do is formally adopt the [Kanban-Zai core](https://github.com/Kanban-Zai/kanban-zai-core/blob/main/core.md) 
-by creating a github repository including the version of Kanban-Zai core that you are adopting in the read me.  
+To implement Kanban-Zai in your project all you need to do is formally adopt the [Kanban-Zai core](https://github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/0-core.md) 
+by creating a github repository including a valid kanban-zai.yaml file.
 
 ## EXTEND
 
-One size does not fit all when it comes to an execution team.  It is quite likley that you will want to or need to
-extend the Kanban-Zai core you better fit your team. [Kanban-Zai core](https://github.com/Kanban-Zai/kanban-zai-core/blob/main/extend.md) 
-
+One size does not fit all when it comes to an Software Delivery Team.  It is quite likley that you will want to or 
+need to extend Kanban-Zai to better fit your team. [Extend Kanban-Zai](https://github.com/Kanban-Zai/kanban-zai-core/blob/main/4-extend.md) will explain to you how to go about extending your implementation of Kanban-Zai.
+ 
 ## COMMITMENT
 
 Kanban-Zai core will be continuously improved, however no minor version will ever change the meaning of the major 
@@ -135,6 +135,7 @@ They all want it to be difficult, I think. It isn’t really.
     Sunil Patel https://www.linkedin.com/in/sunilpatelqa/
     Suki Bains https://www.linkedin.com/in/suki-bains-0745473/
     Paul Sanderson https://www.linkedin.com/in/paul-sanderson-27a6731a5/
+    William Tonkin-Howe https://www.linkedin.com/in/william-tonkin-howe-1b57843/
     Andy Hoyle https://www.linkedin.com/in/andyhoyle/
     
     These people, over the years, provided some of the inspiration behind the creation of Kanban-Zai,
@@ -142,4 +143,4 @@ They all want it to be difficult, I think. It isn’t really.
     
     Zak Holdsworth https://www.linkedin.com/in/zakholdsworth/    <-- this guy
     Howard Van Rooijen https://www.linkedin.com/in/howardvanrooijen/
-    Edward scothcer https://www.linkedin.com/in/edwardscotcher/
+    Edward scotcher https://www.linkedin.com/in/edwardscotcher/

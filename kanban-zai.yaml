@@ -12,6 +12,8 @@ Kanban-Zai:
   sprint-length: 5 days
   backlog-length: 12 weeks
   deviation-frequency: 1 month
+  documentation-strategy: strict
+
   bugs: last
 
   norms:

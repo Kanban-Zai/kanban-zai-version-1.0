@@ -2,33 +2,35 @@
 
 It is important to create a work environment where those who want to grow, and are prepared to commit to it, are able 
 to do so.  To that end there is no assumption of what the culture in any given team should or will be.  There are 
-guidelines on how a teams culture can avoid colliding with the core principles of Kanban-Zai.
+guidelines on how the team culture can avoid colliding with the core principles of Kanban-Zai.
 
 * It is also important to understand that the purpose of Kanban-Zai is not to dictate to a team about how they 
 should act and behave, how they should code, if they should test and why they should not be a silo.
 * Adopting Kanban-Zai should not impose a cultural change upon your team.  You work how you work, 
 you like what you like, you reap what you sow.
-* Kanban-Zai should be thought of as the glue that binds disparte parts of the puzzle together
+* Kanban-Zai should be thought of as the glue that binds different parts of the puzzle together
 * Most importantly Kanban-Zai presents an objective perspective to all members of the team.
 
-## The Prime Directive
+# BEST "CULTURAL" PRACTICES
 
-"Follow The Process"!  The Kanban-Zai process can be thought of as a cybernetic algorithm.  It is a process that lets
-computers do the things they are good at and humans do the things that they are good at.
+## Follow The Process
 
-## Kanban-Zai is NOT magic.
+The Kanban-Zai process can be thought of as a cybernetic algorithm.  It is a process that lets
+computers do the things they are good at and humans do the things that they are good at.  One should not mess 
+with the other
+
+## You are not harry potter and this is not hogwarts and Kanban-Zai is NOT magic.
 
 It is the humans that provide the power to the process.  They can only do that if individual efforts are 
 collectively, focused through the lens of the process.  Said another way, team members must WANT to be working on 
 a Kanban-Zai team.
 
-
 ## People are people
 
 People fail, are unreliable, don't communicate well, feel they are not up to the task, like to blame others, make
-mistakes, do things wrong, have lives outside the team and are not robots.  Get used to it, and extend your teams
-adoption of Kanban-Zai to accomodate the quirks of your current team.  If your team changes, you may have to modify
-your implementation.
+mistakes, do things wrong, have lives outside the team and are not robots.  So what. Get used to it, and extend 
+your teams adoption of Kanban-Zai to accomodate the quirks of your current team.  If your team changes, you may have
+ to modify your implementation.
 
 ## Your opinion does not matter.  At All.
 
