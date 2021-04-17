@@ -1,4 +1,4 @@
-# THE KANBAN-ZAI PROTOCOL.  VERSION 2.
+# THE KANBAN-ZAI PROTOCOL.  VERSION 2. - This page is unfinished
 Document source url: https://github.com/Kanban-Zai/
 
 ## GETTING STARTED
@@ -13,7 +13,7 @@ Congratulations you are now practicing Kanban-Zai.
 
 ## HOW IT WORKS
 
-once you have created your Kanban-Zai.yaml and published it you a public repo you are "doing Kanban-Zai".
+once you have created your Kanban-Zai.yaml and published it to a public repo you are "doing Kanban-Zai".
 
 The next step is to run a deviation and choose the settings and team norms you want to start your team with.
 

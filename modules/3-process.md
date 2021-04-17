@@ -1,29 +1,4 @@
-#PROCESS
-
-
----
-
-
-## THE PYRAMID OF PRINCIPLES
-
-The principles of Kanban-Zai are a pyramid with objectivity at the peak.
-
-                                OBJECTIVITY
-                         TRUST | CONSENSUS | EVIDENCE
-       VISIBILITY | DISCIPLINE | CONSISTIENCY | FEEDBACK | PRIORITY
-
-Collaboration can be a very subjective world as it brings together people from, many, different walks of life.  
-Different people have different ideas.  It is very easy for personal bias to creep into any process and objectivity
-suffers.  If objectivity suffers you can just flip the pyramid upside down to see what happens. 
-
-       VISIBILITY | DISCIPLINE | CONSISTIENCY | FEEDBACK | PRIORITY
-                         TRUST | CONSENSUS | EVIDENCE
-                                OBJECTIVITY  <---- Crumbling objectivity = A bad day for everyone
-
-Objectivity, as well as all the other principles, must be constantly maintained.  Lose one, lose all.
-
-                                
-## THE PROCESS
+#PROCESS - This page is unfinished
 
 Kanban-Zai is a collaboration process.  Conceptually the larger team is separated into 3 teams.
 
@@ -31,9 +6,41 @@ Kanban-Zai is a collaboration process.  Conceptually the larger team is separate
 * Planning Team     - Responsible for taking a concept and creating a backlog of work.
 * Execution Team    - Responsible for taking a backlog of work and creating a product.
 
-### The Vision Team
+## The Vision Team
 
-The vision team takes the raw idea from the client and outputs epics.  The process through which this happens is
+The role of the vision team is to manifest the clients vision into relevance. 
+
+Every client has a winning idea, and even if that was true some winning ideas win more than others.  Sometimes other
+ideas that are not as good do better at market.
+
+This is the primary question the vision team must ask.  Is the idea viable?
+ 
+The actual answer to that question does not matter.  Because more often than not the idea itself is not even fully formed
+and it is the job of the vision team to fully realize the idea. 
+ 
+To do this the vision team must consider 3 things.
+
+1. The technology
+2. the business model
+3. The Zeitgeist
+ 
+### Technology
+This is less actual technology and more capability. Sometimes we are talking tech, sometimes it could be a 100 monkeys
+locked in a room with typewriters.  Both are a form of automation, both provide a capability, both are scalable,
+both require no extrodinary special skill on the part of the business entity.  All that matters is what can be done and
+what cannot be done and how that fits the business model and the market.
+
+### The Business Model
+Plain and simple. How is this idea going to be moneytized
+
+### The Zeitgeist
+Meaning the ghost of the times it is made up of things like Market Fit, Public Appitite, Problem being solved,
+and other subjective ideas.
+
+
+ takes the raw idea from the client and outputs epics.  
+
+The process through which this happens is
 the process that protects the team from the outside world.
 
 Epics are the clients vision realized over time. Each epic has an approximate budget and an approximate build order 
@@ -77,6 +84,9 @@ There is no measure of velocity in Kanban-Zai. The execution team takes work fro
 backlog in t-shirt sized chunks.  There is a measure of tense in Kanban-Zai.  Tense is used in the same way as it is 
 normally used past tense, future tense.  At the start of a project the whole team will be working "Past Tense".  
 The goal being to move to "Future Tense".
+
+The ability of a team member to split and join cards as needed is a required part of the process.
+
 
 ### Sprints
 One week sprints are strictly enforced in Kanban-Zai.  This is because there is no velocity measure.  So instead we

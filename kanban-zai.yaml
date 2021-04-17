@@ -1,6 +1,7 @@
 Kanban-Zai:
   version: 1
   quroum: 2
+  predictions:
   cards-only: always
   boy-scouting: never
   tinkering: never

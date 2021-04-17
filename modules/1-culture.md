@@ -1,4 +1,4 @@
-# CULTURE
+# CULTURE - This page is unfinished
 
 It is important to create a work environment where those who want to grow, and are prepared to commit to it, are able 
 to do so.  To that end there is no assumption of what the culture in any given team should or will be.  There are 
