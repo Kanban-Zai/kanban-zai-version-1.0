@@ -1,9 +1,11 @@
 #PROCESS - This page is unfinished
 
-Kanban-Zai is a collaboration process.  Conceptually the larger team is separated into 3 teams.
+Kanban-Zai is a collaboration process.  
+
+Conceptually the larger team is separated into 3 teams.
 
 * Vision team       - Responsible for constraining the over-arching path the team takes.
-* Planning Team     - Responsible for taking a concept and creating a backlog of work.
+* Scheduling Team     - Responsible for maintaining the schedule of work.
 * Execution Team    - Responsible for taking a backlog of work and creating a product.
 
 ## The Vision Team
@@ -15,13 +17,15 @@ ideas that are not as good do better at market.
 
 This is the primary question the vision team must ask.  Is the idea viable?
  
-The actual answer to that question does not matter.  Because more often than not the idea itself is not even fully formed
-and it is the job of the vision team to fully realize the idea. 
+The actual answer to that question does not matter.  Because more often than not the idea itself is not even fully 
+formed.  It is the job of the vision team to fully realize the idea. 
  
-To do this the vision team must consider 3 things.
+The time spent doing this is determined by the [PREDICTION SETTING](https://github.com/Kanban-Zai/kanban-zai-core/blob/main/extensions/setting-predictions.md) but the method is the same.
 
-1. The technology
-2. the business model
+This process must consider 3 things.
+
+1. The Technology
+2. The Business Model
 3. The Zeitgeist
  
 ### Technology
@@ -31,53 +35,58 @@ both require no extrodinary special skill on the part of the business entity.  A
 what cannot be done and how that fits the business model and the market.
 
 ### The Business Model
-Plain and simple. How is this idea going to be moneytized
+Plain and simple. How is this idea going to be monetized.
 
 ### The Zeitgeist
-Meaning the ghost of the times it is made up of things like Market Fit, Public Appitite, Problem being solved,
-and other subjective ideas.
-
-
- takes the raw idea from the client and outputs epics.  
-
-The process through which this happens is
-the process that protects the team from the outside world.
-
-Epics are the clients vision realized over time. Each epic has an approximate budget and an approximate build order 
-aggreed with the client.
+Meaning the ghost of the times it is made up of things like Market Fit, Public Appitite for the idea, The Problem 
+being solved and other subjective ideas.
  
+## The Golden Halo
 
-Not all ideas are equal and each must be balanced against many things
+If you imaging these 3 ideas as being represented as a Zen Diagram.  Inside each ring of the diagram you write the pros
+and cons of the idea based on the ring they are in.  Will the market accept the idea, is the market desperate for it,
+where will the technology break down, will the business model constrain the technology.  All these things must be 
+considered and arranged into the diagram.  Negatives push the rings apart and positives pull the rings together.  If
+all 3 rings sit exactly ontop of one another then you have achieved the GOLDEN HALO and you are onto a guaranteed winner.
 
+More often than not this will not happen and you will now be considering..."The Zen Diagram of fuckedness"
+
+        [ PICTURE OF THE ZEN DIAGRAM OF FUCKEDNESS ]
+        
                       Business model --- Technology
                                   Zeitgeist
 
-This is known as the Zen diagram of Fuckedness.  Your idea  sits at the center of the 3 circles.  The larger
-the intersection the more viable the idea.
+The viable part of your idea sits at the intersection of the 3 rings.  The larger the intersection the more viable the 
+idea.  The goal is to make that intersection as large as possible and fit as much in there as they can THAT IS RELEVANT
+to the idea at hand.  Only this way can you get a clear picture of the product.
 
-Budget,  
+Of course the Z.D.O.F is a communication concept rather than a magical measuring tool.  Discovering the viability and
+realizing and idea are a hard problem that generally requires multiple collaborators.  As the saying goes.  The feet 
+walk where the eyes lead.  It does not work that well the other way around.  Do not neglect this part of the process.
 
-If the technology can do all the business model requires and the zeitgeist fits the technology and the business 
-model then things are looking good.
+### Descoping.
+At this point there will be a product starting to form.  To build an epic you must now winnow it down to just the 
+important parts and remove everthing that is not important.
 
-
-Primarily comprises of the Client, End Users, Product Owner.
-
-As the saying goes.  The feet walk where the eyes lead.  It does not work that well the other
-way around.  It also does not work that well when the feet both walk and lead.
-
-The vision team must have a clear view of what they want and create the path that the team will follow.
-
-Budget must also be managed as part of the vision
+Budget must also be managed as part of the vision.  Epics must be assigned budgets and both aggreed with the client 
+before handing off to the scheduling team.  At this point only a ballpark figure should be set on the amount of time
+it will take to execute this epic.  There also should be no delivery date aggreed but a priority of 1-3 should be set.
 
 
-### The Planning Team
-Primarily comprised of the product owner, Design, UX, IA, BA, Testers, Security Advisor
-
+## The Scheduling Team
 Another saying goes the best laid plans of mice and men...refering to how plans can go wrong
-But you actually have to have a plan.  Thats where this team comes in.
+But you actually have to have a plan first in order for it to go wrong.  That's where this team comes in.
 
-### The Execution Team
+Epics come in and listed in priority order.  They are broken down into sensisble sized chunks and put into the backlog.
+These chunks are listed in execution order.
+
+### Breakdown
+### storys
+### prioritizing
+### projection deadlines
+
+
+## The Execution Team
 Primarily comprised of developers, testers, dev ops, security advisors.
 
 There is no measure of velocity in Kanban-Zai. The execution team takes work from the 

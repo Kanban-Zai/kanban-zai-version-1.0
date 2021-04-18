@@ -35,13 +35,13 @@ your teams adoption of Kanban-Zai to accomodate the quirks of your current team.
 ## Your opinion does not matter.  At All.
 
 Your VOICE on the other hand matters a-lot!  No team can function without information.  The only place a team can get 
-expert information from is other team members.  That's actually the whoe point of a team.  
+expert information from is other team members.  That's actually the whole point of a team.  
 
 Therefore All team members must offer up information.  
 
 A balance must be struck however, because when a team has members who have an existing rapport the information exchange 
 between them can be very high, however other members of the team may not get the same amount of information from the 
-exact same conversation.  conversely, new team members may be saying a lot but not relaying much information to anyone
+exact same conversation.  Conversely, new team members may be saying a lot but not relaying much information to anyone
  or worse may be going over ground everybody just covered.  
 
 The ultimate outcome of any information flow throughout the team is consensus and consensus cannot be said to have been
@@ -49,7 +49,7 @@ reached if some voting participants don't know what they are voting for.
 
 ## Make information accessible
 
-A team must work hard on this aspect of culture. otherwise all team members are not equal participants in the team and
+A team must work hard on this aspect of culture. Otherwise all team members are not equal participants in the team and
 it is very important that all members have equal standing.  Some may be less experienced with the subject matter or
 less skilled in some aspect of the project or have entirely different skills than others.  Or they might speak French.
 
@@ -57,4 +57,4 @@ Regardless they must all have access to the same information, the same reasoning
 
 ## organized spontaneity
 
-Dont do it
+Don't do it.
