@@ -128,6 +128,7 @@ They all want it to be difficult, I think. It isn’t really.
 ## CITATIONS
 
 * https://review.firstround.com/use-this-equation-to-determine-diagnose-and-repair-trust
+* https://productcoalition.com/moving-at-the-speed-of-trust-how-to-get-your-product-team-aligned-8c925e2182a2
 
 ## CREDITS
 

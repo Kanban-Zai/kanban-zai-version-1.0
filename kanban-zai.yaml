@@ -1,8 +1,9 @@
 Kanban-Zai:
   version: 1
   quroum: 2
-  predictions:
-  cards-only: always
+  consensus: positive-bias
+  predictions: loose
+  cards: default
   boy-scouting: never
   tinkering: never
   pairing: undefined

@@ -4,20 +4,7 @@
 
     This is the version of Kanban-Zai the business has commited to up holding.
 
-## cards-only
 
-    All work must be done as a result of a card in play.  Even investigation of other cards.  Cards may
-    be written and put into the backlog for later scheduling but only as a result of a card in play. Any 
-    work done, not as a result of a planned card MUST be reversed out of the repo.  
-    
-    Types of card in Kanban-Zai
-    
-    * Bugs
-    * Stories
-    * Spikes
-    * Technical Debt
-    
-    never | BAU only | Project only | Always
    
 ## boy-scouting
 

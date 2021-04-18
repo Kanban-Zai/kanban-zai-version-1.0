@@ -10,7 +10,8 @@ Conceptually the larger team is separated into 3 teams.
 
 ## The Vision Team
 
-The role of the vision team is to manifest the clients vision into relevance. 
+The role of the vision team is to manifest the clients vision into relevance by biting off chunks of the idea and 
+producing [epics](https://github.com/Kanban-Zai/kanban-zai-core/blob/main/exposition/what-are-epics.ms) 
 
 Every client has a winning idea, and even if that was true some winning ideas win more than others.  Sometimes other
 ideas that are not as good do better at market.
@@ -43,11 +44,11 @@ being solved and other subjective ideas.
  
 ## The Golden Halo
 
-If you imaging these 3 ideas as being represented as a Zen Diagram.  Inside each ring of the diagram you write the pros
+If you imagine these 3 ideas represented by a Zen Diagram.  Inside each ring of the diagram you write the pros
 and cons of the idea based on the ring they are in.  Will the market accept the idea, is the market desperate for it,
-where will the technology break down, will the business model constrain the technology.  All these things must be 
+where will the technology break down, will the business model constrain the technology?  All these things must be 
 considered and arranged into the diagram.  Negatives push the rings apart and positives pull the rings together.  If
-all 3 rings sit exactly ontop of one another then you have achieved the GOLDEN HALO and you are onto a guaranteed winner.
+all 3 rings align exactly ontop of one another then you have achieved the GOLDEN HALO and you are onto a guaranteed winner.
 
 More often than not this will not happen and you will now be considering..."The Zen Diagram of fuckedness"
 
@@ -57,12 +58,14 @@ More often than not this will not happen and you will now be considering..."The 
                                   Zeitgeist
 
 The viable part of your idea sits at the intersection of the 3 rings.  The larger the intersection the more viable the 
-idea.  The goal is to make that intersection as large as possible and fit as much in there as they can THAT IS RELEVANT
-to the idea at hand.  Only this way can you get a clear picture of the product.
+idea.  The goal is to make that intersection as large as possible and fit as much in there as possible THAT IS RELEVANT
+to the idea at hand.  Only this way can you get a clear picture.
 
 Of course the Z.D.O.F is a communication concept rather than a magical measuring tool.  Discovering the viability and
-realizing and idea are a hard problem that generally requires multiple collaborators.  As the saying goes.  The feet 
-walk where the eyes lead.  It does not work that well the other way around.  Do not neglect this part of the process.
+realizing and idea are a hard problem that generally requires multiple collaborators.  Do not minimise lightly this part
+ of the process.  
+ 
+As the saying goes.  The feet walk where the eyes lead.  It does not work that well the other way around. 
 
 ### Descoping.
 At this point there will be a product starting to form.  To build an epic you must now winnow it down to just the 
@@ -77,7 +80,7 @@ it will take to execute this epic.  There also should be no delivery date aggree
 Another saying goes the best laid plans of mice and men...refering to how plans can go wrong
 But you actually have to have a plan first in order for it to go wrong.  That's where this team comes in.
 
-Epics come in and listed in priority order.  They are broken down into sensisble sized chunks and put into the backlog.
+Epics come in and listed in priority order.  They are broken down into sensible sized chunks and put into the backlog.
 These chunks are listed in execution order.
 
 ### Breakdown
@@ -90,11 +93,21 @@ These chunks are listed in execution order.
 Primarily comprised of developers, testers, dev ops, security advisors.
 
 There is no measure of velocity in Kanban-Zai. The execution team takes work from the 
-backlog in t-shirt sized chunks.  There is a measure of tense in Kanban-Zai.  Tense is used in the same way as it is 
+backlog in sized chunks.  
+
+There is a measure of tense in Kanban-Zai.  Tense is used in the same way as it is 
 normally used past tense, future tense.  At the start of a project the whole team will be working "Past Tense".  
 The goal being to move to "Future Tense".
 
 The ability of a team member to split and join cards as needed is a required part of the process.
+
+### Consensus and breaking an impasse.
+When the team votes there are 3 types of vote, yes, no and undecided. In a situation where the yes and no votes are even
+then the undecided votes are no.
+
+If there are no undecided votes 
+* then the product owner may override prodcut decisions.
+* the [consensus setting](https://github.com/Kanban-Zai/kanban-zai-core/blob/main/extensions/setting-consensus.md) decides the outcome
 
 
 ### Sprints
