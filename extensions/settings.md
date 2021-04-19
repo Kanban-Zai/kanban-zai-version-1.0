@@ -57,10 +57,6 @@
     to the other settings.  Primarily it limits the amount of time tht any one card can be worked on.  if a card goes
     over this setting you MUST split the card.
     
-## quroum: 2
-
-    What is the minimum number of votes required to achieve a consenus.  If at least this number of eligble voters
-    are present a vote MUST note be taken.
 
 ## deviation-frequency: 1 month
     

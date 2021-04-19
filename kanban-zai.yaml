@@ -1,7 +1,7 @@
 Kanban-Zai:
   version: 1
   quroum: 2
-  consensus: positive-bias
+  consensus: positive
   predictions: loose
   cards: default
   boy-scouting: never
@@ -15,8 +15,11 @@ Kanban-Zai:
   backlog-length: 12 weeks
   deviation-frequency: 1 month
   documentation-strategy: strict
-
   bugs: last
+  core: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/culture.md
+  culture: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/culture.md
+  continuity:https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/continuity.md
+  process: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/process.md
 
   norms:
     - :
