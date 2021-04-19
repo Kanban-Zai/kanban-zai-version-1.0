@@ -1,22 +1,35 @@
-# THE KANBAN-ZAI PROTOCOL.  VERSION 2. - This page is unfinished
-Document source url: https://github.com/Kanban-Zai/
+# THE KANBAN-ZAI CORE.  VERSION 2. - This page is unfinished
 
-## GETTING STARTED
+The core of Kanban-Zai is the yaml configuration file.  This must be held in a public repo and must track all changes
+from the day it was implemented.  Deviations from this are not allowed.
 
-To get started, create a github repo.  It doesn't particularly have to be github but it must be public
-and hosted by a 3rd party.
+The first this you should note about the config file are the settings and team norms.  The settings seek to constrain
+certain behaviours and the norms seek to guide behaviour patterns.
 
-Create a file called kanban-zai.yaml and Use the kanban-zai.yaml in this project as a starter template. This yaml file 
-contains sensible defaults for your team.
+Any team member who feels they disaggree with the constraint or the norms and chooses not to be bound by them, even for
+1 single instance, must be sanctioned.  
 
-Congratulations you are now practicing Kanban-Zai.
+It is important to note a sanction is not a punishment and no action other than a sanction should be taken.  A protest
+may also be raised by the person being sanctioned.  Again this is just a record of an event happening and not a signal
+to take remedial action in the traditional sense.
 
-## HOW IT WORKS
+If a team refuses to rasie a sanction a pull request may be added to the official Kanban-Zai yaml file and a protest 
+raised there.
 
-once you have created your Kanban-Zai.yaml and published it to a public repo you are "doing Kanban-Zai".
+Additionally, any individual may maintain their own Kanban-Zai yaml file and sanction or protest there.
 
-The next step is to run a deviation and choose the settings and team norms you want to start your team with.
+## KANBAN-ZAI.YAML
 
+This file contains all information about your project, or you as an individual.  From the perspective of a team it is
+how they operate and from the perspective of an individual it is how they personally like to operate.
+
+kanban-Zai is a microservice at heart and this file may be aggregated by anyone
+
+## SETTINGS
+
+
+## NORMS
+ 
 
 ## EXTEND
 
