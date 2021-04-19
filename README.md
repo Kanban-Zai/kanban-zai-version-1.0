@@ -33,15 +33,16 @@ than personal bias.  In other words Objectivity.
 Kanban-Zai is a human centric collaboration protocol.  The first release is aimed at software delivery teams (S.D.T), but
 in time we hope it will find utility elsewhere also.
 
-It contains 5 modules.
+It contains 6 modules.
 
 1. core       - Defines the boundries of the team and enforces objectivity.
 2. culture    - Defines some cultural boundries inside the team
 3. continuity - Provides best practices for maintaining the continuity of knowledge in your team.
-4. process    - Provides a standard Kanban-Zai operational process.
-5. extend     - Best practices to extend Kanban-Zai
+4. vision     - the vision.
+5. scheduling - schedule.
+6. delivery   - execution
 
-You must implement all 5 in version 1 of Kanban-Zai.
+You must implement all 6 in version 1 of Kanban-Zai.
 
 ## WHY KANBAN-ZAI
 
@@ -73,8 +74,6 @@ from itself.
 
 The second of those primary ideas is to protect the team from politics external to the team.  This is not a new idea
 and many forms of agile account for this already, with varying degrees of success.
-
-
 
 ---
 
