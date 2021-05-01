@@ -1,5 +1,5 @@
 Kanban-Zai:
-  version: 1
+  version: 2
 
   core: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/culture.md
   culture: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/culture.md
@@ -7,12 +7,13 @@ Kanban-Zai:
   vision: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/vision.md
   scheduling: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/scheduling.md
   delivery: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/delivery.md
-
-
-  consensus-tie-breaker: positive
-  quroum-required: 2
-  deviation-frequency: 1 month
-  sprint-length: 5 days
+  custom: link to your custom module outlining settings and norms unique to your team
+  harmony: positive
+  quorum: 2
+  deviation: monthly
+  sprint: 5 days
+  roster:
+    - team member a
 
   speed-limit: 2
   definition-of-done: strict
