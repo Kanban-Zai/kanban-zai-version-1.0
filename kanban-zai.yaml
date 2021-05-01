@@ -1,25 +1,33 @@
 Kanban-Zai:
   version: 1
-  quroum: 2
-  consensus: positive
+
+  core: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/culture.md
+  culture: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/culture.md
+  continuity: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/continuity.md
+  vision: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/vision.md
+  scheduling: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/scheduling.md
+  delivery: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/delivery.md
+
+
+  consensus-tie-breaker: positive
+  quroum-required: 2
+  deviation-frequency: 1 month
+  sprint-length: 5 days
+
+  speed-limit: 2
+  definition-of-done: strict
+
   predictions: loose
   cards: default
+  backlog-length: 12 weeks
+
   boy-scouting: never
   tinkering: never
-  pairing: undefined
-  speed-limit: 2
   payback-tech-debt: never
   card-sizing: T-Shirt
   card-scope: card-only
-  sprint-length: 5 days
-  backlog-length: 12 weeks
-  deviation-frequency: 1 month
   documentation-strategy: strict
   bugs: last
-  core: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/culture.md
-  culture: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/culture.md
-  continuity:https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/continuity.md
-  process: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/process.md
 
   norms:
     - :
@@ -37,11 +45,11 @@ Kanban-Zai:
     who:  your email address or your-kanban-zai-url here
     what: A protest is a public declaration of an individual team members difference of opinion from team consensus that
           they feel is important to record.
-  sanctions:
+  audit:
     -:
     when: date
     who: your email address or your-kanban-zai-url here
-    what: A sanction is merely a record of team consensus.  It is not an indicator of punishment it just
+    what: A audit is merely a record of team consensus.  It is not an indicator of punishment it just
     represents when a team member, for any reason, deviated from the restrictions of Kanban-Zai.  All team members
     past and present must be recorded. It should never be recorded in here why a team member is working for you
     currently or no longer working for you.

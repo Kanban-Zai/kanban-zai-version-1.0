@@ -10,16 +10,37 @@ Conceptually the larger team is separated into 3 teams.
 
 ## The Vision Team
 
-The role of the vision team is to manifest the clients vision into relevance by biting off chunks of the idea and 
+The role of the vision team is to manifest the clients vision into relevance.
+
+ Every client has a winning idea, and even if that was true some winning ideas win more than others.  Sometimes other
+ ideas that are not as good do better at market.
+ 
+ This is the primary question the vision team must ask.  Is the idea viable?
+  
+ The actual answer to that question does not matter.  Because more often than not the idea itself is not even fully 
+ formed.  It is the job of the vision team to fully realize the idea. 
+ 
+
+## Client requests
+
+Client requests must be answered and there are only 3 answers a team can really give.
+
+* Yes - there is no evidential or experiential reason this request wont achieve its goal.
+* Urge not to - There is evidence or experience to suggest that this request will only achieve partial success
+* Strongly Urge not to - There is evidence or experience to suggest this request will not achieve the desired outcome
+
+## Client billing
+
+
+## Method
+
+Dur
+
+A
+by biting off chunks of the idea and 
 producing [epics](https://github.com/Kanban-Zai/kanban-zai-core/blob/main/exposition/what-are-epics.ms) 
 
-Every client has a winning idea, and even if that was true some winning ideas win more than others.  Sometimes other
-ideas that are not as good do better at market.
 
-This is the primary question the vision team must ask.  Is the idea viable?
- 
-The actual answer to that question does not matter.  Because more often than not the idea itself is not even fully 
-formed.  It is the job of the vision team to fully realize the idea. 
  
 The time spent doing this is determined by the [PREDICTION SETTING](https://github.com/Kanban-Zai/kanban-zai-core/blob/main/extensions/setting-predictions.md) but the method is the same.
 
@@ -75,3 +96,4 @@ Budget must also be managed as part of the vision.  Epics must be assigned budge
 before handing off to the scheduling team.  At this point only a ballpark figure should be set on the amount of time
 it will take to execute this epic.  There also should be no delivery date aggreed but a priority of 1-3 should be set.
 
+### Definition of done

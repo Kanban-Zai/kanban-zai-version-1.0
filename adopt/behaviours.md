@@ -31,14 +31,14 @@ evidence for such action, decision or outcome.  Don't do it.  You will be glad y
 
 #### SANCTIONS
 
-A sanction is not a punishment or a reward.  It is a record of a team member deviating from the team norms or going 
+A audit is not a punishment or a reward.  It is a record of a team member deviating from the team norms or going 
 out of bounds of a card or breaking the bounds of Kanban-Zai in some fashion.  
 
 This is neither a good or bad thing by itself.  For example many experienced developers break protocol all the time
 as do many inexperienced developers.  Additionally maybe your team requires someone like this or really wants to run
 a tight ship.
 
-As a team you are required to record sanctions, but only with a QUORUM. It should never be recorded why a team member is
+As a team you are required to record audits, but only with a QUORUM. It should never be recorded why a team member is
 working for you currently or no longer working for you.
 
 #### BACKPORTING

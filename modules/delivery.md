@@ -34,11 +34,15 @@ One week sprints are strictly enforced in Kanban-Zai.  This is because there is 
 use 1 week as a yard stick.  The idea is to take only what you can finish in one sprint.  Finish it an then move onto 
 the next.  Biting of a little chunk at a time.  Of course in practice this requires skills that almost nobody has.  
 
-Formally you do not have to finish the chunk of work you pickup in a week, but continually improve your card writing 
-until you do.  The way this happens is this.  By using 1 week as a measure, when you get to the end of one week, take
-what ever work you have not completed and transfer it to another card to be played next week.  Then rewrite the
-current card to accuratley represent what has been done.  This is now what will be tested and delivered.  Repeat this
-process every week.
+Formally there is no expectation of commitment as there is in agile and you are not expected to finish the chunk of work
+ you pickup in a week, but continually improve your card writing until you do.  The way this happens is this.  
+ By using 1 week as a measure, when you get to the end of one week, take what ever work you have not completed and 
+ transfer it to another card to be played next week.  Then rewrite the current card to accuratley represent what has 
+ been done.  This is now what will be tested and delivered.  Repeat this process every week.
+ 
+ Why go through all the work to write a new card?  Because it is a discipline and allows you to progress your understanding
+ of the work you are doing.  If you dont like rewriting cards then write then small and only pickup what you can finish 
+ in a week.  That is actually a better discipline to have.
 
 Overtime the goal is to improve the individual and team ability to write execution cards.  The two primary areas to 
 focus on when writing cards are, as in agile, value and comprehension.  In Kanban-Zai there is another factor to 
@@ -49,3 +53,5 @@ Tese just acknowledges where you are in your thinking and actions around a parti
 project is small you are likley to only refer the entire project tense, on a bigger project, different aspects will
 have different tenses.  It is important to know tht predictions about delivery can only be made when you are working
 in "Future Tense".
+
+### Definition of done

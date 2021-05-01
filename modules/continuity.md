@@ -118,6 +118,9 @@ Gossiping is enjoyable and when gossiping, people:
 * Point out and enforce social rules
 * Learn from others' mistakes
 
+### Definition of done
+none
+
 # CITATIONS
 
 * https://plato.stanford.edu/entries/common-knowledge/index.html

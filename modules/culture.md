@@ -58,3 +58,6 @@ Regardless they must all have access to the same information, the same reasoning
 ## organized spontaneity
 
 Don't do it.
+
+### Definition of done
+none

@@ -1,3 +1,7 @@
+# version:
+
+    This is the version of Kanban-Zai the business has commited to up holding.
+
 # Consenus
 
     This setting is used to break and impasse in the team consenus voting
@@ -14,13 +18,10 @@
     
     If a quorum cannot be achieved then no vote should be take and no decision made.  
     
-    If a decision is made without the minimum of a quorum then a sanction must be raised.
+    If a decision is made without the minimum of a quorum then a audit must be raised.
 
-    If a full consenus vote is not chosen a sanction must be raised.
+    If a full consenus vote is not chosen a audit must be raised.
   
-## version: 1
-
-    This is the version of Kanban-Zai the business has commited to up holding.
 
 
 # deviation-frequency: 1 month
@@ -38,3 +39,7 @@
    
        The amount of cards the team can work on at once.  This is  strict limit that must be adhered to.
        
+   
+## definition-of-done: strict
+   
+    When do you finish?
