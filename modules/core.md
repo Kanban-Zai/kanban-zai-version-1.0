@@ -37,7 +37,8 @@ primary causes of destructiveness in teams and does not need to happen.
  * vision: link to vision module
  * scheduling: link to scheduling module
  * delivery: link to delivery module
-
+ * custom: link to your custom module outlining settings and norms unique to your team
+ 
 ### harmony
 
 Possible Values: positive | negative  DEFAULT: positive
