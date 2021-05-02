@@ -97,3 +97,9 @@ before handing off to the scheduling team.  At this point only a ballpark figure
 it will take to execute this epic.  There also should be no delivery date aggreed but a priority of 1-3 should be set.
 
 ### Definition of done
+
+Introduces settings
+## Lead time: 12 weeks
+    
+    How far in advance should the vision team speculate?
+    

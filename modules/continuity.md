@@ -118,8 +118,40 @@ Gossiping is enjoyable and when gossiping, people:
 * Point out and enforce social rules
 * Learn from others' mistakes
 
+
 ### Definition of done
 none
+
+## SETTINGS
+
+* TDD - Is testing part of your continuity strategy
+* Automation - descibes the level to which automation is a factor in your continuity strategy
+* posture - decribes the perspective the team will take on continuity
+
+
+### TDD
+
+Possible Values: true | false  DEFAULT: false
+
+A team reaching consensus can solve many  of the problems that arise but sometimes it is hard to reach consensus.  The sole purpose of this setting is tie breaking.  It is a pre-determined agreement to gain consensus if there is a tie
+in the voting.
+
+## AUTOMATION - 
+
+Possible Values: none | some other values here  DEFAULT: none
+
+Be carefull with this setting.  Setting it to the extreme one way or other requires commitment to whatever the strategy
+suggests
+
+
+Possible Values: design lead | balanced | developer lead  DEFAULT: balanced
+
+Design lead teams imply that the design and ux flow must be accomplished regardless of the problems that may occur at 
+the developer stage
+
+
+### Posture
+
 
 # CITATIONS
 

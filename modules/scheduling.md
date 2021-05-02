@@ -21,3 +21,10 @@ These chunks are listed in execution order.
 ### projection deadlines
 
 ### Definition of done
+
+Introduces settings
+
+## card-sizing: T-Shirt
+
+    T-Shirt Sizing | Complexity Points
+
