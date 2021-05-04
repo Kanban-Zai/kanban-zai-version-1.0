@@ -1,24 +1,56 @@
-# THE KANBAN-ZAI CORE.  VERSION 2.
+# INTRODUCTION
 
-All Kanban-Zai modules introduce and explain settings and team norms.  The system can be tailored to the needs of a 
-team.  
+All Kanban-Zai modules introduce and explain settings and team norms.  
+
+# DESCRIPTION
+
+### About Kanban-Zai
 
 * This core module introduces the base concepts of Kanban-Zai and some initial settings and team norms.
 * The core module may not be modified.
 * The core module must be used by ALL (100%) Kanban-Zai implementations
 
-## KANBAN-ZAI.YAML
+### How to work
 
-The core of Kanban-Zai is the yaml configuration file.  
+The default working mindset of any Kanban-Zai team is encapsulated in the principles of :-
+ 
+* automation
+* evidence
+* intuition
 
-* This must be held in a public repo.
-* All changes must be tracked from the day it was implemented.
+What this means is that constant discipline is to automate as much as possible.  Anything that can be automated, must be.
+Evidence must be continually collected and evaluated but acted upon only when its provenance is assured.  Where automation
+and evidence will not provide outcomes the teams intuition must be relied on.
 
-This file contains all information about your project, or you as an individual.  
-From the perspective of a team it is how they operate and from the perspective of an individual it is how they 
-personally like to operate.
+Disciplined application of these principles will build trust, efficiency and scalability.
 
-Kanban-Zai is a microservice at heart and this file may be aggregated by anyone.
+### Extend and customize
+
+The core of Kanban-Zai is the yaml configuration file.  Kanban-Zai is a microservice at heart and this file may be 
+aggregated by anyone, for any legal purpose.
+
+NOTE:
+* kanban-zai.yaml must be held in a public repo.
+* All changes to kanban-zai.yaml must be tracked from the day it was commited.
+
+This file contains all information about your project, or you as an individual.  From the perspective of a team it is 
+how they operate and from the perspective of an individual it is how they personally like to operate.
+
+To extend Kanban-Zai beyond the core and default modules you may create your own custom modules and formally adopt them
+through the deviation process.
+
+To create a custom module take any module as an example and modify it to suit your purpose.  You must keep the following
+sections in the listed order
+
+1. Introduction - introduces the module and gives a brief elevator pitch as to its purpose.
+2. Description - describes the detail of which the module covers
+3. Kanban-zai.yaml - Describes all setting and norms this module introduces.
+
+IMPORTANT NOTE:  your custom module must not contradict or countermand any aspect of the Kanban-Zai core module.
+
+---
+
+# KANBAN-ZAI.YAML
 
 ## SETTINGS
 
@@ -118,16 +150,3 @@ it is MANDATORY that only members of the team may change team settings and norms
 
 IMPORTANT NOTE: A deviation must be run regularly with the maximum time allowed between deviations being 3 monthly.  You
                 must run a deviation a minimum of 4 times per year to keep your Kanban-Zai status active.
-
-
-## EXTEND
-
-The formal process for extending Kanban-Zai is by running a deviation. This is the one and only meeting Kanban-Zai 
-enforces.  
-
-During a deviation AND AT NO OTHER TIME, team members vote on what their specific implementation of Kanban-Zai will
-look like by deciding what modules will be adopted and what modules will be shed and what values the settings of
-each module should have, enabling them to be kept current and reasonable. 
-
-Run it based on the setting in the Kanban-Zai file.
- 

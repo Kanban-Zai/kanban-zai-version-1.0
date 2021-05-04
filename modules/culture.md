@@ -11,7 +11,17 @@ you like what you like, you reap what you sow.
 * Kanban-Zai should be thought of as the glue that binds different parts of the puzzle together
 * Most importantly Kanban-Zai presents an objective perspective to all members of the team.
 
+# VIBING - interpersonal relationships
+
+    - sincerity
+    - no organized spontaneity
+    - dont be a dick
+    
+    
 # BEST "CULTURAL" PRACTICES
+
+There are things the team can do to smooth the path for interpersonal relationsips.  These things are designed to move
+the pressure of subject expectation and begin moving it towards something objective that everyone can aggree on.
 
 ## Follow The Process
 
@@ -47,7 +57,7 @@ exact same conversation.  Conversely, new team members may be saying a lot but n
 The ultimate outcome of any information flow throughout the team is consensus and consensus cannot be said to have been
 reached if some voting participants don't know what they are voting for.
 
-## Make information accessible
+## Make all sources of information accessible
 
 A team must work hard on this aspect of culture. Otherwise all team members are not equal participants in the team and
 it is very important that all members have equal standing.  Some may be less experienced with the subject matter or
@@ -55,9 +65,12 @@ less skilled in some aspect of the project or have entirely different skills tha
 
 Regardless they must all have access to the same information, the same reasoning, the same goal set, as everyone else.
 
-## organized spontaneity
-
-Don't do it.
-
+This is fairly easy to achieve with code, processes and documentation but much harder if the information is in different
+brains.  Therefore private list of jobs are expressly forbidden in Kanban-Zai
+ 
 ### Definition of done
 none
+
+SETTINGS
+
+* todo-lists: forbidden
