@@ -1,4 +1,4 @@
-# The Kanban-Zai Protocol
+# The Kanban-Zai Protocol - unfinished
 
 This manifesto describes the core idea of an open source social contract for Software Delivery Teams.
 
