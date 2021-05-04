@@ -140,7 +140,7 @@ in the voting.
 
 ## AUTOMATION - 
 
-Possible Values: none | some other values here  DEFAULT: none
+Possible Values: always | where practical | never  DEFAULT: always
 
 Be carefull with this setting.  Setting it to the extreme one way or other requires commitment to whatever the strategy
 suggests

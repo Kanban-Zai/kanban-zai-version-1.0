@@ -102,7 +102,32 @@ inside the team process.
 
 ## TEAM NORMS
 
-### audits 
+### FOLLOW - Follow The Process.
+
+The Kanban-Zai process can be thought of as a cybernetic algorithm.  It is a process that lets computers do the things 
+they are good at and humans do the things that they are good at.  One should not mess with the other.  
+
+THIS NORM ABOUT FOLLOW PROCESS AT ALL COSTS NEEDS TO BE WRITTEN BETTER
+
+### PEOPLE - People are people
+
+People fail, are unreliable, don't communicate well, feel they are not up to the task, like to blame others, make
+mistakes, do things wrong, have lives outside the team and are not robots.  So what. Get used to it, and extend 
+your teams adoption of Kanban-Zai to accomodate the quirks of your current team.  If your team changes, you may have
+to modify your implementation.
+
+### ACCESSIBILITY - Make all sources of information accessible.
+
+A team must work hard on this aspect of culture. Otherwise all team members are not equal participants in the team and
+it is very important that all members have equal standing.  Some may be less experienced with the subject matter or
+less skilled in some aspect of the project or have entirely different skills than others.  Or they might speak French.
+
+Regardless they must all have access to the same information, the same reasoning, the same goal set, as everyone else.
+
+This is fairly easy to achieve with code, processes and documentation but much harder if the information is in different
+brains.  Therefore private list of jobs are expressly forbidden in Kanban-Zai
+
+### AUDIT 
 
 An audit is simple a record in kanban-zai.yaml of an auditable event.
 
@@ -116,7 +141,7 @@ Who can audit?
 
 * any rostered team member
 
-### protests
+### PROTEST
 
 It is important to note a audit is not a punishment and no action other than a audit should be taken.  A protest
 may also be raised by the person being audited.  Again this is just a record of an event happening and not a signal
@@ -137,7 +162,7 @@ Who can protest through official channels
 
 * any team member pas or present
 
-### deviations
+### DEVIATION
 
 A deviation is a formal method of changing settings.  Don't do it at any other time.  Keep it short and involve 
 everybody.  
