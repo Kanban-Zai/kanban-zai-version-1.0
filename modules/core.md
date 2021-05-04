@@ -4,13 +4,13 @@ All Kanban-Zai modules introduce and explain settings and team norms.
 
 # DESCRIPTION
 
-### About Kanban-Zai
+## About Kanban-Zai
 
 * This core module introduces the base concepts of Kanban-Zai and some initial settings and team norms.
 * The core module may not be modified.
 * The core module must be used by ALL (100%) Kanban-Zai implementations
 
-### How to work
+## How to work
 
 The default working mindset of any Kanban-Zai team is encapsulated in the principles of :-
  
@@ -24,7 +24,7 @@ and evidence will not provide outcomes the teams intuition must be relied on.
 
 Disciplined application of these principles will build trust, efficiency and scalability.
 
-### Extend and customize
+## Extend and customize
 
 The core of Kanban-Zai is the yaml configuration file.  Kanban-Zai is a microservice at heart and this file may be 
 aggregated by anyone, for any legal purpose.
@@ -97,7 +97,7 @@ Possible Values: Readonly may not be modified.
 
 ### roster
 
-current members of the team.  Must sit with the team, attend team meetings and genrally be involved in the team and sit
+current members of the team.  Must sit with the team, attend team meetings and generally be involved in the team and sit
 inside the team process.
 
 ## TEAM NORMS

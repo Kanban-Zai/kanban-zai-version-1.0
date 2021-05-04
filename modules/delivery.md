@@ -1,4 +1,4 @@
-#PROCESS - This page is unfinished
+# INTRODUCTION - This page is unfinished
 
 Kanban-Zai is a collaboration process.  
 
@@ -7,7 +7,9 @@ Conceptually the larger team is separated into 3 teams.
 * Vision team       - Responsible for constraining the over-arching path the team takes.
 * Scheduling Team     - Responsible for maintaining the schedule of work.
 * Execution Team    - Responsible for taking a backlog of work and creating a product.
- 
+
+# DESCRIPTION
+
 ## The Execution Team
 Primarily comprised of developers, testers, dev ops, security advisors.
 
@@ -56,7 +58,9 @@ in "Future Tense".
 
 ### Definition of done
 
-introduces settings
+# KANBAN-ZAI.YAML
+
+## SETTINGS
    ## speed-limit: 2
    
        The amount of cards the team can work on at once.  This is  strict limit that must be adhered to.

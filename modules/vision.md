@@ -1,4 +1,4 @@
-# UNDERSTANDING THE VISION - This page is unfinished
+# INTRODUCTION - This page is unfinished
 
 Kanban-Zai is a collaboration process.  
 
@@ -7,6 +7,8 @@ Conceptually the larger team is separated into 3 teams.
 * Vision team       - Responsible for constraining the over-arching path the team takes.
 * Scheduling Team     - Responsible for maintaining the schedule of work.
 * Execution Team    - Responsible for taking a backlog of work and creating a product.
+
+# DESCRIPTION
 
 ## The Vision Team
 
@@ -98,8 +100,10 @@ it will take to execute this epic.  There also should be no delivery date aggree
 
 ### Definition of done
 
-Introduces settings
-## Lead time: 12 weeks
+# KANBAN-ZAI.YAML
+
+## SETTINGS
+### Lead time: 12 weeks
     
     How far in advance should the vision team speculate?
     

@@ -1,4 +1,4 @@
-# SCHEDULING - This page is unfinished
+# INTRODUCTION - This page is unfinished
 
 Kanban-Zai is a collaboration process.  
 
@@ -7,6 +7,8 @@ Conceptually the larger team is separated into 3 teams.
 * Vision team       - Responsible for constraining the over-arching path the team takes.
 * Scheduling Team     - Responsible for maintaining the schedule of work.
 * Execution Team    - Responsible for taking a backlog of work and creating a product.
+
+# DESCRIPTION
 
 ## The Scheduling Team
 Another saying goes the best laid plans of mice and men...refering to how plans can go wrong
@@ -21,6 +23,10 @@ These chunks are listed in execution order.
 ### projection deadlines
 
 ### Definition of done
+
+# KANBAN-ZAI.YAML
+
+## SETTINGS
 
 Introduces settings
 

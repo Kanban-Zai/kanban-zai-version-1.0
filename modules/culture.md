@@ -1,27 +1,22 @@
-# CULTURE - This page is unfinished
-
+# INTRODUCTION - This page is unfinished
 It is important to create a work environment where those who want to grow, and are prepared to commit to it, are able 
-to do so.  To that end there is no assumption of what the culture in any given team should or will be.  There are 
-guidelines on how the team culture can avoid colliding with the core principles of Kanban-Zai.
+to do so.
 
-* It is also important to understand that the purpose of Kanban-Zai is not to dictate to a team about how they 
-should act and behave, how they should code, if they should test and why they should not be a silo.
-* Adopting Kanban-Zai should not impose a cultural change upon your team.  You work how you work, 
-you like what you like, you reap what you sow.
-* Kanban-Zai should be thought of as the glue that binds different parts of the puzzle together
-* Most importantly Kanban-Zai presents an objective perspective to all members of the team.
+# DESCRIPTION
+There is no assumption of what the culture in any given team should or will be.  It is important to understand that the 
+purpose of Kanban-Zai is not to dictate to a team about how they should act and behave.  Adopting Kanban-Zai should not 
+impose a cultural change upon your team.  You work how you work, you like what you like.  Kanban-Zai should be thought 
+of as the glue that binds different parts of the puzzle together and most importantly Kanban-Zai attempts to present an 
+objective perspective to all members of the team.
 
-# VIBING - interpersonal relationships
+## Vibing - enjoy each other's company.
 
     - sincerity
     - no organized spontaneity
     - dont be a dick
     
-    
-# BEST "CULTURAL" PRACTICES
-
-There are things the team can do to smooth the path for interpersonal relationsips.  These things are designed to move
-the pressure of subject expectation and begin moving it towards something objective that everyone can aggree on.
+There are things the team can do to smooth the path for interpersonal relationships.  These things are designed to move
+the pressure of subjective expectation and begin moving it towards something objective that everyone can aggree on.
 
 ## Follow The Process
 
@@ -68,9 +63,9 @@ Regardless they must all have access to the same information, the same reasoning
 This is fairly easy to achieve with code, processes and documentation but much harder if the information is in different
 brains.  Therefore private list of jobs are expressly forbidden in Kanban-Zai
  
-### Definition of done
-none
+ 
 
-SETTINGS
+# KANBAN-ZAI.YAML
+## SETTINGS
 
 * todo-lists: forbidden
