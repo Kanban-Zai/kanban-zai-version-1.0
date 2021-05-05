@@ -1,34 +1,36 @@
 Kanban-Zai:
   version: 2
+  modules:
+   - core: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/culture.md
+   - culture: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/culture.md
+   - continuity: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/continuity.md
+   - vision: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/vision.md
+   - scheduling: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/scheduling.md
+   - delivery: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/delivery.md
+   - custom: link to your custom module outlining settings and norms unique to your team
 
-  core: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/culture.md
-  culture: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/culture.md
-  continuity: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/continuity.md
-  vision: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/vision.md
-  scheduling: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/scheduling.md
-  delivery: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/delivery.md
-  custom: link to your custom module outlining settings and norms unique to your team
-  harmony: positive
-  quorum: 2
-  deviation: monthly
-  sprint: 5 days
-  roster:
-    - team member a
+  values:
+    - people
+    - voice
+    - balance
 
-  speed-limit: 2
-  definition-of-done: strict
-
-  predictions: loose
-  cards: default
-  backlog-length: 12 weeks
-
-  boy-scouting: never
-  tinkering: never
-  payback-tech-debt: never
-  card-sizing: T-Shirt
-  card-scope: card-only
-  documentation-strategy: strict
-  bugs: last
+  settings:
+    - harmony: positive
+    - quorum: 2
+    - deviation: monthly
+    - sprint: 5 days
+    - predictions: loose
+    - cards: default
+    - backlog-length: 12 weeks
+    - boy-scouting: never
+    - tinkering: never
+    - payback-tech-debt: never
+    - card-sizing: T-Shirt
+    - card-scope: card-only
+    - documentation-strategy: strict
+    - bugs: last
+    - speed-limit: 2
+    - definition-of-done: strict
 
   norms:
     - :
@@ -40,6 +42,8 @@ Kanban-Zai:
     - :
       url: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/docs/norms/norm-voice.md
       date: 01/01/2021
+  roster:
+    - team member a
   protests:
     -:
     when: date
