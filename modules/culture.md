@@ -26,6 +26,12 @@ to present an objective perspective to all members of the team.
 ## VALUES
 
 ### PEOPLE
+
+People fail, are unreliable, don't communicate well, feel they are not up to the task, like to blame others, make
+mistakes, do things wrong, have lives outside the team and are not robots.  So what. Get used to it, and extend 
+your teams adoption of Kanban-Zai to accomodate the quirks of your current team.  If your team changes, you may have
+to modify your implementation.
+
 It is the humans that provide the power to the process.  They can only do that if individual efforts are 
 collectively, focused through the lens of the process.  Said another way, team members must WANT to be working on 
 a Kanban-Zai team and the team needs people.
@@ -42,6 +48,20 @@ between them can be very high, however other members of the team may not get the
 exact same conversation.  Conversely, new team members may be saying a lot but not relaying much information to anyone
 or worse may be going over ground everybody just covered.  So the team MUST listen and intuitivley interperet.
    
+### ACCESSIBILITY
+
+Make all sources of information accessible.
+
+A team must work hard on this aspect of culture. Otherwise all team members are not equal participants in the team and
+it is very important that all members have equal standing.  Some may be less experienced with the subject matter or
+less skilled in some aspect of the project or have entirely different skills than others.  Or they might speak French.
+
+Regardless they must all have access to the same information, the same reasoning, the same goal set, as everyone else.
+
+This is fairly easy to achieve with code, processes and documentation but much harder if the information is in different
+brains.  Therefore private list of jobs are expressly forbidden in Kanban-Zai
+
+
 
 ## SETTINGS
 

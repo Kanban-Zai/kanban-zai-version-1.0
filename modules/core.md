@@ -1,35 +1,15 @@
 # INTRODUCTION
 
-All Kanban-Zai modules introduce and explain settings and team norms.  
+All Kanban-Zai modules introduce and explain values, settings and team norms.  Not all modules introduce all things, 
+but can. 
 
 # DESCRIPTION
-
-## About Kanban-Zai
+The core of Kanban-Zai is the yaml configuration file.  Kanban-Zai is a microservice at heart and this file may be 
+aggregated by anyone, for any legal purpose.
 
 * This core module introduces the base concepts of Kanban-Zai and some initial settings and team norms.
 * The core module may not be modified.
 * The core module must be used by ALL (100%) Kanban-Zai implementations
-
-## How to work
-
-The default working mindset of any Kanban-Zai team is encapsulated in the principles of :-
- 
-* automation
-* evidence
-* intuition
-
-What this means is that constant discipline is to automate as much as possible.  Anything that can be automated, must be.
-Evidence must be continually collected and evaluated but acted upon only when its provenance is assured.  Where automation
-and evidence will not provide outcomes the teams intuition must be relied on.
-
-Disciplined application of these principles will build trust, efficiency and scalability.
-
-## Extend and customize
-
-The core of Kanban-Zai is the yaml configuration file.  Kanban-Zai is a microservice at heart and this file may be 
-aggregated by anyone, for any legal purpose.
-
-NOTE:
 * kanban-zai.yaml must be held in a public repo.
 * All changes to kanban-zai.yaml must be tracked from the day it was commited.
 
@@ -44,7 +24,7 @@ sections in the listed order
 
 1. Introduction - introduces the module and gives a brief elevator pitch as to its purpose.
 2. Description - describes the detail of which the module covers
-3. Kanban-zai.yaml - Describes all setting and norms this module introduces.
+3. Kanban-zai.yaml - Describes all values, setting and norms this module introduces.
 
 IMPORTANT NOTE:  your custom module must not contradict or countermand any aspect of the Kanban-Zai core module.
 
@@ -52,8 +32,23 @@ IMPORTANT NOTE:  your custom module must not contradict or countermand any aspec
 
 # KANBAN-ZAI.YAML
 
-## SETTINGS
+## VALUES
+The default working mindset of any Kanban-Zai team is encapsulated in the principles of :-
+ 
+### AUTOMATION
+What this means is that constant discipline is to automate as much as possible.  Anything that can be automated, must be.
 
+### EVIDENCE
+Evidence must be continually collected and evaluated but acted upon only when its provenance is assured.  
+
+### INTUITION
+Where automation and evidence will not provide outcomes the teams ability to use their collective intuition must be 
+relied on. 
+
+### DISCIPLINE
+Disciplined application of these values will build trust, efficiency and scalability.
+
+## SETTINGS
 Settings constrain behaviours.  These constraints serve to minimise ambiguity on the team.  Ambiguity is one of the
 primary causes of destructiveness in teams and does not need to happen.
  
@@ -102,30 +97,15 @@ inside the team process.
 
 ## TEAM NORMS
 
-### FOLLOW - Follow The Process.
+### FOLLOW
+
+Follow The Process.
 
 The Kanban-Zai process can be thought of as a cybernetic algorithm.  It is a process that lets computers do the things 
 they are good at and humans do the things that they are good at.  One should not mess with the other.  
 
 THIS NORM ABOUT FOLLOW PROCESS AT ALL COSTS NEEDS TO BE WRITTEN BETTER
 
-### PEOPLE - People are people
-
-People fail, are unreliable, don't communicate well, feel they are not up to the task, like to blame others, make
-mistakes, do things wrong, have lives outside the team and are not robots.  So what. Get used to it, and extend 
-your teams adoption of Kanban-Zai to accomodate the quirks of your current team.  If your team changes, you may have
-to modify your implementation.
-
-### ACCESSIBILITY - Make all sources of information accessible.
-
-A team must work hard on this aspect of culture. Otherwise all team members are not equal participants in the team and
-it is very important that all members have equal standing.  Some may be less experienced with the subject matter or
-less skilled in some aspect of the project or have entirely different skills than others.  Or they might speak French.
-
-Regardless they must all have access to the same information, the same reasoning, the same goal set, as everyone else.
-
-This is fairly easy to achieve with code, processes and documentation but much harder if the information is in different
-brains.  Therefore private list of jobs are expressly forbidden in Kanban-Zai
 
 ### AUDIT 
 
@@ -162,7 +142,7 @@ Who can protest through official channels
 
 * any team member pas or present
 
-### DEVIATION
+### DEVIATE
 
 A deviation is a formal method of changing settings.  Don't do it at any other time.  Keep it short and involve 
 everybody.  
