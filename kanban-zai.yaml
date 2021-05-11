@@ -1,14 +1,6 @@
 Kanban-Zai:
   version: 2
   modules:
-   - core: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/culture.md
-   - culture: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/culture.md
-   - continuity: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/continuity.md
-   - vision: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/vision.md
-   - scheduling: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/scheduling.md
-   - delivery: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/delivery.md
-   - custom: link to your custom module outlining settings and norms unique to your team
-
   values:
     - people
     - voice

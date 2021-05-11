@@ -1,1 +1,0 @@
-suggested settings to minimise bugs and tech debt

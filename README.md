@@ -1,48 +1,6 @@
 # The Kanban-Zai Protocol - unfinished
 
-This manifesto describes the core idea of an open source social contract for Software Delivery Teams.
-
-
-## BENEFITS
-
-The main benefit of Kanban-Zai to all is a team who's actions are based on facts, evidence and consensus rather 
-than personal bias.  In other words Objectivity.
-
-### As an EMPLOYER what's in it for me?
-* Continuity of knowledge.
-* Saving time by not being able to micro manage.
-* Mitigate the impact of churn-over.
-* Minimise the impact of the spinning your wheels.
-* Increase your available talent pool.
-* Attract talent that want to work in Kanban-Zai
-* Minimise team attrition.
-
-
-### What benefits does a team get
-* Objectivity
-* Smoother collaboration.
-* nice place to work
-
-### As an individual what do i get?
-* Objectivity regardless of experience
-* 
-
-
-## WHAT IS KANBAN-ZAI
-
-Kanban-Zai is a human centric collaboration protocol.  The first release is aimed at software delivery teams (S.D.T), but
-in time we hope it will find utility elsewhere also.
-
-It contains 6 modules.
-
-1. core       - Defines the boundries of the team and enforces objectivity.
-2. culture    - Defines some cultural boundries inside the team
-3. continuity - Provides best practices for maintaining the continuity of knowledge in your team.
-4. vision     - the vision.
-5. scheduling - schedule.
-6. delivery   - execution
-
-You must implement all 6 in version 1 of Kanban-Zai.
+This manifesto describes the core idea of an open source framework enabling teams to go further faster.
 
 ## WHY KANBAN-ZAI
 
@@ -75,6 +33,22 @@ from itself.
 The second of those primary ideas is to protect the team from politics external to the team.  This is not a new idea
 and many forms of agile account for this already, with varying degrees of success.
 
+
+## BENEFITS
+
+Kanban-Zai introduces objectivity to teams in a unique way. It pushes evidence and consensus to the forefront of all 
+processes that affect a team and protects the team from outside interference over the long term. 
+
+`Companies` that implement Kanban-Zai can benefit by having visibility of the processes being implemented by the team
+with a clarity that has not existed until now.  While Kanban-Zai does provide a development process of its own as a 
+plugable module, you can run any process inside the framework wether it is agile or your own customized choice.
+
+`Teams` benefit in two ways from a Kanban-Zai implementation.  Protection from outside forces influencing the team 
+in an unscripted fashion and protection from objective drift that can affect teams internally.
+
+`Individuals` benefit by being able to work on objective teams and have a proven history of working on Kanban-Zai teams.
+
+
 ---
 
 ## CONTRIBUTE OR JOIN!
@@ -82,16 +56,13 @@ and many forms of agile account for this already, with varying degrees of succes
 If you have something to add please submit a pull request. If you would like to help curate and guide Kanban-Zai then
  request to join the crew through the github team.
 
-## IMPLEMENT
+## IMPLEMENT AND EXTEND
 
 To implement Kanban-Zai in your project all you need to do is formally adopt the [Kanban-Zai core](https://github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/0-core.md) 
 by creating a github repository including a valid kanban-zai.yaml file.
 
-## EXTEND
+You can then extend the core with the Kanban-Zai process 101 extension
 
-One size does not fit all when it comes to an Software Delivery Team.  It is quite likley that you will want to or 
-need to extend Kanban-Zai to better fit your team. [Extend Kanban-Zai](https://github.com/Kanban-Zai/kanban-zai-core/blob/main/4-extend.md) will explain to you how to go about extending your implementation of Kanban-Zai.
- 
 ## COMMITMENT
 
 Kanban-Zai core will be continuously improved, however no minor version will ever change the meaning of the major 
@@ -149,3 +120,5 @@ They all want it to be difficult, I think. It isn’t really.
     Zak Holdsworth https://www.linkedin.com/in/zakholdsworth/    <-- this guy
     Howard Van Rooijen https://www.linkedin.com/in/howardvanrooijen/
     Edward scotcher https://www.linkedin.com/in/edwardscotcher/
+    Raf Rasile https://www.linkedin.com/in/rafrasile/
+    Cyrus Richardson https://www.linkedin.com/in/richardson/
