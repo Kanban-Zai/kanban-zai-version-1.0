@@ -4,47 +4,43 @@ The Kanban-Zai code is a process framework designed to make teams work better an
 
 # DESCRIPTION
 
-Kanban-Zai core is a framework with the  purpose of the core is to ensure that everyone follows the process, whatever 
-that looks like, and documents instances where, when, why and by whom the process was not followed.
+Kanban-Zai core is a container framework.
+ 
+It's purpose is to wrap another process ensure that the rules, procedures and boundaries of the wrapped process are 
+adhered to and provides mechanisms to document deviations from that child process.
 
-Once the core is installed you can create and extend any with any process you like by following the principles laid 
-out in the core.
+The core must be used by ALL (100%) Kanban-Zai implementations
 
-The core comes with it's own process modules which you can use as is or as examples to create your own.
-
-NOTE: Version 2 of the core requires you use the Kanban-Zai modules.
-
-
+Once the core is installed you can create and extend it with any process you like by following the principles laid 
+out in the core but the meaning and intent of the core module may not be modified by any extension
 
 
+...
 
-The core of Kanban-Zai is the yaml configuration file.  Kanban-Zai is a microservice at heart and this file may be 
-aggregated by anyone, for any legal purpose.
 
-* This core module introduces the base concepts of Kanban-Zai and some initial settings, value and team norms.
-* The core module may not be modified.
-* The core module must be used by ALL (100%) Kanban-Zai implementations
-* kanban-zai.yaml must be held in a public repo.
-* All changes to kanban-zai.yaml must be tracked from the day it was commited.
+At it's heart Kanban-Zai is a microservice and the centerpiece is the Kanban-Zai.yaml configuration file.
+ 
+This file documents the settings, values and behaviours the process defines and the team works within, must be held in a 
+public repo and should be kept up to date to keep those settings, values and behaviours current and reflective of the
+current time. All changes to this file must be tracked.
 
-This file contains all information about your project, or you as an individual.  From the perspective of a team it is 
-how they operate and from the perspective of an individual it is how they personally like to operate.
 
-To extend Kanban-Zai beyond the core and default modules you may create your own custom modules and formally adopt them
-through the deviation process.
+...
 
-To create a custom module take any module as an example and modify it to suit your purpose.  You must keep the following
-sections in the listed order
 
-1. Introduction - introduces the module and gives a brief elevator pitch as to its purpose.
-2. Description - describes the detail of which the module covers
-3. Kanban-zai.yaml - Describes all values, setting and norms this module introduces.
+To use Kanban-Zai you must extend the core.  
+
+The simplest way is to import the modules from "kanban-zai-process-101".  The modules all import settings, values and
+behaviors into the Kanban-Zai.yaml file.  You now have all you need to get a team running.
+
+You can also create your own extension by using the "kanban-zai-process-101" as a template for definine your own 
+extension.
 
 IMPORTANT NOTE:  your custom module must not contradict or countermand any aspect of the Kanban-Zai core module.
 
----
 
-# KANBAN-ZAI.YAML
+
+# Overview of the KANBAN-ZAI.YAML file.
 
 ## VALUES
 The default working mindset of any Kanban-Zai team is encapsulated in the principles of :-
