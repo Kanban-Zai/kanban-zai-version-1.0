@@ -36,25 +36,10 @@ and many forms of agile account for this already, with varying degrees of succes
 
 ## BENEFITS
 
-Kanban-Zai introduces objectivity to teams in a unique way. It pushes evidence and consensus to the forefront of all 
-processes that affect a team and protects the team from outside interference over the long term. 
-
-`Companies` that implement Kanban-Zai can benefit by having visibility of the processes being implemented by the team
-with a clarity that has not existed until now.  While Kanban-Zai does provide a development process of its own as a 
-plugable module, you can run any process inside the framework wether it is agile or your own customized choice.
-
-`Teams` benefit in two ways from a Kanban-Zai implementation.  Protection from outside forces influencing the team 
-in an unscripted fashion and protection from objective drift that can affect teams internally.
-
-`Individuals` benefit by being able to work on objective teams and have a proven history of working on Kanban-Zai teams.
+Kanban-Zai introduces objectivity to teams in a unique way. 
 
 
 ---
-
-## CONTRIBUTE OR JOIN!
-
-If you have something to add please submit a pull request. If you would like to help curate and guide Kanban-Zai then
- request to join the crew through the github team.
 
 ## IMPLEMENT AND EXTEND
 
@@ -63,10 +48,17 @@ by creating a github repository including a valid kanban-zai.yaml file.
 
 You can then extend the core with the Kanban-Zai process 101 extension
 
+## CONTRIBUTE OR JOIN!
+
+If you have something to add please submit a pull request. If you would like to help curate and guide Kanban-Zai then
+ request to join the crew through the github team.
+
 ## COMMITMENT
 
 Kanban-Zai core will be continuously improved, however no minor version will ever change the meaning of the major 
 version.  If there is a significant deviation in meaning the minor version will then become the next major version.
+
+Any changes to any version of the core will be done conservativley and as a result of robust debate.
 
 ## LICENSE
 

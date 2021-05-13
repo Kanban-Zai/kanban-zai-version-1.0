@@ -36,6 +36,8 @@ behaviors into the Kanban-Zai.yaml file.  You now have all you need to get a tea
 You can also create your own extension by using the "kanban-zai-process-101" as a template for definine your own 
 extension.
 
+norms, settings, values must have a link on the web to describe it
+
 IMPORTANT NOTE:  your custom module must not contradict or countermand any aspect of the Kanban-Zai core module.
 
 

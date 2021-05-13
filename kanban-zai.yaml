@@ -5,56 +5,26 @@ Kanban-Zai:
     - people
     - voice
     - balance
-
   settings:
     - harmony: positive
     - quorum: 2
     - deviation: monthly
     - sprint: 5 days
-    - predictions: loose
-    - cards: default
-    - backlog-length: 12 weeks
-    - boy-scouting: never
-    - tinkering: never
-    - payback-tech-debt: never
-    - card-sizing: T-Shirt
-    - card-scope: card-only
-    - documentation-strategy: strict
-    - bugs: last
-    - speed-limit: 2
-    - definition-of-done: strict
-
   norms:
     - :
       url: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/docs/norms/norm-consenus.md
       date: 01/01/2021
-    - :
-      url: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/docs/norms/norm-backporting.md
-      date: 01/01/2021
-    - :
-      url: https//github.com/Kanban-Zai/kanban-zai-core/blob/main/docs/norms/norm-voice.md
-      date: 01/01/2021
-  roster:
-    - team member a
-  protests:
-    -:
-    when: date
-    who:  your email address or your-kanban-zai-url here
-    what: A protest is a public declaration of an individual team members difference of opinion from team consensus that
-          they feel is important to record.
   audit:
     -:
+    type:
     when: date
     who: your email address or your-kanban-zai-url here
     what: A audit is merely a record of team consensus.  It is not an indicator of punishment it just
     represents when a team member, for any reason, deviated from the restrictions of Kanban-Zai.  All team members
     past and present must be recorded. It should never be recorded in here why a team member is working for you
     currently or no longer working for you.
-  feedback:
-    - :
-    when: date
-    who: your email address  or your-kanban-zai-url here
-    what: This is the place for team members past and present to comment on their experience of Kanban-Zai on your team.
+  roster:
+    - team member a
   history:
     - :
       past employees
