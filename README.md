@@ -4,6 +4,8 @@ This manifesto describes the core idea of an open source framework enabling team
 
 ## WHY KANBAN-ZAI
 
+`TODO: Change the tone of this section`
+
 These days "Automation" is the mantra of many businesses.  In these times it is easy to forget that it is humans who
 are running the show.  Humans do not always gel together as well as they could and are not all at the same level of
 knowledge or experience in life.
@@ -36,6 +38,8 @@ and many forms of agile account for this already, with varying degrees of succes
 
 ## BENEFITS
 
+`TODO: Expand the benefits`
+
 Kanban-Zai introduces objectivity to teams in a unique way. 
 
 
@@ -46,7 +50,7 @@ Kanban-Zai introduces objectivity to teams in a unique way.
 To implement Kanban-Zai in your project all you need to do is formally adopt the [Kanban-Zai core](https://github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/0-core.md) 
 by creating a github repository including a valid kanban-zai.yaml file.
 
-You can then extend the core with the Kanban-Zai process 101 extension
+You can then extend the core
 
 ## CONTRIBUTE OR JOIN!
 
@@ -65,12 +69,12 @@ Any changes to any version of the core will be done conservativley and as a resu
 If you choose to implement Kanban-Zai and wish to say you are running a Kanban-Zai project then you MUST, at a minimum, 
 implement the Kanban-Zai core.
 
-Additionally you may not modify the Kanban-Zai Core in any way, but you may extend your implementation through the 
+You may not modify the Kanban-Zai Core in any way, but you may extend your implementation through the 
 approved methodologies described in the Kanban-Zai core.
 
-You may not extend your implementation in any way that nullifys or alters the meaning of any part of the Kanban-Zai core.
+You may not extend your implementation in any way that nullifies or alters the meaning of any part of the Kanban-Zai core.
 
-Breaching any part of this license revokes your right to publically declare, any endeavour you undertake, as Kanban-Zai.
+Breaching any part of this license revokes your right to publicly declare, any endeavour you undertake, as Kanban-Zai.
 
 This license applys to all legal entities including but not limited to individual people, companies, partnerships, 
 sole traders, dogs called max, Artifical Intelligences, movie producers...I don't know...you name it, it applies.
