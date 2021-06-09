@@ -6,8 +6,8 @@ The Kanban-Zai code is a process framework designed to make teams work better an
 
 Kanban-Zai core is a container framework.
  
-It's purpose is to wrap another process ensure that the rules, procedures and boundaries of the wrapped process are 
-adhered to and provides mechanisms to document deviations from that child process.
+It's purpose is to wrap another process ensure that the rules, procedures and boundaries of that process are 
+followed and provides mechanisms to document deviations from that child process.
 
 The core must be used by ALL (100%) Kanban-Zai implementations
 
@@ -30,22 +30,22 @@ current time. All changes to this file must be tracked.
 
 To use Kanban-Zai you must extend the core.  
 
-The simplest way is to specify the url of the extension module you are implementing in that EXTENSION property of your 
-kanbanzai yaml file 
+The simplest way is to specify the url of the extension module you are implementing in the EXTENSION property of your 
+kanbanzai.yaml file 
 
 norms, settings and values are inherited from the extension file.
 
-You may further customize you implmentation by describing your own norms, values and settings.  This is done in the 
-same way using a key value pair.  In this case the property is the name you are introducing and the value is a url to 
-the full description of the customisation on the web.
+You may further customize your implmentation by describing your own norms, values and settings.  This is done in the 
+same way by using a key value pair.  In this case the property is the name you are introducing and the value is a url to 
+the full description of the customisation located somewhere on the web.
 
 IMPORTANT NOTE:  your customisations must not contradict or countermand any aspect of the Kanban-Zai core module but
-                 MAY override that of an extenstion but must not change the meaning of that extension.
+                 MAY override that of an extension but must not change the meaning of that extension.
 
 
 # REQUIRED TEAM NORMS
 
-These must be adopted by all Kanban-Zai teams and may not be overridden or changed in anyway.
+These must be adopted by all Kanban-Zai teams and may not be overridden or changed.
 
 ### AUDIT 
 

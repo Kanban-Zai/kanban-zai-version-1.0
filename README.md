@@ -1,56 +1,13 @@
 # The Kanban-Zai Protocol - unfinished
 
-This manifesto describes the core idea of an open source framework enabling teams to go further faster.
-
-## WHY KANBAN-ZAI
-
-`TODO: Change the tone of this section`
-
-These days "Automation" is the mantra of many businesses.  In these times it is easy to forget that it is humans who
-are running the show.  Humans do not always gel together as well as they could and are not all at the same level of
-knowledge or experience in life.
-
-This last statement is often countered with "My company only hires the best people".   Well.  Assuming the person
-saying that believes it to be a truthful statement then the counter question would be "who do google, facebook, apple 
-and microsoft have?"
-
-The reality is you probably are not hiring what you consider the best people, and the term "best people" is somewhat of
-a fallacy.  People are different, dont always see eye to eye and have followed a different path through life.  
-Kanban-Zai takes the view that this is THE ASSET that any team wants, people with a different perspective.
-
-Where there are people there are politics.  Politics is great when out in the open.  In-fact it can generate robust
-team narrative and lead to a better consensus.  More than that, politics in the open can be reined in if those politics 
-become not about the team narrative.
-
-When politics becomes subversive and not openly disscussed it can very quickly erode trust and objectivity because 
-a part of the team (more than one person) is now colluding against another part of the team, in the shadows.
-
-If this happens your team is done.  The nastiness of it will ebb and flow as people leave and new people arrive. Infact
- this personel churn-over is one of the traditional metrics of determine problems in an organisation or team.  However, 
-once the rot sets in it is very difficult to remove.
-
-one of the two primary ideas behind Kanban-zai core is to protect a team from this scenario.  To protect a team 
-from itself.
-
-The second of those primary ideas is to protect the team from politics external to the team.  This is not a new idea
-and many forms of agile account for this already, with varying degrees of success.
-
-
-## BENEFITS
-
-`TODO: Expand the benefits`
-
-Kanban-Zai introduces objectivity to teams in a unique way. 
-
-
----
+Kanban-Zai (KBZ) is a codeless microservice architecture designed to help teams work!
 
 ## IMPLEMENT AND EXTEND
 
-To implement Kanban-Zai in your project all you need to do is formally adopt the [Kanban-Zai core](https://github.com/Kanban-Zai/kanban-zai-core/blob/main/modules/0-core.md) 
-by creating a github repository including a valid kanban-zai.yaml file.
+To implement Kanban-Zai in your project all you need to do is formally adopt the core by creating your own 
+kanban-zai.yaml file in a public code repository of your choice and specify which core module you are extending from.
 
-You can then extend the core
+You can then add your own settings, modules and norms to that kanban-zai file and you are running a Kanban-Zai team.
 
 ## CONTRIBUTE OR JOIN!
 

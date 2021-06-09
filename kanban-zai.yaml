@@ -1,13 +1,18 @@
 Kanban-Zai:
   version: 2
-  extension:
+  settings:
+    - selection-bias: 90%;
+    - sprint: 5 days
+  norms:
+      - https//github.com/Kanban-Zai/kanban-zai-core/blob/main/docs/norms/norm-consenus.md
+      - https//github.com/Kanban-Zai/kanban-zai-core/blob/main/docs/norms/norm-backporting.md
+      - https//github.com/Kanban-Zai/kanban-zai-core/blob/main/docs/norms/norm-voice.md
   audit:
     when: date
     who: your email address or your-kanban-zai-url here
-    what: A audit is merely a record of team consensus.  It is not an indicator of punishment it just
-    represents when a team member, for any reason, deviated from the restrictions of Kanban-Zai.  All team members
-    past and present must be recorded. It should never be recorded in here why a team member is working for you
-    currently or no longer working for you.
+    what: type of audit roster |
+    text: Audits can document anything, but at a minmium must record, roster changes, deviations
+          from consensus and kanban-zai file changes
   protest:
     when: date
     who: your email address or your-kanban-zai-url here
