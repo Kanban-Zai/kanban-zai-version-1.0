@@ -1,0 +1,18 @@
+Kanban-Zai:
+  version: 2
+  settings:
+    - quorum: 2
+    - sprint: 1 working week
+    - harmony: positive
+    - deviation: monthly
+  norms:
+    - consensus
+    - backporting
+    - voice
+    - audit
+    - deviate
+    - muster
+  audit:
+    - Audits can document anything, but must record deviations from consensus.
+  roster:
+    - https://github.com/tonygurnick/kanbanzai/blob/c9f1afbaec78631097d2ce28160c0069c092f763/kanban-zai.yaml
