@@ -2,19 +2,17 @@ Kanban-Zai:
   version: 2
   settings:
     - quorum: 2
-    - sprint: 5 days
+    - sprint: 1 working week
     - harmony: positive
     - deviation: monthly
   norms:
-      - https//github.com/Kanban-Zai/kanban-zai-core/blob/main/docs/norms/norm-consenus.md
-      - https//github.com/Kanban-Zai/kanban-zai-core/blob/main/docs/norms/norm-backporting.md
-      - https//github.com/Kanban-Zai/kanban-zai-core/blob/main/docs/norms/norm-voice.md
+    - consensus
+    - backporting
+    - voice
+    - audit
+    - deviate
+    - muster
   audit:
-    -:
-    who: http://path/to/team/members/kanban-zai.yaml
-    what: note
-    text: Team spun up today.  Audits can document anything, but at a minmium must record, roster changes, deviations
-      from consensus and kanban-zai file changes
-
+    - Audits can document anything, but must record deviations from consensus.
   roster:
-    - http://path/to/current/team/members/kanban-zai.yaml
+    - https://github.com/tonygurnick/kanbanzai/blob/c9f1afbaec78631097d2ce28160c0069c092f763/kanban-zai.yaml
