@@ -52,14 +52,6 @@ They all want it to be difficult, I think. It isn’t really.
 ##### Edward (name and company withheld)
 
 
-## CITATIONS
-
-* https://review.firstround.com/use-this-equation-to-determine-diagnose-and-repair-trust
-* https://productcoalition.com/moving-at-the-speed-of-trust-how-to-get-your-product-team-aligned-8c925e2182a2
-* https://plato.stanford.edu/entries/common-knowledge/index.html
-* https://dash.harvard.edu/bitstream/handle/1/14330738/The%20Psychology%20of%20Common%20Knowledge%20and%20Coordination_Thomas%20DeScioli%20Haque%20&%20Pinker.pdf?sequence=1
-* https://time.com/5680457/why-do-people-gossip/
-
 ## CREDITS
 
     These people had a direct hand in the development of Kanban-Zai whether they knew it or not.
