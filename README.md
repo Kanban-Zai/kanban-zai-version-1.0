@@ -1,4 +1,4 @@
-# The Kanban-Zai Protocol - unfinished
+# Kanban-Zai
 
 Kanban-Zai (KBZ) is a codeless microservice architecture designed to help teams work!
 
