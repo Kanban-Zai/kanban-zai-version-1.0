@@ -1,13 +1,15 @@
-# Kanban-Zai
+# Kanban-Zai Methodology.
 
-Kanban-Zai (KBZ) is a codeless microservice architecture designed to help teams work!
+Kanban-Zai (KBZ) Methodology replaces Agile Methodology.
 
-## IMPLEMENT AND EXTEND
+## IMPLEMENT
 
 To implement Kanban-Zai in your project all you need to do is formally adopt the core by creating your own 
 kanban-zai.yaml file in a public code repository of your choice and specify which core module you are extending from.
 
-You can then add your own settings, modules and norms to that kanban-zai file and you are running a Kanban-Zai team.
+## EXTEND
+
+Add your own settings, modules and norms to that kanban-zai file and you are running a Kanban-Zai team.
 
 ## CONTRIBUTE OR JOIN!
 
@@ -19,7 +21,7 @@ If you have something to add please submit a pull request. If you would like to 
 Kanban-Zai core will be continuously improved, however no minor version will ever change the meaning of the major 
 version.  If there is a significant deviation in meaning the minor version will then become the next major version.
 
-Any changes to any version of the core will be done conservativley and as a result of robust debate.
+Any changes to any version of the core will be done conservatively and as a result of robust debate.
 
 ## LICENSE
 
@@ -33,8 +35,9 @@ You may not extend your implementation in any way that nullifies or alters the m
 
 Breaching any part of this license revokes your right to publicly declare, any endeavour you undertake, as Kanban-Zai.
 
-This license applys to all legal entities including but not limited to individual people, companies, partnerships, 
-sole traders, dogs called max, Artifical Intelligences, movie producers...I don't know...you name it, it applies.
+This license applies to all legal and illegal entities including but not limited to individual people, companies, 
+partnerships, sole traders, dogs called max, Artificial Intelligences, movie producers...I don't know...you name it, 
+it applies.
 
 In light of the above please note that the Kanban-Zai core is an open source framework that you may contribute to via 
 a pull request in github or by joining the Kanban-Zai core team.
@@ -45,6 +48,7 @@ a pull request in github or by joining the Kanban-Zai core team.
 
 It’s mentally tough trying to explain simplicity to people. 
 They all want it to be difficult, I think. It isn’t really.
+
 ##### Edward (name and company withheld)
 
 
