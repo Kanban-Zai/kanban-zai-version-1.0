@@ -16,7 +16,7 @@ Leaving space for humans to do what they do best.
 
 Kanban-Zai core is a codeless microservices architecture container framework.
  
-It's purpose is to wrap another process ensure that the rules, procedures and boundaries of that process are 
+It's purpose is to wrap another process ensuring that the rules, procedures and boundaries of that process are 
 followed and provides mechanisms to document deviations from that process.
 
 The core must be used by ALL (100%) Kanban-Zai implementations
