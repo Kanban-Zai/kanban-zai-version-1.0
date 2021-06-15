@@ -119,7 +119,7 @@ definition of working within the team is an auditable event.
 
 ### VIGILANCE
 
-your team is made of individuals.  They all bring their own uniqueness to the team. Each persons should be treated as an
+A team is made up of individuals.  They all bring their own uniqueness to the team. Each person should be treated as an
 individual.  However this norm is about more than that.  Sometimes covens form.  A coven is a group of people within 
 the team that share a commonality.  This commonality is good and can lead to a better consensus.  When it becomes a 
 clique it is the worst type of bad for a team and will destroy it.  All team members must maintain constant vigilance 
