@@ -59,7 +59,7 @@ These must be adopted by all Kanban-Zai teams and may not be overridden or chang
 ### AUDIT 
 
 An audit is simple a record noted in your kanban-zai.yaml of an auditable event.  It is not a negative or a positive, it
-just a record of some aspect or opinion the team.
+just a record of some aspect on or opinion about, the team.
 
 What events are auditable?
 
