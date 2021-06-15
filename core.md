@@ -40,9 +40,12 @@ current time. All changes to this file must be tracked.
 
 To use Kanban-Zai you must extend the core.  
 
-To do this.  Create your own kanban-zai.yaml file and add your settings and norms to it.  You can also choose to implement
-modules.  Modules are pre-defined sets of constraints and team norms, with an accompanying explanation of how to use 
-them.  You should also add the "extend" property pointed to the extension you are extending from.  Most times this will
+To do this.  Create your own kanban-zai.yaml file and add your settings and norms to it.  
+
+You can also choose to implement modules.  Modules are pre-defined sets of constraints and team norms, with an accompanying explanation of how to use 
+them. You can add a module to your Kanban-Zai file with the "implements" property.
+
+You must also add the "extend" property pointed to the extension you are extending from.  Most times this will
 be the Kanban-Zai core.
 
 IMPORTANT NOTE:  your customisations must not contradict or countermand any aspect of the Kanban-Zai core module but
@@ -55,19 +58,24 @@ These must be adopted by all Kanban-Zai teams and may not be overridden or chang
 
 ### AUDIT 
 
-An audit is simple a record noted in your kanban-zai.yaml of an auditable event.
+An audit is simple a record noted in your kanban-zai.yaml of an auditable event.  It is not a negative or a positive, it
+just a record of some aspect or opinion the team.
 
 What events are auditable?
 
-* any outside influence is exerted on the team in any fashion.
+* any outside influence that is exerted on the team in any fashion.
 * any action by any team member is in opposition to the settings or team norms.
 * any consensus choice that was in opposition to the settings or team norms.
-* any change to the Kanban-Zai.yaml file
+* any change to the Kanban-Zai.yaml file other than an audit.
 
-Who can audit?
+Who can raise audits in the teams Kanban-Zai file?
 
-* any rostered team member
+* any current team member.  All current team members MUST have access to this file.
 
+Who can raise an audit about the team?
+
+Anyone.  But it must be done in a personal Kanban-Zai file.  This can be done by providing a link to the Kanban-Zai file
+that represents the team being audited, within the audit message text.
 
 ### DEVIATE
 
@@ -75,10 +83,10 @@ A deviation is a formal method of changing settings.  Don't do it at any other t
 everybody.  
 
 A deviation is not a retrospective in the agile sense, for example, a deviation allows you to introduce ( or remove ) 
-a Team-Norm.  
+a Team-Norm, change a constraint, implement a module or change the origin point of your extension.
 
 You don't have to change settings in a deviation but it provides a regular opportunity for anyone to do so. However 
-it is MANDATORY that only members of the team may change team settings and norms.
+it is MANDATORY that only current members of the team may change team settings and norms.
 
 IMPORTANT NOTE: A deviation must be run regularly with the maximum time allowed between deviations being 3 monthly.  You
                 must run a deviation a minimum of 4 times per year to keep your Kanban-Zai status active.
@@ -99,13 +107,23 @@ what was asked for that was sensible to achieve within the constraints encounter
 
 ### VOICE
 
-Everyone on the team must have a voice at the table. if they choose not to use thier voice then their vote should default
-to the harmony setting.
+Everyone on the team must have a voice at the table. If they choose not to use their voice their vote should default
+to the harmony setting.  Votes may not be proxied.
 
 ### MUSTER
 
-Team members must appear on the roster.  New team members must be added.  Old team members may be removed or left in the
-roster.
+Team members must appear on the roster.  New team members must be added.  Old team members must be removed.  This means
+the roster must be current.  Only people who work with the team as direct collaborators may be mustered.  Everyone else 
+must be prioritised.  Failure to maintain a current roster or inclusion of people on the roster who do not fit the 
+definition of working within the team is an auditable event.
+
+### VIGILANCE
+
+your team is made of individuals.  They all bring their own uniqueness to the team. Each persons should be treated as an
+individual.  However this norm is about more than that.  Sometimes covens form.  A coven is a group of people within 
+the team that share a commonality.  This commonality is good and can lead to a better consensus.  When it becomes a 
+clique it is the worst type of bad for a team and will destroy it.  All team members must maintain constant vigilance 
+against cliques forming and must call them out, in addition to it being an auditable event.
 
 # REQUIRED SETTINGS
 
@@ -115,7 +133,7 @@ Possible Values: positive | negative  DEFAULT: positive
 
 A team reaching consensus can solve many  of the problems that arise but sometimes it is hard to reach consensus.  
 The sole purpose of this setting is tie breaking.  It is a pre-determined agreement to gain consensus if there is a tie
-in the voting.  If someone chooses not to abstain this becomes their vote.  Please note, this means there is no way in 
+in the voting.  If someone chooses to abstain, this becomes their vote.  Please note, this means that there is no way in 
 Kanban-Zai to abstain.
 
 ### quorum
@@ -133,6 +151,19 @@ Possible Values: any time value with max 3 months.  DEFAULT: 1 month
 Possible Values: 1 working week.  (Readonly may not be modified.)
 
 This value is the yard stick by which you measure your ability as a team.  It is the length of one execution of work.
-All work taken into a sprint MUST be finished OR the work left over split into another card and put into the next sprint.
+All work taken into a sprint MUST be finished OR the work left over split into another card and put into the next 
+sprint.
+
+Please note that this is the ONLY performance metric Kanban-Zai enforces.  The reasoning behind this is as follows...
+
+If a team is planning 1 sprints worth of work and completing that weeks worth of work each week then that is the measure
+of a team that is functioning well.  Backporting is included as normal in this metric as backporting has an explanation
+and a solution attached.  
+
+From here we can infer 3 things.
+
+1. If cards are being planned and completed by sprint end.  All is on track.
+2. If backporting is happening there is a problem with the product model.
+3. If cards are not being completed and not being backported there is a fundamental problem with the team.
 
 
