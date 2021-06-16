@@ -105,7 +105,7 @@ Back porting is the practice of modifying and splitting cards to represent work,
 what the card asked for.  It should be obvious, but may not be, that work done on a card must be at least a subset of
 what was asked for that was sensible to achieve within the constraints encountered during the execution of that card.
 
-### INDIVIDULISIM
+### INDIVIDUALISIM
 
 A team is made up of individuals.  They all bring their own uniqueness to the team. Each person should be treated as an
 individual.  In light of this everyone on the team must have a voice and a vote at the table. 
