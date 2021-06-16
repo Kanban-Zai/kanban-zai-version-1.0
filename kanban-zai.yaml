@@ -13,6 +13,7 @@ Kanban-Zai:
     - deviate
     - muster
     - vigilance
+    - pan
   audit:
     - Audits can document anything, but must record deviations from consensus.
   roster:
