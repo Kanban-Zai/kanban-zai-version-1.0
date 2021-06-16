@@ -105,10 +105,11 @@ Back porting is the practice of modifying and splitting cards to represent work,
 what the card asked for.  It should be obvious, but may not be, that work done on a card must be at least a subset of
 what was asked for that was sensible to achieve within the constraints encountered during the execution of that card.
 
-### VOICE
+### INDIVIDULISIM
 
-Everyone on the team must have a voice at the table. If they choose not to use their voice their vote should default
-to the harmony setting.  Votes may not be proxied.
+A team is made up of individuals.  They all bring their own uniqueness to the team. Each person should be treated as an
+individual.  In light of this everyone on the team must have a voice and a vote at the table. 
+If they choose not to use their voice or vote then their vote should default to the harmony setting.  Votes may not be proxied.
 
 ### MUSTER
 
@@ -119,11 +120,17 @@ definition of working within the team is an auditable event.
 
 ### VIGILANCE
 
-A team is made up of individuals.  They all bring their own uniqueness to the team. Each person should be treated as an
-individual.  However this norm is about more than that.  Sometimes covens form.  A coven is a group of people within 
-the team that share a commonality.  This commonality is good and can lead to a better consensus.  When it becomes a 
-clique it is the worst type of bad for a team and will destroy it.  All team members must maintain constant vigilance 
-against cliques forming and must call them out, in addition to it being an auditable event.
+Sometimes covens form.  A coven is a group of people within the team that share a commonality.  This commonality is good
+and can lead to a better consensus.  When it becomes a clique it is the worst type of bad for a team and will destroy it.
+All team members must maintain constant vigilance against cliques forming and must call them out, in addition to it 
+being an auditable event.
+
+### PAN
+
+Sometimes depending on the situation of the team, a person expert in a specialized field, or even a mentor, by consensus
+can be designated as "PAN".  Pan is a temporary designation allowing that individual veto power over a consensus for a
+defined period of time.  This maybe done without running a deviation and maybe done with only a quorum. It carries with
+it a maximum allowed time of 1 month.  At which time the team can again choose to redesignate the person as "PAN" again.
 
 # REQUIRED SETTINGS
 
@@ -165,5 +172,11 @@ From here we can infer 3 things.
 1. If cards are being planned and completed by sprint end.  All is on track.
 2. If backporting is happening there is a problem with the product model.
 3. If cards are not being completed and not being backported there is a fundamental problem with the team.
+
+The fundamental problems are 
+ - Prioritization Failures
+ - Under resourcing
+ - covens
+
 
 
