@@ -50,9 +50,19 @@ them. You can add a module to your Kanban-Zai file with the "implements" propert
 You must also add the "extend" property pointed to the extension you are extending from.  Most times this will
 be the Kanban-Zai core.
 
-IMPORTANT NOTE:  your customisations must not contradict or countermand any aspect of the Kanban-Zai core module but
-                 MAY override that of an extension but must not change the meaning of that extension.
+IMPORTANT NOTE:  
 
+* All properties of an extension or module must be inherited, including any properties that they extend from.
+* You may not remove any properties of an extension or module.
+* You may not modify read only properties of an extension or module.
+* You may only change the properties of an extension or module to the values specified in such  extension or module.
+* If there is a property tht does not work for you then do not use that extension or module.  Create your own.
+* your customisations must not contradict any aspect of the Kanban-Zai core or any extension or module you use.
+
+SANITY CHECK:
+
+You should probably not create your own extension or module unless you have some experience in Kanban-Zai.  Additionally
+you should not nest to deep and you should probably just extend the core in most cases.
 
 # REQUIRED TEAM NORMS
 
