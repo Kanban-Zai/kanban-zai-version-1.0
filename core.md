@@ -201,7 +201,7 @@ The fundamental problems are
 
 
     
-### Optimize
+### optimize
 
 Possible Values: time-to-Market | performance | maintainability DEFAULT: time-to-market
    
@@ -219,7 +219,7 @@ Possible Values: true | false DEFAULT: false
   
 Test Driven Development is turned off by default as it has benefits and detriments.
 
-### Tech-debt
+### tech-debt
 
 Possible Values: amortize | reduce | prevent DEFAULT: amortize
 
