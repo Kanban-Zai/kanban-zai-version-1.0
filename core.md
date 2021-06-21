@@ -109,28 +109,43 @@ what was asked for that was sensible to achieve within the constraints encounter
 
 A team is made up of individuals.  They all bring their own uniqueness to the team. Each person should be treated as an
 individual.  In light of this everyone on the team must have a voice and a vote at the table. 
-If they choose not to use their voice or vote then their vote should default to the harmony setting.  Votes may not be proxied.
+If they choose not to use their voice or vote then their vote should default to the harmony setting. 
+
+Votes cannot not be proxied.
 
 ### MUSTER
 
-Team members must appear on the roster.  New team members must be added.  Old team members must be removed.  This means
-the roster must be current.  Only people who work with the team as direct collaborators may be mustered.  Everyone else 
-must be prioritised.  Failure to maintain a current roster or inclusion of people on the roster who do not fit the 
-definition of working within the team is an auditable event.
+Team members must appear on the roster.  New team members must be added.  Old team members must be removed.  
+
+This means the roster must be current.  Only people who work with the team as direct collaborators may be 
+mustered.  
+
+Everyone else must be prioritised.  Failure to maintain a current roster or inclusion of people on the roster 
+who do not fit the definition of working within the team is an auditable event.
+
+Muster is important as only team members may vote during a consensus round.
 
 ### VIGILANCE
 
-Sometimes covens form.  A coven is a group of people within the team that share a commonality.  This commonality is good
-and can lead to a better consensus.  When it becomes a clique it is the worst type of bad for a team and will destroy it.
+Sometimes covens form.  
+
+A coven is a group of people within the team that share a commonality.  This commonality is good
+and can lead to a better consensus.  
+
+When it becomes a clique it is the worst type of bad for a team and will destroy it.
+
 All team members must maintain constant vigilance against cliques forming and must call them out, in addition to it 
 being an auditable event.
 
 ### PAN
 
 Sometimes depending on the situation of the team, a person expert in a specialized field, or even a mentor, by consensus
-can be designated as "PAN".  Pan is a temporary designation allowing that individual veto power over a consensus for a
-defined period of time.  This maybe done without running a deviation and maybe done with only a quorum. It carries with
-it a maximum allowed time of 1 month.  At which time the team can again choose to redesignate the person as "PAN" again.
+can be designated as "PAN".  
+
+Pan is a temporary designation allowing that individual veto power over a consensus for a defined period of time.  
+
+This maybe done without running a deviation and maybe done with only a quorum. It carries with it a maximum allowed 
+time of 1 month.  At which time the team can again choose to redesignate the person as "PAN" again.
 
 # REQUIRED SETTINGS
 
@@ -169,9 +184,15 @@ and a solution attached.
 
 From here we can infer 3 things.
 
-1. If cards are being planned and completed by sprint end.  All is on track.
+1. If cards are being planned and completed by sprint end.  The project timeline can be predicted with deterministic variance.
 2. If backporting is happening there is a problem with the product model.
 3. If cards are not being completed and not being backported there is a fundamental problem with the team.
+
+Product model problems include
+- functional granularity issues. ( to much or not enough )
+- business rule conflicts
+- market fit/business rule/technology conflicts
+
 
 The fundamental problems are 
  - Prioritization Failures
@@ -179,4 +200,32 @@ The fundamental problems are
  - covens
 
 
+    
+### Optimize
+
+Possible Values: time-to-Market | performance | maintainability DEFAULT: time-to-market
+   
+time-to-market: Optimises for speed to market.   Technical debt is amortized and Test Driven Development is recommended.  Codebase is required
+                to be maintainable to the degree that the chosen framework enables.  If no framework is chosen then the definition of maintainablity
+is should be defined by test suites.  It Test driven development is of then maintainablity has no definition in this context.
+
+performance: Requires code to perform to minimum performance requirements, Tech debt is prevented and test driven development is compulsory.
+
+maintainability: Requires code to be maintained and a formal definition provided in kanban-zai.yaml using the top level key maintainability.
+   
+### tdd
+
+Possible Values: true | false DEFAULT: false
+  
+Test Driven Development is turned off by default as it has benefits and detriments.
+
+### Tech-debt
+
+Possible Values: amortize | reduce | prevent DEFAULT: amortize
+
+amortize: record all technical-debt.  Reduce that debt when practical.  Otherwise leave it until you are bored and have nothing else to do.
+
+reduce: record all tech debt and schedule in to sprints.
+
+prevent: when technical debt occurs resolve it there and then.  This could make very long running cards, but cards should be backported per sprint.
 
