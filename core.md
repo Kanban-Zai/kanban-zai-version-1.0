@@ -146,6 +146,9 @@ and can lead to a better consensus.
 
 When it becomes a clique it is the worst type of bad for a team and will destroy it.
 
+The difference between a coven and a clique is that a coven is INCLUSIVE and anyone can join a clique is EXCLUSIVE
+only some certain people are accepted in.
+
 All team members must maintain constant vigilance against cliques forming and must call them out, in addition to it 
 being an auditable event.
 
