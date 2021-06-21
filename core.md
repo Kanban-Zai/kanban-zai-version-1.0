@@ -2,15 +2,17 @@
 
 Kanban-Zai is about constraint and discipline.  An explanation, is required.
 
-When there is no process involved in an endeavour humans go about their business doing what they do best, whatever 
-that is.  We all have different and varied skills.  The problem is trying to fit that together to form a cohesive
-result.
+Where is no process involved, a human being will strive to achieve an endeavour with all the knowledge, skill and experience at
+thier disposal.
 
-Methodologies exist to fix this problem by directing and guiding behaviour and in doing so sometimes end up stemming 
-the creative behaviour they intended to nourish.
+The problem comes when two human beings are trying to do it together.
 
-Kanban-Zai Core takes a different approach and places constraints on what you can't do or rather what can't be done.
-Leaving space for humans to do what they do best.
+Many collaboration methodologies exist.  Many work.  Many end up stemming (most times crushing) the creative spirit they intended
+to nourish.
+
+Kanban-Zai Core takes a different approach and places constraints only on what you can not do.
+
+Leaving open, possibilty for the creative spirit.
 
 # DESCRIPTION
 
