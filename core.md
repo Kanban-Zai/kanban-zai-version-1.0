@@ -203,7 +203,7 @@ The fundamental problems are
     
 ### optimize
 
-Possible Values: time-to-Market | performance | maintainability DEFAULT: time-to-market
+Possible Values: time-to-market | performance | maintainability DEFAULT: time-to-market
    
 time-to-market: Optimises for speed to market.   Technical debt is amortized and Test Driven Development is recommended.  Codebase is required
                 to be maintainable to the degree that the chosen framework enables.  If no framework is chosen then the definition of maintainablity
