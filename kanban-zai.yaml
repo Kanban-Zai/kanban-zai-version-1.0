@@ -5,6 +5,9 @@ Kanban-Zai:
     - sprint: 1 working week
     - harmony: positive
     - deviation: monthly
+    - optimize: time-to-market
+    - tdd: false
+    - tech-debt: amortize
   norms:
     - consensus
     - backporting
