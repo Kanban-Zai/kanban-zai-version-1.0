@@ -2,67 +2,74 @@
 
 Kanban-Zai is about constraint and discipline.  An explanation, is required.
 
-Where is no process involved, a human being will strive to achieve an endeavour with all the knowledge, skill and experience at
-thier disposal.
+Where is no process involved, a human being will strive to achieve an endeavour with all the 
+knowledge, skill and experience at their disposal.
 
 The problem comes when two human beings are trying to do it together.
 
-Many collaboration methodologies exist.  Many work.  Many end up stemming (most times crushing) the creative spirit they intended
-to nourish.
+Many collaboration methodologies exist.  Many work.  Many end up stemming (most times crushing) the creative spirit 
+they intended to nourish.
 
-Kanban-Zai Core takes a different approach and places constraints only on what you can not do.
+Kanban-Zai Core takes a different approach and places constraints only on what you cannot do, ostensibly leaving the
+decision of what you can do up to the team itself.
 
-Leaving open, possibilty for the creative spirit.
+Leaving open, possibility for the creative spirit.
 
 # DESCRIPTION
 
-Kanban-Zai core is a codeless microservices architecture container framework.
+Kanban-Zai core is a "codeless microservice" architecture container framework.
  
 It's purpose is to wrap another process ensuring that the rules, procedures and boundaries of that process are 
-followed and provides mechanisms to document deviations from that process.
+adhered to and provides mechanisms to document deviations from that process.
 
 The core must be used by ALL (100%) Kanban-Zai implementations
 
-Once the core is installed you can create and extend it with any process you like by following the principles laid 
-out in the core but the meaning and intent of the core module may not be modified by any extension
+Once the core is installed you can extend it with any process you like by following the principles laid 
+out in the core.
+
+CONDITION: The meaning and intent of the core module may not be modified by any extension, module or customisation.
 
 
-...
+## KANBAN-ZAI.YAML
 
 
 The centerpiece of Kanban-Zai is the Kanban-Zai.yaml configuration file.
  
 This file documents the settings, values and behaviours the process defines and the team works within, must be held in a 
-public repo and should be kept up to date to keep those settings, values and behaviours current and reflective of the
-current time. All changes to this file must be tracked.
+public repo and must be kept up to date.
 
+It is the team's responsibility to keep those settings, values and behaviours current and reflective of the present. 
 
-...
+All changes to this file must be tracked.
 
+## EXTEND
 
 To use Kanban-Zai you must extend the core.  
 
 To do this.  Create your own kanban-zai.yaml file and add your settings and norms to it.  
 
-You can also choose to implement modules.  Modules are pre-defined sets of constraints and team norms, with an accompanying explanation of how to use 
-them. You can add a module to your Kanban-Zai file with the "implements" property.
+You can also choose to implement modules.  Modules are pre-defined sets of constraints and team norms, with an 
+accompanying explanation of how to use them. 
+
+You may add a module to your Kanban-Zai file with the "implements" property.
 
 You must also add the "extend" property pointed to the extension you are extending from.  Most times this will
 be the Kanban-Zai core.
 
-IMPORTANT NOTE:  
+IMPORTANT NOTES:  
 
-* All properties of an extension or module must be inherited, including any properties that they extend from.
+* All properties of an extension or module must be inherited, including other upstreams that they extend from.
 * You may not remove any properties of an extension or module.
 * You may not modify read only properties of an extension or module.
-* You may only change the properties of an extension or module to the values specified in such extension or module.
+* You may only change the properties of an extension or module to the values specified by the extension or module.
 * If there is a property that does not work for you then do not use that extension or module.  Create your own.
 * Your customisations must not contradict any aspect of the Kanban-Zai core or any extension or module you use.
 
 SANITY CHECK:
 
-You should probably not create your own extension or module unless you have some experience in Kanban-Zai.  Additionally
-you should not nest to deep and you should probably just extend the core in most cases.
+* You should probably not create your own extension or module unless you have some experience in Kanban-Zai.  
+* Additionally, you should not nest to deep
+* You should probably just extend the core in most cases.
 
 # REQUIRED TEAM NORMS
 
@@ -79,6 +86,7 @@ What events are auditable?
 * any action by any team member is in opposition to the settings or team norms.
 * any consensus choice that was in opposition to the settings or team norms.
 * any change to the Kanban-Zai.yaml file other than an audit.
+* where a particular module, extension, setting or norm definition specifys.
 
 Who can raise audits in the teams Kanban-Zai file?
 
@@ -187,6 +195,9 @@ time of 1 month.  At which time the team can again choose to re-designate the pe
 
 Any person may be designated as pan including guests.
 
+Guests who temporarily become pan also become official team members and must be rostered and removed from the roster
+when their term ends.
+
 * Panning is an auditable event.  
 * Re-Panning is also auditable.
 
@@ -227,12 +238,13 @@ and a solution attached.
 
 From here we can infer 3 things.
 
-1. If cards are being planned and completed by sprint end.  The project timeline can be predicted with deterministic variance.
+1. If cards are being planned and completed by sprint end.  The project timeline can be predicted with 
+deterministic variance.
 2. If backporting is happening there is a problem with the product model.
 3. If cards are not being completed and not being backported there is a fundamental problem with the team.
 
 Product model problems include
-- functional granularity issues. ( to much or not enough )
+- functional granularity issues. ( too much or not enough )
 - business rule conflicts
 - market fit/business rule/technology conflicts
 
@@ -241,9 +253,12 @@ The fundamental problems are
  - Prioritization Failures
  - Under resourcing
  - covens
+ - unaccounted scope creep
+ - context switching
+ - budget
+ - broken trust
+ - broken objectivity
 
-
-    
 ### optimize
 
 Possible Values: time-to-market | performance | maintainability DEFAULT: time-to-market
