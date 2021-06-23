@@ -55,9 +55,9 @@ IMPORTANT NOTE:
 * All properties of an extension or module must be inherited, including any properties that they extend from.
 * You may not remove any properties of an extension or module.
 * You may not modify read only properties of an extension or module.
-* You may only change the properties of an extension or module to the values specified in such  extension or module.
-* If there is a property tht does not work for you then do not use that extension or module.  Create your own.
-* your customisations must not contradict any aspect of the Kanban-Zai core or any extension or module you use.
+* You may only change the properties of an extension or module to the values specified in such extension or module.
+* If there is a property that does not work for you then do not use that extension or module.  Create your own.
+* Your customisations must not contradict any aspect of the Kanban-Zai core or any extension or module you use.
 
 SANITY CHECK:
 
@@ -88,6 +88,12 @@ Who can raise an audit about the team?
 
 Anyone.  But it must be done in a personal Kanban-Zai file.  This can be done by providing a link to the Kanban-Zai file
 that represents the team being audited, within the audit message text.
+
+What must an audit contain?
+
+* A link to the Kanban-Zai file you are auditing, if relevant.
+* The consensus vote numbers if any.
+* A human readable explanation of the audit.
 
 ### DEVIATE
 
@@ -125,18 +131,6 @@ If they choose not to use their voice or vote then their vote should default to 
 
 Votes cannot not be proxied.
 
-### MUSTER
-
-Team members must appear on the roster.  New team members must be added.  Old team members must be removed.  
-
-This means the roster must be current.  Only people who work with the team as direct collaborators may be 
-mustered.  
-
-Everyone else must be prioritised.  Failure to maintain a current roster or inclusion of people on the roster 
-who do not fit the definition of working within the team is an auditable event.
-
-Muster is important as only team members may vote during a consensus round.
-
 ### VIGILANCE
 
 Sometimes covens form.  
@@ -152,15 +146,49 @@ only some certain people are accepted in.
 All team members must maintain constant vigilance against cliques forming and must call them out, in addition to it 
 being an auditable event.
 
+### MUSTER
+
+The roster is a list of all current team members.
+
+* New team members must be added.  
+* Old team members must be removed.  
+ 
+How do you get on the team? You are voted on.  Therefore, Only people who work with the team as direct collaborators 
+may be mustered.
+
+Everyone else must be prioritised.  
+
+Muster is important as only team members may vote during a consensus round.
+
+Failure to maintain a current roster or inclusion of people on the roster without a vote is an auditable event.
+
+NOTE: Failure to maintain the roster is likley to not be audited by the team.  This case is an example of individuals
+on the team expressing thier displeasure with the team discipline in their personal Kanban-Zai.yaml files.
+
+
+### GUESTS
+
+From time to time the team may require specialized knowledge or experience.  In this case an individual maybe invited 
+onto the team for a time by a team member only, but without a consensus vote.  Guests have a special status on the team.
+They sit as part of the team. They do not have to be mustered, they may not vote, and their appearance on the team and
+subsequent departure from the team must be audited.
+
+Upon arrival the audit must include the length of the guests expected stay.  If that stay is extended the new expected
+length of stay must be audited.
+
 ### PAN
 
-Sometimes depending on the situation of the team, a person expert in a specialized field, or even a mentor, by consensus
-can be designated as "PAN".  
+Sometimes depending on the situation of the team, by consensus, any person can be designated as "PAN".  
 
-Pan is a temporary designation allowing that individual veto power over a consensus for a defined period of time.  
+Pan is a temporary designation allowing that individual veto power over a consensus for a defined period.  
 
-This maybe done without running a deviation and maybe done with only a quorum. It carries with it a maximum allowed 
-time of 1 month.  At which time the team can again choose to redesignate the person as "PAN" again.
+This maybe done without running a deviation and with only a quorum. It carries with it a maximum allowed 
+time of 1 month.  At which time the team can again choose to re-designate the person as "PAN" again.
+
+Any person may be designated as pan including guests.
+
+* Panning is an auditable event.  
+* Re-Panning is also auditable.
 
 # REQUIRED SETTINGS
 
