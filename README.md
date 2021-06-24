@@ -23,7 +23,7 @@ version.  If there is a significant deviation in meaning the minor version will 
 
 Any changes to any version of the core will be done conservatively and as a result of robust debate.
 
-## LICENSE
+## KANBAN-ZAI LICENSE
 
 If you choose to implement Kanban-Zai and wish to say you are running a Kanban-Zai project then you MUST, at a minimum, 
 implement the Kanban-Zai core.
@@ -43,6 +43,21 @@ In light of the above please note that the Kanban-Zai core is an open source fra
 a pull request in github or by joining the Kanban-Zai core team.
 
 ---
+
+### KANBAN-ZAI LICENSE  - CONTINUED
+
+Reserved words in Kanban-zai
+
+These words are reserved for the Kanban-Zai core team only.  You may not use them in the name of any extension,
+module, setting or property without the prior approval of the core team.
+
+    Kanban-Zai, black, white, red, blue, yellow, green.
+
+General requirements for naming in Kanban-Zai
+
+Name collision are not allowed. Names are granted on a first come first served basis as determined by the  
+creation timestamp of the kanban-zai.yaml files of the relevant extensions or modules.
+
 
 #### PERSONAL RECOMMENDATIONS
 
