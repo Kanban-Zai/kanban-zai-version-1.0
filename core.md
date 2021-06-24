@@ -252,7 +252,7 @@ Product model problems include
 The fundamental problems are 
  - Prioritization Failures
  - Under resourcing
- - covens
+ - cliques
  - unaccounted scope creep
  - context switching
  - budget
