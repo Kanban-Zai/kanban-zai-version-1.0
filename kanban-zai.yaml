@@ -1,15 +1,15 @@
 Kanban-Zai:
   version: 2
   settings:
-    - quorum: 2
-    - sprint: 1 working week
-    - harmony: positive
-    - deviation: monthly
-    - optimize: time-to-market
-    - tdd: false
-    - tech-debt: amortize
+    - quorum: 2|MIN:2
+    - sprint: 1 working week|READONLY
+    - harmony: positive,negative
+    - deviation: monthly,bimonthly,2monthly,quarterly
+    - optimize: time-to-market,performance,maintainability
+    - tdd: false,true
+    - tech-debt: amortize,reduce,prevent
   norms:
-    - consensus
+    - consensus|https://github.com/Kanban-Zai/kanban-zai-core.git
     - backporting
     - individualisim
     - audit

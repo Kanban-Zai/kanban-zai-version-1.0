@@ -51,7 +51,7 @@ Reserved words in Kanban-zai
 These words are reserved for the Kanban-Zai core team only.  You may not use them in the name of any extension,
 module, setting or property without the prior approval of the core team.
 
-    Kanban-Zai, black, white, red, blue, yellow, green.
+    Kanban-Zai, black, white, red, blue, yellow, green, amber.
 
 General requirements for naming in Kanban-Zai
 

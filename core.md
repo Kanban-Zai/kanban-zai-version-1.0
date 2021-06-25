@@ -61,7 +61,7 @@ IMPORTANT NOTES:
 * All properties of an extension or module must be inherited, including other upstreams that they extend from.
 * You may not remove any properties of an extension or module.
 * You may not modify read only properties of an extension or module.
-* You may only change the properties of an extension or module to the values specified by the extension or module.
+* You may only change the properties of an extension or module to the values, if specified, of the extension or module.
 * If there is a property that does not work for you then do not use that extension or module.  Create your own.
 * Your customisations must not contradict any aspect of the Kanban-Zai core or any extension or module you use.
 
