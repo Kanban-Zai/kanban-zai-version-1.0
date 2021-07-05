@@ -71,8 +71,8 @@ They all want it to be difficult, I think. It isn’t really.
 
     These people had a direct hand in the development of Kanban-Zai whether they knew it or not.
     
-    Zsolt Varszegi https://www.linkedin.com/in/zsolt-varszegi-70bb94195/
     Max Aston https://www.linkedin.com/in/maxashton/
+    Zsolt Varszegi https://www.linkedin.com/in/zsolt-varszegi-70bb94195/
     Sunil Patel https://www.linkedin.com/in/sunilpatelqa/
     Suki Bains https://www.linkedin.com/in/suki-bains-0745473/
     Paul Sanderson https://www.linkedin.com/in/paul-sanderson-27a6731a5/

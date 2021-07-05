@@ -1,23 +1,25 @@
 Kanban-Zai:
   version: 2
   settings:
+    - egos: off|READONLY
     - quorum: 2|MIN:2
     - sprint: 1 working week|READONLY
     - harmony: positive,negative
     - deviation: monthly,bimonthly,2monthly,quarterly
-    - optimize: time-to-market,performance,maintainability
+    - quality: time-to-market,performance,resilience
     - tdd: false,true
     - tech-debt: amortize,reduce,prevent
+    - maintainability: time-to-market, none, url
   norms:
     - consensus|https://github.com/Kanban-Zai/kanban-zai-core.git
     - backporting
     - individualisim
-    - audit
+    - journal
     - deviate
     - muster
     - vigilance
     - pan
-  audit:
-    - Audits can document anything, but must record deviations from consensus.
+  journal:
+    - The Journal can document anything, but must record deviations from consensus.
   roster:
     - https://github.com/tonygurnick/kanbanzai/blob/c9f1afbaec78631097d2ce28160c0069c092f763/kanban-zai.yaml

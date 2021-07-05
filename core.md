@@ -75,9 +75,9 @@ SANITY CHECK:
 
 These must be adopted by all Kanban-Zai teams and may not be overridden or changed.
 
-### AUDIT 
+### JOURNAL 
 
-An audit is simple a record noted in your kanban-zai.yaml of an auditable event.  It is not a negative or a positive, it
+A journal is simple a record noted in your kanban-zai.yaml of an auditable event.  It is not a negative or a positive, it
 just a record of some aspect on or opinion about, the team.
 
 What events are auditable?
@@ -85,23 +85,23 @@ What events are auditable?
 * any outside influence that is exerted on the team in any fashion.
 * any action by any team member is in opposition to the settings or team norms.
 * any consensus choice that was in opposition to the settings or team norms.
-* any change to the Kanban-Zai.yaml file other than an audit.
+* any change to the Kanban-Zai.yaml file other than a journal.
 * where a particular module, extension, setting or norm definition specifys.
 
 Who can raise audits in the teams Kanban-Zai file?
 
 * any current team member.  All current team members MUST have access to this file.
 
-Who can raise an audit about the team?
+Who can raise a journal about the team?
 
 Anyone.  But it must be done in a personal Kanban-Zai file.  This can be done by providing a link to the Kanban-Zai file
-that represents the team being audited, within the audit message text.
+that represents the team being audited, within the journal message text.
 
-What must an audit contain?
+What must a journal contain?
 
 * A link to the Kanban-Zai file you are auditing, if relevant.
 * The consensus vote numbers if any.
-* A human readable explanation of the audit.
+* A human readable explanation of the journal.
 
 ### DEVIATE
 
@@ -122,7 +122,7 @@ IMPORTANT NOTE: A deviation must be run regularly with the maximum time allowed 
 To move forward, on anything, a consensus must be achieved.  Effectively this means at least quorum of people.   If a 
 quorum cannot be achieved by the presence of enough voting members a vote MUST not be taken. 
 
-This is not to say action cannot be taken if a vote cannot be taken.  But an audit of that action must be recorded as
+This is not to say action cannot be taken if a vote cannot be taken.  But an journal of that action must be recorded as
 it is a deviation from consensus.
 
 ### BACKPORTING
@@ -181,7 +181,7 @@ onto the team for a time by a team member only, but without a consensus vote.  G
 They sit as part of the team. They do not have to be mustered, they may not vote, and their appearance on the team and
 subsequent departure from the team must be audited.
 
-Upon arrival the audit must include the length of the guests expected stay.  If that stay is extended the new expected
+Upon arrival the journal must include the length of the guests expected stay.  If that stay is extended the new expected
 length of stay must be audited.
 
 ### PAN
@@ -233,8 +233,9 @@ sprint.
 Please note that this is the ONLY performance metric Kanban-Zai enforces.  The reasoning behind this is as follows...
 
 If a team is planning 1 sprints worth of work and completing that weeks worth of work each week then that is the measure
-of a team that is functioning well.  Backporting is included as normal in this metric as backporting has an explanation
-and a solution attached.  
+of a team that is functioning well.  
+
+Backporting is included as a normal part of this metric as backporting has an explanation, and a solution attached.  
 
 From here we can infer 3 things.
 
@@ -259,17 +260,34 @@ The fundamental problems are
  - broken trust
  - broken objectivity
 
-### optimize
+### quality
 
-Possible Values: time-to-market | performance | maintainability DEFAULT: time-to-market
+Possible Values: time-to-market | performance | resilience DEFAULT: time-to-market
    
-time-to-market: Optimises for speed to market.   Technical debt is amortized and Test Driven Development is recommended.  Codebase is required
-                to be maintainable to the degree that the chosen framework enables.  If no framework is chosen then the definition of maintainablity
-is should be defined by test suites.  It Test driven development is of then maintainablity has no definition in this context.
+time-to-market: JIT optimised, speed to market strategy.
+                * Technical debt is amortized
+                * Test Driven Development is recommended.  
+                * Codebase is required to be maintainable to the degree that the chosen framework defines and enables.  
+                * If no framework is chosen then the definition of maintainablity must be defined by test suites.  
+                * If Test Driven Development is false then a formal definition of maintainability must be set.
+                * If no definition is available then maintainability must be set to none.
 
-performance: Requires code to perform to minimum performance requirements, Tech debt is prevented and test driven development is compulsory.
+performance:    Requires code to perform to minimum performance requirements.
+                * Tech debt is prevented.
+                * Test driven development is compulsory.
+                * Time to market cannot be formally defined.
 
-maintainability: Requires code to be maintained and a formal definition provided in kanban-zai.yaml using the top level key maintainability.
+resilience:     Requires longer lead times for scenario testing
+                * Test Driven Development must be set to true.
+ 
+ 
+### maintainability: 
+
+Possible Values: time-to-market | none | url DEFAULT: time-to-market
+   
+A url points to a formal definition of what your team defines as a maintainable strategy.  This must be
+on a per-team basis only.  A single Maintenance strategy may not be used across teams as the strategy will change 
+over time.
    
 ### tdd
 
@@ -281,9 +299,11 @@ Test Driven Development is turned off by default as it has benefits and detrimen
 
 Possible Values: amortize | reduce | prevent DEFAULT: amortize
 
-amortize: record all technical-debt.  Reduce that debt when practical.  Otherwise leave it until you are bored and have nothing else to do.
+amortize:   record all technical-debt.  Reduce that debt when practical or when there is no choice.  Otherwise leave it 
+            until you are bored and have nothing else to do.
 
-reduce: record all tech debt and schedule in to sprints.
+reduce:     record all tech debt and schedule in to sprints.
 
-prevent: when technical debt occurs resolve it there and then.  This could make very long running cards, but cards should be backported per sprint.
+prevent:    when technical debt occurs resolve it there and then.  This could make very long running cards. Such cards 
+            must be backported per sprint.
 
