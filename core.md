@@ -5,15 +5,15 @@ Kanban-Zai is about constraint and discipline.  An explanation, is required.
 Where is no process involved, a human being will strive to achieve an endeavour with all the 
 knowledge, skill and experience at their disposal.
 
-The problem comes when two human beings are trying to do it together.
+The problem comes when two human beings are trying to employ teamwork.
 
-Many collaboration methodologies exist.  Many work.  Many end up stemming (most times crushing) the creative spirit 
-they intended to nourish.
+A team as a whole and as individuals will invariably do better in its external relations if it enjoys internal 
+cooperation.
 
-Kanban-Zai Core takes a different approach and places constraints only on what you cannot do, ostensibly leaving the
-decision of what you can do up to the team itself.
+To this end the goal of Kanban-Zai is to enable a team to choose social norms and set sensible boundaries that support 
+cooperation and punish cheating and produce a sense of fairness and justice in the team.
 
-Leaving open, possibility for the creative spirit.
+The tools used to do this are not so important.  If the way of thinking, and the objective are clear.
 
 # DESCRIPTION
 
