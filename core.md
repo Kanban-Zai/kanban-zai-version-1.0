@@ -265,6 +265,7 @@ The fundamental problems are
 Possible Values: time-to-market | performance | resilience DEFAULT: time-to-market
    
 time-to-market: JIT optimised, speed to market strategy.
+                * cards must adhere to the definition of quality, which is "Does what the client asked for"
                 * Technical debt is amortized
                 * Test Driven Development is recommended.  
                 * Codebase is required to be maintainable to the degree that the chosen framework defines and enables.  
