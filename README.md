@@ -2,6 +2,10 @@
 
 Kanban-Zai (KBZ) Methodology replaces Agile Methodology.
 
+The technical landspace and the market landscape have widened and risen.
+
+instead of changing the players kanbanzai changes the game
+
 ## IMPLEMENT
 
 To implement Kanban-Zai in your project all you need to do is formally adopt the core by creating your own 

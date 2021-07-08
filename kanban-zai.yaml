@@ -19,6 +19,8 @@ Kanban-Zai:
     - muster
     - vigilance
     - pan
+  values:
+    - objectivity
   journal:
     - The Journal can document anything, but must record deviations from consensus.
   roster:

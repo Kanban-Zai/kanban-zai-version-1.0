@@ -80,7 +80,7 @@ These must be adopted by all Kanban-Zai teams and may not be overridden or chang
 A journal is simple a record noted in your kanban-zai.yaml of an auditable event.  It is not a negative or a positive, it
 just a record of some aspect on or opinion about, the team.
 
-What events are auditable?
+What events may be journaled?
 
 * any outside influence that is exerted on the team in any fashion.
 * any action by any team member is in opposition to the settings or team norms.
@@ -122,7 +122,7 @@ IMPORTANT NOTE: A deviation must be run regularly with the maximum time allowed 
 To move forward, on anything, a consensus must be achieved.  Effectively this means at least quorum of people.   If a 
 quorum cannot be achieved by the presence of enough voting members a vote MUST not be taken. 
 
-This is not to say action cannot be taken if a vote cannot be taken.  But an journal of that action must be recorded as
+This is not to say action cannot be taken if a vote cannot be taken.  But a journal of that action must be recorded as
 it is a deviation from consensus.
 
 ### BACKPORTING
@@ -308,3 +308,13 @@ reduce:     record all tech debt and schedule in to sprints.
 prevent:    when technical debt occurs resolve it there and then.  This could make very long running cards. Such cards 
             must be backported per sprint.
 
+# REQUIRED VALUES
+
+### Objectivity
+
+A Kanban-Zai team must look for objective measures in everything they do.
+
+What is objectivity?
+
+A lack of favoritism or personal bias toward one side or another.  Problems must be solved by a team and not individuals
+and measure and validae what you can.
