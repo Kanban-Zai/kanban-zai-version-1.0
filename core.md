@@ -1,46 +1,35 @@
 # INTRODUCTION
 
-Kanban-Zai is about constraint and discipline.  An explanation, is required.
-
-Where is no process involved, a human being will strive to achieve an endeavour with all the 
-knowledge, skill and experience at their disposal.
-
-The problem comes when two human beings are trying to employ teamwork.
-
-A team as a whole and as individuals will invariably do better in its external relations if it enjoys internal 
-cooperation.
-
-To this end the goal of Kanban-Zai is to enable a team to choose social norms and set sensible boundaries that support 
-cooperation and punish cheating and produce a sense of fairness and justice in the team.
-
-The tools used to do this are not so important.  If the way of thinking, and the objective are clear.
-
-# DESCRIPTION
-
-Kanban-Zai core is a "codeless microservice" architecture container framework.
+Kanban-Zai is an interpretation and implementation of collaborative game theory, Specifically consensus decision theory.
  
-It's purpose is to wrap another process ensuring that the rules, procedures and boundaries of that process are 
-adhered to and provides mechanisms to document deviations from that process.
+The core can be defined as a rational trust model which provides an objective baseline from which trust can be built
+according to "The Trust Equation"
 
-The core must be used by ALL (100%) Kanban-Zai implementations
+    Trust = ( Credibility + Reliability + Intimacy ) / Self Orientation
 
-Once the core is installed you can extend it with any process you like by following the principles laid 
+Because software development is an iterative process, trust can be measured objectively, by anyone, over
+time. Trust measured over time becomes reputation.  
+
+This measure of reputation is applied to all entities, teams and clients and individuals alike, and can be 
+measured from any entities' perspective.
+
+ 
+Rules of implementation:
+
+* The core must be used by ALL (100%) Kanban-Zai implementations
+* Once the core is installed you can extend it with any process you like by following the principles laid 
 out in the core.
-
-CONDITION: The meaning and intent of the core module may not be modified by any extension, module or customisation.
-
+* The meaning and intent of the core module may not be modified by any extension, module or customisation.
 
 ## KANBAN-ZAI.YAML
 
-
 The centerpiece of Kanban-Zai is the Kanban-Zai.yaml configuration file.
  
-This file documents the settings, values and behaviours the process defines and the team works within, must be held in a 
-public repo and must be kept up to date.
-
-It is the team's responsibility to keep those settings, values and behaviours current and reflective of the present. 
-
-All changes to this file must be tracked.
+* This file documents the behaviours, claims, constraints and values of a Kanban-Zai implementation.
+* It must be held in a public repo.
+* All changes to this file must be tracked.
+* It must be kept current and reflective of the present.
+* May only be modified by rostered team members.
 
 ## EXTEND
 
@@ -48,13 +37,14 @@ To use Kanban-Zai you must extend the core.
 
 To do this.  Create your own kanban-zai.yaml file and add your settings and norms to it.  
 
-You can also choose to implement modules.  Modules are pre-defined sets of constraints and team norms, with an 
-accompanying explanation of how to use them. 
+You can also choose to implement modules.  Modules are pre-defined sets of  behaviours, claims, constraints and values
+with an accompanying explanation of how and why to use them. 
 
 You may add a module to your Kanban-Zai file with the "implements" property.
 
-You must also add the "extend" property pointed to the extension you are extending from.  Most times this will
-be the Kanban-Zai core.
+You must also add the "extend" property pointed to the extension you are extending from.
+
+If no extend property is sent then the default is to inherit from the latest Kanban-Zai core module.
 
 IMPORTANT NOTES:  
 
@@ -71,11 +61,23 @@ SANITY CHECK:
 * Additionally, you should not nest to deep
 * You should probably just extend the core in most cases.
 
-# REQUIRED TEAM NORMS
+# CLAIMS
 
-These must be adopted by all Kanban-Zai teams and may not be overridden or changed.
+Claims are something that an individual or team claim to be true about themselves, and is therefore a reference point
+for analysis.
 
-### JOURNAL 
+what kind of claims are there?
+
+Currently, the only claim in Kanban-Zai are Rational Player Models.  These are the models of what it means to be
+a rational player on a Kanban-Zai team.
+
+
+# TEAM NORMS
+
+These are behaviours that are reqularly encouraged or required of tam members.  They can also be behaviours that, while
+not common or generally accepted as normal, are accepted as normal on this team.
+
+## JOURNAL 
 
 A journal is simple a record noted in your kanban-zai.yaml of an auditable event.  It is not a negative or a positive, it
 just a record of some aspect on or opinion about, the team.
@@ -117,13 +119,6 @@ it is MANDATORY that only current members of the team may change team settings a
 IMPORTANT NOTE: A deviation must be run regularly with the maximum time allowed between deviations being 3 monthly.  You
                 must run a deviation a minimum of 4 times per year to keep your Kanban-Zai status active.
 
-### CONSENSUS
-
-To move forward, on anything, a consensus must be achieved.  Effectively this means at least quorum of people.   If a 
-quorum cannot be achieved by the presence of enough voting members a vote MUST not be taken. 
-
-This is not to say action cannot be taken if a vote cannot be taken.  But a journal of that action must be recorded as
-it is a deviation from consensus.
 
 ### BACKPORTING
 
@@ -131,28 +126,6 @@ Back porting is the practice of modifying and splitting cards to represent work,
 what the card asked for.  It should be obvious, but may not be, that work done on a card must be at least a subset of
 what was asked for that was sensible to achieve within the constraints encountered during the execution of that card.
 
-### INDIVIDUALISIM
-
-A team is made up of individuals.  They all bring their own uniqueness to the team. Each person should be treated as an
-individual.  In light of this everyone on the team must have a voice and a vote at the table. 
-If they choose not to use their voice or vote then their vote should default to the harmony setting. 
-
-Votes cannot not be proxied.
-
-### VIGILANCE
-
-Sometimes covens form.  
-
-A coven is a group of people within the team that share a commonality.  This commonality is good
-and can lead to a better consensus.  
-
-When it becomes a clique it is the worst type of bad for a team and will destroy it.
-
-The difference between a coven and a clique is that a coven is INCLUSIVE and anyone can join a clique is EXCLUSIVE
-only some certain people are accepted in.
-
-All team members must maintain constant vigilance against cliques forming and must call them out, in addition to it 
-being an auditable event.
 
 ### MUSTER
 
@@ -174,104 +147,33 @@ NOTE: Failure to maintain the roster is likley to not be audited by the team.  T
 on the team expressing thier displeasure with the team discipline in their personal Kanban-Zai.yaml files.
 
 
-### GUESTS
-
-From time to time the team may require specialized knowledge or experience.  In this case an individual maybe invited 
-onto the team for a time by a team member only, but without a consensus vote.  Guests have a special status on the team.
-They sit as part of the team. They do not have to be mustered, they may not vote, and their appearance on the team and
-subsequent departure from the team must be audited.
-
-Upon arrival the journal must include the length of the guests expected stay.  If that stay is extended the new expected
-length of stay must be audited.
-
-### PAN
-
-Sometimes depending on the situation of the team, by consensus, any person can be designated as "PAN".  
-
-Pan is a temporary designation allowing that individual veto power over a consensus for a defined period.  
-
-This maybe done without running a deviation and with only a quorum. It carries with it a maximum allowed 
-time of 1 month.  At which time the team can again choose to re-designate the person as "PAN" again.
-
-Any person may be designated as pan including guests.
-
-Guests who temporarily become pan also become official team members and must be rostered and removed from the roster
-when their term ends.
-
-* Panning is an auditable event.  
-* Re-Panning is also auditable.
 
 # REQUIRED SETTINGS
 
-### harmony
+## egos
 
-Possible Values: positive | negative  DEFAULT: positive
+Required Value: off (READONLY)
 
-A team reaching consensus can solve many  of the problems that arise but sometimes it is hard to reach consensus.  
-The sole purpose of this setting is tie breaking.  It is a pre-determined agreement to gain consensus if there is a tie
-in the voting.  If someone chooses to abstain, this becomes their vote.  Please note, this means that there is no way in 
-Kanban-Zai to abstain.
+## sprint
 
-### quorum
+Possible Values: 1 working week. (READONLY)
 
-Possible Values: any number value smaller than your team size, but greater than 1.  DEFAULT: 2
+This value is the heart beat of Kanban-Zai.
 
-Determines if a vote can be held or not.  You must have at least a quorum to hold a vote.
+It is the yardstick, the length of one execution of work, by which your ability as a team is measured.
 
-### deviation
-
-Possible Values: any time value with max 3 months.  DEFAULT: 1 month
-
-### sprint
-
-Possible Values: 1 working week.  (Readonly may not be modified.)
-
-This value is the yard stick by which you measure your ability as a team.  It is the length of one execution of work.
-All work taken into a sprint MUST be finished OR the work left over split into another card and put into the next 
+All work taken into a sprint MUST be finished, OR the work left over split into another card and put into the next 
 sprint.
 
-Please note that this is the ONLY performance metric Kanban-Zai enforces.  The reasoning behind this is as follows...
-
-If a team is planning 1 sprints worth of work and completing that weeks worth of work each week then that is the measure
-of a team that is functioning well.  
-
-Backporting is included as a normal part of this metric as backporting has an explanation, and a solution attached.  
-
-From here we can infer 3 things.
-
-1. If cards are being planned and completed by sprint end.  The project timeline can be predicted with 
-deterministic variance.
-2. If backporting is happening there is a problem with the product model.
-3. If cards are not being completed and not being backported there is a fundamental problem with the team.
-
-Product model problems include
-- functional granularity issues. ( too much or not enough )
-- business rule conflicts
-- market fit/business rule/technology conflicts
+This regular practice increases your credibility and reliability score in the trust equation, and therefore your
+teams reputation.
 
 
-The fundamental problems are 
- - Prioritization Failures
- - Under resourcing
- - cliques
- - unaccounted scope creep
- - context switching
- - budget
- - broken trust
- - broken objectivity
+## quality
 
-### quality
-
-Possible Values: time-to-market | performance | resilience DEFAULT: time-to-market
+Possible Values: triumvirate | performance | resilience DEFAULT: time-to-market
    
-time-to-market: JIT optimised, speed to market strategy.
-                * cards must adhere to the definition of quality, which is "Does what the client asked for"
-                * Technical debt is amortized
-                * Test Driven Development is recommended.  
-                * Codebase is required to be maintainable to the degree that the chosen framework defines and enables.  
-                * If no framework is chosen then the definition of maintainablity must be defined by test suites.  
-                * If Test Driven Development is false then a formal definition of maintainability must be set.
-                * If no definition is available then maintainability must be set to none.
+triumvirate:    This is a Kanban-Zai module whose purpose is to define value to customer
 
 performance:    Requires code to perform to minimum performance requirements.
                 * Tech debt is prevented.
@@ -280,33 +182,6 @@ performance:    Requires code to perform to minimum performance requirements.
 
 resilience:     Requires longer lead times for scenario testing
                 * Test Driven Development must be set to true.
- 
- 
-### maintainability: 
-
-Possible Values: time-to-market | none | url DEFAULT: time-to-market
-   
-A url points to a formal definition of what your team defines as a maintainable strategy.  This must be
-on a per-team basis only.  A single Maintenance strategy may not be used across teams as the strategy will change 
-over time.
-   
-### tdd
-
-Possible Values: true | false DEFAULT: false
-  
-Test Driven Development is turned off by default as it has benefits and detriments.
-
-### tech-debt
-
-Possible Values: amortize | reduce | prevent DEFAULT: amortize
-
-amortize:   record all technical-debt.  Reduce that debt when practical or when there is no choice.  Otherwise leave it 
-            until you are bored and have nothing else to do.
-
-reduce:     record all tech debt and schedule in to sprints.
-
-prevent:    when technical debt occurs resolve it there and then.  This could make very long running cards. Such cards 
-            must be backported per sprint.
 
 # REQUIRED VALUES
 
@@ -316,5 +191,6 @@ A Kanban-Zai team must look for objective measures in everything they do.
 
 What is objectivity?
 
-A lack of favoritism or personal bias toward one side or another.  Problems must be solved by a team and not individuals
-and measure and validae what you can.
+* A lack of favoritism or personal bias toward one side or another.  
+* Problems must be solved by a team and not individuals
+* Measure and validate what you can.

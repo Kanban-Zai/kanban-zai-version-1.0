@@ -1,24 +1,16 @@
 Kanban-Zai:
-  version: 2
+  version: 2.5
   settings:
     - egos: off|READONLY
-    - quorum: 2|MIN:2
     - sprint: 1 working week|READONLY
-    - harmony: positive,negative
-    - deviation: monthly,bimonthly,2monthly,quarterly
-    - quality: time-to-market,performance,resilience
-    - tdd: false,true
-    - tech-debt: amortize,reduce,prevent
-    - maintainability: time-to-market, none, url
+    - quality: triumvirate,performance,resilience
+  claims:
+    - role: TO | http://kanbanzai.com/rpm/technical-owner
   norms:
-    - consensus|https://github.com/Kanban-Zai/kanban-zai-core.git
     - backporting
-    - individualisim
     - journal
     - deviate
     - muster
-    - vigilance
-    - pan
   values:
     - objectivity
   journal:

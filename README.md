@@ -1,19 +1,37 @@
 # Kanban-Zai Methodology.
 
-Kanban-Zai (KBZ) Methodology replaces Agile Methodology.
+Kanban-Zai (KBZ) Methodology replaces the Agile and Waterfall Methodologies, in specific situations.
 
-The technical landspace and the market landscape have widened and risen.
+The concept of Kanban-Zai evolved from more than 20 years in the trenches of waterfall and agile.
 
-instead of changing the players kanbanzai changes the game
+The rationale behind Kanban-Zai can be reduced to 4 observations.
+
+* Software Development is a creative process.
+* People can operate in creative mode or survival mode but not both.
+* The best creative work comes when you empower everyone.  
+* The most productive teams are teams that empower everyone.
+
+Kanban-Zai looks to level the playing field for everyone.
 
 ## IMPLEMENT
 
 To implement Kanban-Zai in your project all you need to do is formally adopt the core by creating your own 
-kanban-zai.yaml file in a public code repository of your choice and specify which core module you are extending from.
+kanban-zai.yaml file in a public code repository of your choice.
 
 ## EXTEND
 
-Add your own settings, modules and norms to that kanban-zai file and you are running a Kanban-Zai team.
+Next specify which core module you are extending from.  
+
+All kbz implementations must extend from the core, ultimately.  This means you can extend from another extension that 
+ultimately extends from the core. 
+
+Not specifying an extension implies you are extending from the latest core module, but the preference is an extension 
+should be explicitly stated.
+
+From this point you add your own settings, modules and norms to that kanban-zai file and you are running a Kanban-Zai 
+team.
+
+Rejoice!
 
 ## CONTRIBUTE OR JOIN!
 
@@ -57,10 +75,11 @@ module, setting or property without the prior approval of the core team.
 
     Kanban-Zai, black, white, red, blue, yellow, green, amber.
 
-General requirements for naming in Kanban-Zai
+General requirements for naming in Kanban-Zai:
 
-Name collision are not allowed. Names are granted on a first come first served basis as determined by the  
-creation timestamp of the kanban-zai.yaml files of the relevant extensions or modules.
+* Name collisions are not allowed. 
+* Names are granted on a first come first served basis as determined by the  creation timestamp of the kanban-zai.yaml 
+files of the relevant extensions or modules.
 
 
 #### PERSONAL RECOMMENDATIONS
