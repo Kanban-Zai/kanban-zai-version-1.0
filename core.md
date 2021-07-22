@@ -37,8 +37,9 @@ Kanban-Zai team.
 
 ### JOURNAL (Referral Chain)
 
-All deviations from Rational Player Models or The Rational Trust Model must be journaled in the team kanban-zai.yaml 
-file.  However, anything may be journaled and by anyone in their own personal kanban-zai.yaml files.  See JML for more.
+All deviations from Rational Player Models, or The Rational Trust Model must be journaled in the team kanban-zai.yaml 
+file.  However, anything may be journaled and by anyone in their own personal kanban-zai.yaml files.  
+See core-jml.md for more.
 
 ### TEAM NORMS
 
@@ -49,7 +50,7 @@ while not common or generally accepted as normal, are accepted as normal on a te
 
 A deviation is not a retrospective in the agile sense.
 
-Iis a formal method of allowing settings to be changed in Kanban-Zai and must be run regularly with the maximum time 
+It is a formal method of allowing settings to be changed in Kanban-Zai and must be run regularly with the maximum time 
 allowed between deviations being 3 monthly.  Keep it short and involve everybody.  Change by consensus only. 
 
 ### MUSTER
@@ -62,6 +63,7 @@ Old members must be removed.  A consensus vote is required to be mustered as a t
 Back porting is a strategy of Kanban-Zai that allows cards to be split or combined rationally to manage scope creep, 
 unknown unknowns and early thinking.  This allows justifiable explainations for the delivery runway length.
 
+Unfinished work on a card in a sprint should be split out to one or more cards and those cards prioritized.
 
 ### CONSENSUS
 
