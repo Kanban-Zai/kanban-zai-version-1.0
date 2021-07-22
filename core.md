@@ -57,6 +57,11 @@ allowed between deviations being 3 monthly.  Keep it short and involve everybody
 The roster is a list of all current team members and interested parties.  New members must be added.  
 Old members must be removed.  A consensus vote is required to be mustered as a team member.
 
+### BACK PORTING
+
+Back porting is a strategy of Kanban-Zai that allows cards to be split or combined rationally to manage scope creep, 
+unknown unknowns and early thinking.  This allows justifiable explainations for the delivery runway length.
+
 
 ### CONSENSUS
 
@@ -71,6 +76,10 @@ Required Value: off (READONLY)
 ### quorum
 
 Possible Values: 2 | # > 2  DEFAULT: 2
+
+### deadlines
+
+Required Value: not-allowed
 
 ## VALUES
 
