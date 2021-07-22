@@ -2,18 +2,22 @@ Kanban-Zai:
   version: 2.5
   settings:
     - egos: off|READONLY
-    - sprint: 1 working week|READONLY
-    - quality: triumvirate,performance,resilience
+    - quorum: 2
   claims:
-    - role: TO | http://kanbanzai.com/rpm/technical-owner
+    - player-one
+    - interested-parties
+    - external-parties
   norms:
-    - backporting
-    - journal
     - deviate
     - muster
+    - consensus
   values:
     - objectivity
+    - predictability
+    - trust
   journal:
-    - The Journal can document anything, but must record deviations from consensus.
+    - The Journal can document anything as free text.  See Journal Markup Language for more detail.
   roster:
-    - https://github.com/tonygurnick/kanbanzai/blob/c9f1afbaec78631097d2ce28160c0069c092f763/kanban-zai.yaml
+    - Player Type | Name | kanban-zai.yml file
+
+
