@@ -1,5 +1,6 @@
 Kanban-Zai:
   version: 2.5
+  context: default
   settings:
     - egos: off|READONLY
     - quorum: 2

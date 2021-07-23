@@ -29,6 +29,13 @@ Kanban-Zai is a graph.  It provides transparency about teams and individuals not
 Players clarify the goal and follow the Kanban-Zai process until their achieve the goal.  Documenting deviations from 
 process along the way.
 
+### CONTEXT
+
+This is a special setting.  it can be set to anything.  Its default is "none".  Context enables a shift in the 
+interpretation of Kanban-Zai.  Settings and norms may have context specific definitions based on this setting.
+To use context, define its values relative to your implementation and define those in the setting or norm decription.
+If a setting or norm has no related context it is valid in all contexts.
+
 ### CLAIMS
 
 Claims are something that an individual or team claim to be true about themselves.  In version 2.0 of the core, the only

@@ -19,7 +19,6 @@ string|READONLY
 list|READONLY|MAX:number|MIN:number|READONLY|DEFAULT:some number or string - in this case if there is not default 
 specified the first item in the list is the default.
 boolean|READONLY|DEFAULT:boolean
-
 the type of the setting must never change.  It must remain the same type everywhere.
 
 ##norms
@@ -27,4 +26,9 @@ the type of the setting must never change.  It must remain the same type everywh
 a norm consists of a name string and associated documentation in the module or extensions the norm originates from
 additionally a norm may have a uri address that leads to a public declaration of that norm.
 
+## Labels
+
+    Form like label: ( <text><colon> )
+  
+used to seperate contexts in norms and settings
 
