@@ -82,8 +82,10 @@ SANITY CHECK:
 
 ## CONTRIBUTE OR JOIN!
 
+[Join the slack channel](https://join.slack.com/t/kanban-zai/shared_invite/zt-tdcgnpbm-xUoEytz6XbV16cmyPGPUSQ)
+
 If you have something to add please submit a pull request. If you would like to help curate and guide Kanban-Zai then
- request to join the crew through the github team.
+ request to join the crew through the [github team](https://github.com/Kanban-Zai).
 
 ## COMMITMENT
 
@@ -107,9 +109,6 @@ Breaching any part of this license revokes your right to publicly declare, any e
 This license applies to all legal and illegal entities including but not limited to individual people, companies, 
 partnerships, sole traders, dogs called max, Artificial Intelligences, movie producers...I don't know...you name it, 
 it applies.
-
-In light of the above please note that the Kanban-Zai core is an open source framework that you may contribute to via 
-a pull request in github or by joining the Kanban-Zai core team.
 
 ---
 

@@ -44,8 +44,11 @@ claims in Kanban-Zai are Rational Player Models and Rational Outcome Models.
 
 ### JOURNAL (Referral Chain)
 
-All deviations from Rational Player Models, or The Rational Trust Model must be journaled in the team kanban-zai.yaml 
-file.  However, anything may be journaled and by anyone in their own personal kanban-zai.yaml files.  
+All deviations from Rational Player Models, Rational Outcome Models or The Rational Trust Model must be journaled in 
+the team kanban-zai.yaml file, but ony when explicitly stated by the kanban-zai implementation.
+
+However, anything may be journaled and by anyone in their own personal kanban-zai.yaml files.  
+
 See core-jml.md for more.
 
 ### TEAM NORMS
@@ -74,7 +77,8 @@ Unfinished work on a card in a sprint should be split out to one or more cards a
 
 ### CONSENSUS
 
-Core consensus requires a general agreement of the mustered team members about the direction the team should be taking. 
+Core consensus requires an agreement of a quorum the mustered team members about the direction the team should be 
+taking. 
 
 ## SETTINGS
 

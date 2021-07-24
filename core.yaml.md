@@ -2,7 +2,7 @@
 
 ##settings
 
-A setting must be inherited from an extention or module.
+A setting must be inherited from an extension or module.
 You may also create your own as long as they don't exist in a parent.
 if they do exist you may still place them in your yaml file but only as explicit notice that you use that setting
 you may change the value of that setting on 2 conditions
@@ -32,3 +32,6 @@ additionally a norm may have a uri address that leads to a public declaration of
   
 used to seperate contexts in norms and settings
 
+## Claims
+
+claims must extend from the parent claim if the parent claim exists.

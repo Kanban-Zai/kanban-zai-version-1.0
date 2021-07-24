@@ -3,6 +3,10 @@
 ROMs are constrained boundaries of concepts in kanban-zai.  For example.  The value model defines what must be included
 on a card before it can be considered for processing.
 
+Deviations from ROMS is always a journalable action.  This can often happen because an inherited ROM might not fit your
+exact situation.  DON'T PANIC.  Create your own ROM.  It is not a requirement to extend from another ROM, just that you
+have them.
+
 # product-rom
 
 The product model represents the set of business rules of a product.  Primarily it should define what is not allowed 
