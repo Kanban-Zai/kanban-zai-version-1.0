@@ -8,6 +8,9 @@ Kanban-Zai:
     - player-one
     - interested-parties
     - external-parties
+    - product-rom
+    - value-rom
+    - quality-rom
   norms:
     - deviate
     - muster

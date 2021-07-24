@@ -3,9 +3,10 @@
 Kanban-Zai is an interpretation and implementation of collaborative game theory.  By implementing Kanban-Zai you 
 choose to VALUE objectivity, predictability and trust.
 
-The core implementation comprises 3 elements and all can be extended.
+The core implementation comprises 4 elements and all can be extended.
 * Rational Trust Model
 * Rational Player Models
+* Rational Outcome Models
 * Referral Chain.
 
 At the end of the day Kanban-Zai is an idea.  A way for humans to collaborate.  It should be viewed as a heuristic 
@@ -33,14 +34,13 @@ process along the way.
 
 This is a special setting.  it can be set to anything.  Its default is "none".  Context enables a shift in the 
 interpretation of Kanban-Zai.  Settings and norms may have context specific definitions based on this setting.
-To use context, define its values relative to your implementation and define those in the setting or norm decription.
+To use context, define its values relative to your implementation and define those in the setting or norm description.
 If a setting or norm has no related context it is valid in all contexts.
 
 ### CLAIMS
 
 Claims are something that an individual or team claim to be true about themselves.  In version 2.0 of the core, the only
-claim in Kanban-Zai are Rational Player Models.  These models describe what it means to be a rational player on a 
-Kanban-Zai team.
+claims in Kanban-Zai are Rational Player Models and Rational Outcome Models.
 
 ### JOURNAL (Referral Chain)
 
