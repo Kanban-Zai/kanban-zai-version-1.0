@@ -107,3 +107,13 @@ The fact of always behaving or occurring in the way expected.
 ### trust
 
 Without trust, there is no future, it is the capital and engine of progress.
+
+# METHOD
+
+The default Kanban-Zai delivery method is a prioritised-backlog.  This is simply maintaining a list of ordered cards.  
+These cards can be in one of 4 states.
+
+* Idea.         cards remain in this state until they break the product rom constraint.
+* staged.       cards remain in this state until they break the value rom constraint.
+* In Progress.  cards remain in this state until they break the quality rom constraint.
+* Done.         cards are removed from the backlog.

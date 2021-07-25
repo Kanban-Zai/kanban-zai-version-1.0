@@ -1,13 +1,14 @@
 Kanban-Zai:
   version: 2.5
   context: default
+  method: prioritised-backlog
   settings:
     - egos: off|READONLY
     - quorum: 2
   claims:
-    - player-one
-    - interested-parties
-    - external-parties
+    - rational-players
+    - rational-observers
+    - irrational-players
     - pan
     - guests
     - product-rom
