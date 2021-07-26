@@ -26,20 +26,22 @@ Kanban-Zai is a graph.  It provides transparency about teams and individuals not
 
 ### HOW TO PLAY!
 
-Players clarify the goal and follow the Kanban-Zai process until they achieve thier goal.  Documenting deviations from 
-process along the way.
+Iterate using the RTM method ( described at bottom of page ), documenting deviations from process along the way.
+
+## THE RATIONAL TRUST MODEL
 
 ### CONTEXT
 
-This is a special setting.  it can be set to anything.  Its default is "none".  Context enables a shift in the 
-interpretation of Kanban-Zai.  Settings, Norms, Claims may have context specific definitions based on context.
-To use context, define its values relative to your implementation and define those in the setting or norm description.
-If no alternative definition is provided valid in all contexts is implied.
+This is a special setting.  It can be set to anything.  It's default is "none".  Context enables a shift in the 
+interpretation of Kanban-Zai.  Settings, Norms, Claims may have context specific definitions based on the context 
+property.  To use context, define its values relative to your implementation and define those in the setting, norm or
+claim description.  If no alternative definition is provided valid in all contexts is implied.
 
 ### CLAIMS
 
 Claims are something that an individual or team claim to be true about themselves.  In version 2.0 of the core, the only
-claims in Kanban-Zai are Rational Player Models and Rational Outcome Models.
+claims in Kanban-Zai are Rational Player Models and Rational Outcome Models.  See [core-rpm](./core-rpm.md) and 
+[core-rom](./core-rom.md) for more.
 
 ### JOURNAL (Referral Chain)
 
@@ -48,66 +50,66 @@ the team kanban-zai.yaml file, but ony when explicitly stated by the kanban-zai 
 
 However, anything may be journaled and by anyone in their own personal kanban-zai.yaml files.  
 
-See core-jml.md for more.
+See [core-jml](./core-jml.md) for more.
 
 ### TEAM NORMS
 
 These are behaviours that are regularly encouraged or required of team members.  They can also be behaviours that, 
 while not common or generally accepted as normal, are accepted as normal on a team.
 
-### NORM:DEVIATE
+#### NORM:DEVIATE
 
 A deviation is not a retrospective in the agile sense.
 
 It is a formal method of allowing settings to be changed in Kanban-Zai and must be run regularly with the maximum time 
 allowed between deviations being 3 monthly.  Keep it short and involve everybody.  Change by a consensus only. 
 
-### NORM:MUSTER
+#### NORM:MUSTER
 
 The roster is a list of all current team members and interested parties.  New members must be added.  
 Old members must be removed.  A consensus vote is required to be mustered as a team member.
 
-### NORM:BACK PORTING
+#### NORM:BACKPORTING
 
 Back porting is a strategy of Kanban-Zai that allows cards to be split or combined rationally to manage scope creep, 
 unknown unknowns and early thinking.  This allows justifiable explanations for the delivery runway length.
 
 Unfinished work on a card in a sprint should be split out to one or more cards and those cards prioritized.
 
-### NORM:CONSENSUS
+#### NORM:CONSENSUS
 
 Core consensus requires an agreement of a quorum the mustered team members about the direction the team should be 
 taking. 
 
-## SETTINGS
+### SETTINGS
 
-### egos
+#### egos (READONLY)
 
-Required Value: off (READONLY)
+Required Value: off
 
-### quorum
+#### quorum
 
 Possible Values: 2 | # > 2  DEFAULT: 2
 
-### deadlines
+#### deadlines  (READONLY)
 
 Required Value: not-allowed
 
-## VALUES
+### VALUES
 
-### objectivity 
+#### objectivity (READONLY)
 
 Objectivity is necessary to get an accurate explanation of how things work.
 
-### predictability
+#### predictability (READONLY)
 
 The fact of always behaving or occurring in the way expected.
 
-### trust
+#### trust (READONLY)
 
 Without trust, there is no future, it is the capital and engine of progress.
 
-# METHOD
+### METHOD
 
 The default Kanban-Zai delivery method is a prioritised-backlog.  This is simply maintaining a list of ordered cards.  
 These cards can be in one of 4 states.
@@ -116,3 +118,5 @@ These cards can be in one of 4 states.
 * staged.       cards remain in this state until they break the value rom constraint.
 * In Progress.  cards remain in this state until they break the quality rom constraint.
 * Done.         cards are removed from the backlog.
+
+New cards should constantly be written to represent work needed.
