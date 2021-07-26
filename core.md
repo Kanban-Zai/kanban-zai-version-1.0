@@ -1,6 +1,6 @@
 #  KANBAN-ZAI CORE - WHAT IS IT?
 
-Kanban-Zai is an interpretation and implementation of collaborative game theory.  By implementing Kanban-Zai you 
+Kanban-Zai is an interpretation and implementation of collaborative game theory, constraint theory and swift trust theory.  By implementing Kanban-Zai you 
 choose to VALUE objectivity, predictability and trust.
 
 The core implementation comprises 4 elements and all can be extended.
