@@ -32,9 +32,9 @@ process along the way.
 ### CONTEXT
 
 This is a special setting.  it can be set to anything.  Its default is "none".  Context enables a shift in the 
-interpretation of Kanban-Zai.  Settings and norms may have context specific definitions based on this setting.
+interpretation of Kanban-Zai.  Settings, Norms, Claims may have context specific definitions based on context.
 To use context, define its values relative to your implementation and define those in the setting or norm description.
-If a setting or norm has no related context it is valid in all contexts.
+If no alternative definition is provided valid in all contexts is implied.
 
 ### CLAIMS
 
