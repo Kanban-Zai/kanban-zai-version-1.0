@@ -26,7 +26,7 @@ Kanban-Zai is a graph.  It provides transparency about teams and individuals not
 
 ### HOW TO PLAY!
 
-Players clarify the goal and follow the Kanban-Zai process until their achieve the goal.  Documenting deviations from 
+Players clarify the goal and follow the Kanban-Zai process until they achieve thier goal.  Documenting deviations from 
 process along the way.
 
 ### CONTEXT
