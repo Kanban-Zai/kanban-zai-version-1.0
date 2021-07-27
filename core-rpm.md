@@ -6,7 +6,13 @@ extend from one of these RPM's
 
 NOTE: rational players in Kanban-Zai are different from those in game theory.
 
+
 ## RATIONAL PLAYERS ( Player One)
+
+To be a rational player in Kanban-Zai you first must understand what game you are playing.
+
+Traditionally a workforce plays the Conflict Game.  In Kanban-Zai you are playing the collaborative Game.
+
 
 All other RPM's in Kanban-Zai ultimately inherit from this RTM.
 

@@ -1,6 +1,6 @@
 #  KANBAN-ZAI CORE - WHAT IS IT?
 
-Kanban-Zai is an interpretation and implementation of [collaborative game theory](https://en.wikipedia.org/wiki/Cooperative_game_theory), [constraint theory](https://en.wikipedia.org/wiki/Theory_of_constraints), [consensus theory](https://en.wikipedia.org/wiki/Consensus_theory) and [swift trust theory](https://en.wikipedia.org/wiki/Swift_trust_theory).  When you implement Kanban-Zai you are making a conscious choice to VALUE objectivity, predictability and trust.
+Kanban-Zai is an interpretation and implementation of [collaborative game theory](https://en.wikipedia.org/wiki/Cooperative_game_theory), [constraint theory](https://en.wikipedia.org/wiki/Theory_of_constraints), [consensus theory](https://en.wikipedia.org/wiki/Consensus_theory) and [swift trust theory](https://en.wikipedia.org/wiki/Swift_trust_theory) amongst others.  When you implement Kanban-Zai you are making a conscious choice to VALUE objectivity, predictability and trust.
 
 The core implementation comprises 4 elements and all can be extended.
 * Rational Trust Model
@@ -8,8 +8,9 @@ The core implementation comprises 4 elements and all can be extended.
 * Rational Outcome Models
 * Referral Chain.
 
-At the end of the day Kanban-Zai is an idea.  A way for humans to collaborate.  It should be viewed as a heuristic 
-to help teams be better and not dogma. 
+At the end of the day Kanban-Zai is an idea, if you are really into theories you can think of it as a symmetric, 
+non-zero, cooperative, sequential game in game theory, but really it is just a way for humans to collaborate and 
+uses multiple ideas to build heuristics to help teams be better.  It is not dogma. 
 
 ### The Trust Equation
 
@@ -24,11 +25,9 @@ The trust equation tells us how trust is hard to build and easy to destroy.
 
 Kanban-Zai is a graph.  It provides transparency about teams and individuals not possible previously.
 
-### HOW TO PLAY!
+---
 
-Iterate using the RTM method ( described at bottom of page ), documenting deviations from process along the way.
-
-## THE RATIONAL TRUST MODEL
+# THE RATIONAL TRUST MODEL
 
 ### CONTEXT
 
@@ -83,6 +82,12 @@ taking.
 
 ### SETTINGS
 
+## Cadence
+
+Value: undefined
+ 
+Equivalent to a sprint in agile
+ 
 #### egos (READONLY)
 
 Required Value: off
