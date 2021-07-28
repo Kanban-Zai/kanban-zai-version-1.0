@@ -6,6 +6,7 @@ Kanban-Zai:
     - quorum: 2
     - cadence: undefined
     - speed-limit: 1
+    - deadlines: not-allowed
   claims:
     - player1
     - player2
