@@ -1,72 +1,41 @@
 # Rational Player Models
 
-Described here are the primary rational player models of Kanban-Zai.
-They do not need to be included as a claim in a Kanban-Zai file as they are implied because all other RPM's must 
-extend from one of these RPM's
+What does a rational player look like?
 
-NOTE: rational players in Kanban-Zai are different from those in game theory.
+## THE RATIONAL PLAYER ( Player One )
 
+A Rational player first and foremost understands they are now playing the Kanban-Zai game.  More importantly they must
+WANT to be playing the game.  Rational Players have a SAY in the team.
 
-## RATIONAL PLAYERS ( Player One)
+However, rationality is not enough: each player should also believe that all other players are rational. 
+Even this is not enough: each player should believe that all other players believe that all other players are rational.
 
-To be a rational player in Kanban-Zai you first must understand what game you are playing.
+Rationality should be the NORMAL inside a Kanban-Zai team.
 
-Traditionally a workforce plays the Conflict Game.  In Kanban-Zai you are playing the collaborative Game.
+## THE SPECIAL RATIONAL PLAYER ( Player Two )
 
+Players new to Kanban-Zai will likely fit the player 1 model.  On paper.  But their trust in Kanban-Zai will be 
+naturally low.  It will not be until they are "a season or two" in that they will actually start internalising the 
+situation.
 
-All other RPM's in Kanban-Zai ultimately inherit from this RTM.
+## THE IRRATIONAL PLAYER ( Player Three )
 
-* Understands the concept of Kanban-Zai.
-* Agrees to muster on as a team-mate or interested party.
-* Agrees to abide by the constraints, values and norms set forth in Kanban-Zai or Kanban-Zai extension.
-* Agrees to maintain a personal Kanban-Zai file and journal of company, team and individual deviations from Kanban-Zai.
-* Agrees to be subordinate to the team, which means agrees to participate in the consensus.
-* Agrees that every other member of the team are equal participants.
-* Agrees to follow any processes defined by the teams current implementation of Kanban-Zai.
-* Agrees to want to be present and interested in the team.
-* Agrees to want to improve the team, within the boundaries set by Kanban-Zai.
-* Agrees to allow others to improve the team, within the boundaries set by Kanban-Zai.
-* Agrees that interested parties are to be prioritised.
-* Agrees that external parties are to be managed by interested parties.  No direction can be taken from an external.
-* Expects all other players to conform to the relevant Rational Player Models.
+These players are NON-RATIONAL.  They do not share the beliefs of Player 1 because they do not understand them, and they
+quite likely never will.  To participate in a Kanban-Zai team these players require escorts or must adhere to an RPM
+but they may not have a SAY.
 
-## RATIONAL OBSERVERS (Interested Parties)
+WARNING: Team members MUST NOT take direction from Player Three.
 
-Primarily an interested party is the client tasked with a project by their employer.  Or they could be the primary 
-money source.  Their request must be prioritized with full discussion and transparency.
+## CLIENT EXTENDS PLAYER THREE
 
-## IRRATIONAL PLAYERS (External Parties)
+Clients have granted the special privilege of the ability to prioritize the work queue.
+ 
+## GUEST EXTENDS PLAYER THREE
 
-Are NON-RATIONAL PLAYERS.  Many times they are the ones paying, this is an obvious problem for the team as one paying 
-is usually the one who can make unreasonable demands.  For their sake and the teams their requests must be prioritised
-by the relevant interested parties and feedback given as to the impact of the request.  Team members MUST NOT take 
-direction from external parties.  Other external parties are of no consequence. 
+Serve as special advisors to a team for a defined time. They may not interrogate the team in any fashion, covert or 
+overt.  All actions taken by guests are journalable and their arrival and departure must be journaled.
 
-## GUESTS EXTEND IRRATIONAL PLAYERS
+## PAN EXTENDS PLAYER ONE
 
-From time to time the team may require specialized knowledge or experience.  In this case an individual maybe invited 
-onto the team for a time by a team member only, but without a consensus vote.  Guests have a special status on the team.
-They sit as part of the team. They do not have to be mustered, they may not vote, and their appearance on the team and
-subsequent departure from the team must be journaled.
-
-Upon arrival the journal must include the length of the guests expected stay.  If that stay is extended the new expected
-length of stay must be audited.
-
-Guests:-
-
-* have no voting rights on the team and remain advisors until their tenure ends.
-* must be fully transparent with regards their purpose and activities.
-* may not participate in any private discussion regarding the team, because that breaks the
-
-## PAN EXTEND RATIONAL PLAYERS (Peter Pan)
-
-Sometimes depending on the situation of the team, by a consensus only, any team member can be designated as "PAN".  
-
-Pan is a temporary designation allowing that individual veto power over a consensus for a defined period.  
-
-This maybe done without running a deviation and with only a quorum. It carries with it a maximum allowed 
-time of 1 month.  At which time the team can again choose to re-designate the person as "PAN" again.
-
-Only Team members may be designated as pan.
-
-* Panning must be journaled for every instance.  
+Via a quorum a rational player my be granted the privilege of pan.  Pan has veto over all consensus for a defined 
+period of no more than 1 month maximum.  The election must be journaled as must the start and end dates.

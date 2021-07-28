@@ -6,6 +6,7 @@ The core implementation comprises 4 elements and all can be extended.
 * Rational Trust Model
 * Rational Player Models
 * Rational Outcome Models
+* Objectively Modeled Gates
 * Referral Chain.
 
 At the end of the day Kanban-Zai is an idea, if you are really into theories you can think of it as a symmetric, 
@@ -24,7 +25,7 @@ The trust equation tells us how trust is hard to build and easy to destroy.
 ### Reputation and the Referral Chain
 
 Kanban-Zai is a graph.  It provides transparency about teams and individuals not possible previously.
-
+[core-jml](core-jml.md) 
 ---
 
 # THE RATIONAL TRUST MODEL
@@ -39,8 +40,8 @@ claim description.  If no alternative definition is provided valid in all contex
 ### CLAIMS
 
 Claims are something that an individual or team claim to be true about themselves.  In version 2.0 of the core, the only
-claims in Kanban-Zai are Rational Player Models and Rational Outcome Models.  See [core-rpm](./core-rpm.md) and 
-[core-rom](./core-rom.md) for more.
+claims in Kanban-Zai are Rational Player Models, Rational Outcome Models and Objectively Modeled Gateways.
+See [core-rpm](./core-rpm.md), [core-rom](core-rom.md) and [core-omg](core-omg.md) for more.
 
 ### JOURNAL (Referral Chain)
 
@@ -77,17 +78,23 @@ Unfinished work on a card in a sprint should be split out to one or more cards a
 
 #### NORM:CONSENSUS
 
-Core consensus requires an agreement of a quorum the mustered team members about the direction the team should be 
-taking. 
+Core consensus requires an agreement of a quorum of the mustered team members about the direction the team should be 
+taking.  Negative votes, and the reasons for them must be journaled.
 
 ### SETTINGS
 
-## Cadence
+#### Cadence
 
 Value: undefined
  
 Equivalent to a sprint in agile
  
+#### Speed Limit
+ 
+Value: 1
+  
+How many cards in play simultaneously.
+  
 #### egos (READONLY)
 
 Required Value: off
@@ -116,12 +123,18 @@ Without trust, there is no future, it is the capital and engine of progress.
 
 ### METHOD
 
-The default Kanban-Zai delivery method is a prioritised-backlog.  This is simply maintaining a list of ordered cards.  
-These cards can be in one of 4 states.
+All methods in Kanban-Zai are prioritised lists of work items.  The following process may be run whenever you like as
+many times as you like, but must be run completely with all steps considered.  In this context "considered" means a 
+failure to attempt the step, not a failure to achieve the intended outcome of the step.
 
-* Idea.         cards remain in this state until they break the product rom constraint.
-* staged.       cards remain in this state until they break the value rom constraint.
-* In Progress.  cards remain in this state until they break the quality rom constraint.
-* Done.         cards are removed from the backlog.
+The process is:-
 
-New cards should constantly be written to represent work needed.
+* Introduce a card to the list with a description of work required and work complete.
+* Label each card based upon full conformance to the Objectively Modeled Gates.
+* Each card in the list is given a priority by the client.
+* The list must be ordered by descending gate order and then descending priority.
+* Attempt to promote card equal to the speed limit from the top of the list.
+* Backport cards that require it.
+* Regress cards that no longer conform to gate criteria, for as many gates as needed.
+* Completed cards must be removed from the list.
+* Repeat until there are no more cards.

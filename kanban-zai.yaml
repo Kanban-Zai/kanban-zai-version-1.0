@@ -1,20 +1,18 @@
 Kanban-Zai:
   version: 2.5
   context: default
-  method: prioritised-backlog|link to method explaination
   settings:
     - egos: off|READONLY
     - quorum: 2
     - cadence: undefined
+    - speed-limit: 1
   claims:
-    - rational-players
-    - rational-observers
-    - irrational-players
+    - player1
+    - player2
+    - player3
     - pan
-    - guests
-    - product-rom
-    - value-rom
-    - quality-rom
+    - guest
+    - anathema-rom
   norms:
     - deviate
     - muster
@@ -27,4 +25,9 @@ Kanban-Zai:
     - The Journal can document anything as free text.  See Journal Markup Language for more detail.
   roster:
     - Player Type | Name | kanban-zai.yml file
+  method:
+    - idea
+    - ready
+    - wip
+    - completed
 
