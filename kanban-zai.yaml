@@ -14,8 +14,8 @@ Kanban-Zai:
     - pan|uri
     - guest|uri
     - anathema-rom|uri
-    - productivity|uri
-    - idea|uri
+    - productivity-rom|uri
+    - idea-rom|uri
   norms:
     - deviate
     - muster
