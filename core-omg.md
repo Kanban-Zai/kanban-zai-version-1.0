@@ -6,14 +6,22 @@ a gate to pass and higher numbered gates cannot acquire before lower gates.
 Promoting a work item through a gate without the gate first acquiring is a journalable action.  As is regressing.
 
  
-# 1: IDEA
-* an idea must be agreed by a quorum
+# 1: SUGGESTION
+* must be agreed by a quorum
+* must pass the idea-rom
 
-# 2: READY
+# 2: IDEA
 * Has acceptance criteria
+* Must have a value proposition
 
-# 3: WIP
-* all acceptance criteria have been fulfilled
+# 3: READY
+* Must be estimated
+
+# 4: WIP
+* Acceptance Criteria completed
+
+# 5: ACCEPTED
+* quality 
 
 # 4: COMPLETED
 * has been merged into master

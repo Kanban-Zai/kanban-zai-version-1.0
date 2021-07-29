@@ -24,7 +24,7 @@ _It is also predicted that the global developer population will increase to crus
 
 # Kanban-Zai.
 
-Kanban-Zai (KBZ) Methodology replaces the Agile and Waterfall Methodologies, in specific situations.
+Kanban-Zai (KBZ) is a teleology that replaces the Agile and Waterfall Methodologies, in specific situations.
 
 The concept of Kanban-Zai has evolved from more than 20 years in the trenches of waterfall and agile.
 
@@ -128,7 +128,8 @@ Reserved words in Kanban-zai
 These words are reserved for the Kanban-Zai core team only.  You may not use them in the name of any extension,
 module, setting or property without the prior approval of the core team.
 
-    Kanban-Zai, black, white, red, blue, yellow, green, amber.
+    Kanban-Zai, black, white, red, blue, yellow, green, amber, settings, claims, norms, values, journal,
+    roster, method, implements, hints, extends
 
 General requirements for naming in Kanban-Zai:
 

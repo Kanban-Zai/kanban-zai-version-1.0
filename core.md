@@ -32,10 +32,10 @@ Kanban-Zai is a graph.  It provides transparency about teams and individuals not
 
 ### CONTEXT
 
-This is a special setting.  It can be set to anything.  It's default is "none".  Context enables a shift in the 
-interpretation of Kanban-Zai.  Settings, Norms, Claims may have context specific definitions based on the context 
-property.  To use context, define its values relative to your implementation and define those in the setting, norm or
-claim description.  If no alternative definition is provided valid in all contexts is implied.
+Context defines which root node to find your collections of settings, method, values, norms and claims on.  The initial 
+context is default.  This means these should all be found on the root node.  When context is set to anything other than
+default, given that it can also not be one of the reserved words, then you use the settings on the root node named the
+same as the current context.
 
 ### CLAIMS
 
