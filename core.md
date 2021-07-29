@@ -81,6 +81,12 @@ Unfinished work on a card in a sprint should be split out to one or more cards a
 Core consensus requires an agreement of a quorum of the mustered team members about the direction the team should be 
 taking.  Negative votes, and the reasons for them must be journaled.
 
+#### NORM:SLACK
+
+What is slack? In common usage it probably has a negative connotation, as in “he has been slacking off”. But in 
+planning for successful sprints that yield consistent, high-quality results, it is essential.
+
+
 ### SETTINGS
 
 #### Cadence
