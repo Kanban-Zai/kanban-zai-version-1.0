@@ -93,7 +93,7 @@ planning for successful sprints that yield consistent, high-quality results, it 
 
 Value: undefined
  
-Equivalent to a sprint in agile
+This value defines at what interval you repeat the method.
  
 #### Speed Limit
  
