@@ -8,14 +8,15 @@ Kanban-Zai:
     - speed-limit: 1
     - deadlines: not-allowed
   claims:
-    - player1|uri
-    - player2|uri
-    - player3|uri
-    - pan|uri
-    - guest|uri
-    - anathema-rom|uri
-    - productivity-rom|uri
-    - idea-rom|uri
+    - player1
+    - player2
+    - player3
+    - pan
+    - guest
+    - anathema-rom
+    - productivity-rom
+    - idea-rom
+    - rim|uri
   norms:
     - deviate
     - muster

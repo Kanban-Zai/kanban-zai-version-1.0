@@ -1,6 +1,6 @@
 # Rational Outcome Models
 
-ROM's are objective definitions about the final state of some aspect of your process.
+ROMs are objective definitions about the final state of some aspect of your process.
 
 # Browser Model Example
 

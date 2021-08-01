@@ -2,10 +2,11 @@
 
 Kanban-Zai is an interpretation and implementation of [collaborative game theory](https://en.wikipedia.org/wiki/Cooperative_game_theory), [constraint theory](https://en.wikipedia.org/wiki/Theory_of_constraints), [consensus theory](https://en.wikipedia.org/wiki/Consensus_theory) and [swift trust theory](https://en.wikipedia.org/wiki/Swift_trust_theory) amongst others.  When you implement Kanban-Zai you are making a conscious choice to VALUE objectivity, predictability and trust.
 
-The core implementation comprises 4 elements and all can be extended.
+The core implementation comprises 6 elements and all can be extended.
 * Rational Trust Model
 * Rational Player Models
 * Rational Outcome Models
+* Rational Increment Models
 * Objectively Modeled Gates
 * Referral Chain.
 
@@ -40,8 +41,11 @@ same as the current context.
 ### CLAIMS
 
 Claims are something that an individual or team claim to be true about themselves.  In version 2.0 of the core, the only
-claims in Kanban-Zai are Rational Player Models, Rational Outcome Models and Objectively Modeled Gateways.
-See [core-rpm](./core-rpm.md), [core-rom](core-rom.md) and [core-omg](core-omg.md) for more.
+claims in Kanban-Zai are [Rational Player Models](./core-rpm.md), [Rational Outcome Models](core-rom.md), [Rational Increment Model](core-rim.md) and [Objectively Modeled Gateways](core-omg.md).
+
+Claims are listed in the kanban-zai.yaml file.  If a claim does not have a uri attached then the claim is defined as
+the claim of the same name defined in the core.  If the name does not exist in the core it is considered invalid.  If
+the content at the resolution of an uri does not describe a Kanban-Zai claim it is invalid.
 
 ### JOURNAL (Referral Chain)
 
@@ -129,18 +133,14 @@ Without trust, there is no future, it is the capital and engine of progress.
 
 ### METHOD
 
-All methods in Kanban-Zai are prioritised lists of work items.  The following process may be run whenever you like as
-many times as you like, but must be run completely with all steps considered.  In this context "considered" means a 
-failure to attempt the step, not a failure to achieve the intended outcome of the step.
+The following process must be run at cadence, completely with all steps considered.  In this context "considered" means 
+a step must be attempted, whether it fails to acquire or not.
 
-The process is:-
+The team MUST:-
 
-* Introduce a card to the list with a description of work required and work complete.
-* Label each card based upon full conformance to the Objectively Modeled Gates.
-* Each card in the list is given a priority by the client.
-* The list must be ordered by descending gate order and then descending priority.
-* Attempt to promote card equal to the speed limit from the top of the list.
-* Backport cards that require it.
-* Regress cards that no longer conform to gate criteria, for as many gates as needed.
-* Completed cards must be removed from the list.
-* Repeat until there are no more cards.
+1. Consider the top card in the RIM.
+2. Label the card based on the Objectively Modeled Gates it acquires to.
+3. Backport work from the card that does not make sense to remain in this cadence step.
+4. Attempt to promote or demote the card to the nearest OMG
+5. Completed cards must be removed from the list.
+6. Repeat until there are no more cards.

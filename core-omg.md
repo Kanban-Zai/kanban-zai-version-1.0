@@ -11,17 +11,16 @@ Promoting a work item through a gate without the gate first acquiring is a journ
 * must pass the idea-rom
 
 # 2: IDEA
-* Has acceptance criteria
 * Must have a value proposition
 
 # 3: READY
 * Must be estimated
 
 # 4: WIP
-* Acceptance Criteria completed
+* Must be the top card
 
 # 5: ACCEPTED
-* quality 
+* quality measured
 
 # 4: COMPLETED
 * has been merged into master
