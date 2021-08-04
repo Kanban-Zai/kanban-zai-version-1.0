@@ -95,9 +95,11 @@ planning for successful sprints that yield consistent, high-quality results, it 
 
 #### Cadence
 
-Value: undefined
+Value: 0
  
-This value defines at what interval you repeat the method.
+Cadence defines time.  It is the "Tick" when all state chances must be made.  You can change state whenever you like
+so your team could be running at a faster or slower cadence than you like.  Cadence is not about delivery speed it is 
+a yard stick to give objective perspective to decision that are made.  Every team runs at its own cadence.
  
 #### Speed Limit
  
@@ -139,8 +141,7 @@ a step must be attempted, whether it fails to acquire or not.
 The team MUST:-
 
 1. Consider the top card in the RIM.
-2. Label the card based on the Objectively Modeled Gates it acquires to.
-3. Backport work from the card that does not make sense to remain in this cadence step.
-4. Attempt to promote or demote the card to the nearest OMG
-5. Completed cards must be removed from the list.
-6. Repeat until there are no more cards.
+3. Backport unfinished work on a card where sensible.
+2. Promote or demote and label the card based on the Objectively Modeled Gates it acquires to.
+4. Completed cards must be removed from the list.
+5. Repeat at cadence until there are no more cards.
