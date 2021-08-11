@@ -2,14 +2,6 @@
 
 Kanban-Zai is an interpretation and implementation of [collaborative game theory](https://en.wikipedia.org/wiki/Cooperative_game_theory), [constraint theory](https://en.wikipedia.org/wiki/Theory_of_constraints), [consensus theory](https://en.wikipedia.org/wiki/Consensus_theory) and [swift trust theory](https://en.wikipedia.org/wiki/Swift_trust_theory) amongst others.  When you implement Kanban-Zai you are making a conscious choice to VALUE objectivity, predictability and trust.
 
-The core implementation comprises 6 elements and all can be extended.
-* Rational Trust Model
-* Rational Player Models
-* Rational Outcome Models
-* Rational Increment Models
-* Objectively Modeled Gates
-* Referral Chain.
-
 At the end of the day Kanban-Zai is an idea, if you are really into theories you can think of it as a symmetric, 
 non-zero, cooperative, sequential game in game theory, but really it is just a way for humans to collaborate and 
 uses multiple ideas to build heuristics to help teams be better.  It is not dogma. 
@@ -40,8 +32,7 @@ same as the current context.
 
 ### CLAIMS
 
-Claims are something that an individual or team claim to be true about themselves.  In version 2.0 of the core, the only
-claims in Kanban-Zai are [Rational Player Models](./core-rpm.md), [Rational Outcome Models](core-rom.md), [Rational Increment Model](core-rim.md) and [Objectively Modeled Gateways](core-omg.md).
+Claims are something that an individual or team claim to be true about themselves.
 
 Claims are listed in the kanban-zai.yaml file.  If a claim does not have a uri attached then the claim is defined as
 the claim of the same name defined in the core.  If the name does not exist in the core it is considered invalid.  If
@@ -73,39 +64,15 @@ allowed between deviations being 3 monthly.  Keep it short and involve everybody
 The roster is a list of all current team members and interested parties.  New members must be added.  
 Old members must be removed.  A consensus vote is required to be mustered as a team member.
 
-#### NORM:BACKPORTING
-
-Back porting is a strategy of Kanban-Zai that allows cards to be split or combined rationally to manage scope creep, 
-unknown unknowns and early thinking.  This allows justifiable explanations for the delivery runway length.
-
-Unfinished work on a card in a sprint should be split out to one or more cards and those cards prioritized.
 
 #### NORM:CONSENSUS
 
 Core consensus requires an agreement of a quorum of the mustered team members about the direction the team should be 
 taking.  Negative votes, and the reasons for them must be journaled.
 
-#### NORM:SLACK
-
-What is slack? In common usage it probably has a negative connotation, as in “he has been slacking off”. But in 
-planning for successful sprints that yield consistent, high-quality results, it is essential.
 
 
 ### SETTINGS
-
-#### Cadence
-
-Value: 0
- 
-Cadence defines time.  It is the "Tick" when all state chances must be made.  You can change state whenever you like
-so your team could be running at a faster or slower cadence than you like.  Cadence is not about delivery speed it is 
-a yard stick to give objective perspective to decision that are made.  Every team runs at its own cadence.
- 
-#### Speed Limit
- 
-Value: 1
-  
-How many cards in play simultaneously.
   
 #### egos (READONLY)
 
@@ -115,9 +82,6 @@ Required Value: off
 
 Possible Values: 2 | # > 2  DEFAULT: 2
 
-#### deadlines  (READONLY)
-
-Required Value: not-allowed
 
 ### VALUES
 
@@ -133,15 +97,4 @@ The fact of always behaving or occurring in the way expected.
 
 Without trust, there is no future, it is the capital and engine of progress.
 
-### METHOD
 
-The following process must be run at cadence, completely with all steps considered.  In this context "considered" means 
-a step must be attempted, whether it fails to acquire or not.
-
-The team MUST:-
-
-1. Consider the top card in the RIM.
-3. Backport unfinished work on a card where sensible.
-2. Promote or demote and label the card based on the Objectively Modeled Gates it acquires to.
-4. Completed cards must be removed from the list.
-5. Repeat at cadence until there are no more cards.

@@ -1,27 +1,20 @@
 Kanban-Zai:
   version: 2.5
   context: default
+  implements:
+    - kbz-increment-m
   settings:
     - egos: off|READONLY
     - quorum: 2
-    - cadence: undefined
-    - speed-limit: 1
-    - deadlines: not-allowed
   claims:
-    - player1
-    - player2
-    - player3
-    - pan
-    - guest
-    - anathema-rom
-    - productivity-rom
-    - idea-rom
-    - rim|uri
+    - behaviours
+    - outcomes
+    - players
+    - value
   norms:
     - deviate
     - muster
     - consensus
-    - slack
   values:
     - objectivity
     - predictability
@@ -30,11 +23,3 @@ Kanban-Zai:
     - The Journal can document anything as free text.  See Journal Markup Language for more detail.
   roster:
     - Player Type | Name | kanban-zai.yml file
-  method:
-    - suggestion
-    - idea
-    - ready
-    - wip
-    - accepted
-    - completed
-

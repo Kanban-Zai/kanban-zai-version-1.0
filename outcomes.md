@@ -1,8 +1,22 @@
-# Rational Outcome Models
+# Outcomes
 
-ROMs are objective definitions about the final state of some aspect of your process.
+Outcomes are an important part of any endeavour.  But they must make sense.  Did you achieve what you set out to do, or
+at least did you achieve what you could given the constraints.
 
-# Browser Model ( Team definition required )
+Kanban-Zai requires all outcomes to be objective and rational and defined ahead of the outcome.  There are 2 types of 
+outcome possible.  Value proposition outcomes and constraints.
+
+A value proposition outcome constrains how much work is done to achieve a value proposition because the reality is that
+unless the value proposition is very specific it is hard to know when you have done enough.  Sometimes a VP requires 
+additional steps to ensure the correct delivery of the work.  Either way, for that to be objective it must be defined.
+ 
+Constraints are essentially the same thing as VPO's but are applied to the project as a whole.
+
+# BROAD CONSTRAINTS
+
+    These are general outcomes that must be accepted by all players on a Kanban-Zai team.
+
+# Browser ( Team definition required )
 
     Chrome, firefox, ios, android - latest version.
     
@@ -40,22 +54,8 @@ ROMs are objective definitions about the final state of some aspect of your proc
     This scenario has real world parallels.  The famous line  "If I Had More Time, I Would Have Written a Shorter 
     Letter" perfectly explains what complexity and more specifically what code quality is.
 
-# Value Proposition
 
-    Percieved Value = Percieved Value ^ 3
-    
-    VP's are probably the hardest thing about any project.  From a traditional perspective is looks like this
-    
-        Value = what the users wants + what you provide - what your competitors provide.
-        
-    In present times it depends on 3 factors.
-    
-    Market Fit - This is the domain of the client.  It is all about market appitites.
-    Business Fit - This is bout the business rules and ultimatley how the business is going to moneitize the product
-    Technology Fit - If the technology is current and can do what is required great.  Keep away from sunrise & sunset 
-                    tech as a rule of thumb.  but also don ignore them out of hand.
-    
-# Cheap, Fast, Reliable. Choose 2.
+# Quality: Cheap, Fast, Reliable. Choose 2.
 
     Cheap + fast = Lower quality work.  Meaning, the "value proposition" has probably been so de-scoped it barely 
                    resembles what was originally asked for. ( this is a good thing by the way )
@@ -68,18 +68,18 @@ ROMs are objective definitions about the final state of some aspect of your proc
 
     In a huge twist of irony, cheap and fast is probably the best outcome for everybody.  Be Aware, cheap does not equal
     bargin basement, infact it is probably exactly the same rate as reliable, but because the "value proposition" has 
-    been simplified much less time will be spent.
+    been simplified much less time will be spent than would have otherwise been spent.
     
 # Productivity Model ( Required in ALL implementations of Kanban-Zai )
 
     According to the Sanderson Uncertainty Principle, SUP for short, to measure productivity is to cause unproductivity.
     
-    It is a fallacy that it can be measured.  Kanban-Zai only permits the measurement of quality output. 
+    It is a fallacy that productivity can be measured.  Kanban-Zai only permits the measurement of quality output. 
      
     What is quality output?
     
     In short a client provides a "value proposition".  The measure of quality becomes, once that "value proposition" is 
-    delivered is it exactly what was asked for?
+    delivered, is it exactly what was asked for?
     
     The obvious difficulty here is creating a clear VP, it is a very hard problem to solve, mainly because it is an
     unsolveable problem in the context of objectivity. 
