@@ -6,18 +6,21 @@ Kanban-Zai:
   settings:
     - egos: off|READONLY
     - quorum: 2
-  claims:
-    - behaviours
-    - outcomes
-    - players
+  beliefs:
+    - rationality
+    - irrationality
+    - commonsense
+  outcomes:
     - value
   norms:
     - deviate
     - muster
     - consensus
+    - pan
   values:
     - objectivity
     - predictability
+    - tolerance
     - trust
   journal:
     - The Journal can document anything as free text.  See Journal Markup Language for more detail.

@@ -1,10 +1,16 @@
 #  KANBAN-ZAI CORE - WHAT IS IT?
 
-Kanban-Zai is an interpretation and implementation of [collaborative game theory](https://en.wikipedia.org/wiki/Cooperative_game_theory), [constraint theory](https://en.wikipedia.org/wiki/Theory_of_constraints), [consensus theory](https://en.wikipedia.org/wiki/Consensus_theory) and [swift trust theory](https://en.wikipedia.org/wiki/Swift_trust_theory) amongst others.  When you implement Kanban-Zai you are making a conscious choice to VALUE objectivity, predictability and trust.
+Kanban-Zai is an interpretation and implementation of [collaborative game theory](https://en.wikipedia.org/wiki/Cooperative_game_theory), [constraint theory](https://en.wikipedia.org/wiki/Theory_of_constraints), [consensus theory](https://en.wikipedia.org/wiki/Consensus_theory) and [swift trust theory](https://en.wikipedia.org/wiki/Swift_trust_theory) amongst others.  
+When you implement Kanban-Zai you are making a conscious choice to VALUE objectivity, predictability, tolerance and trust.
 
-At the end of the day Kanban-Zai is an idea, if you are really into theories you can think of it as a symmetric, 
-non-zero, cooperative, sequential game in game theory, but really it is just a way for humans to collaborate and 
-uses multiple ideas to build heuristics to help teams be better.  It is not dogma. 
+### Beliefs, Behaviours and constraints
+
+Kanban-Zai is a belief system that leverages behaviors and constraints to define a framework in which people can work
+objectively and effectively.  It is a way for humans to collaborate and co-opts many different ideas about project
+management to build heuristics that help teams be better.  It is important to recognise that it is not dogma. 
+
+NOTE: In constraint theory constraints restrict throughput and should be.  In Kanban-Zai constraints focus attention and
+must not be broken.
 
 ### The Trust Equation
 
@@ -19,6 +25,7 @@ The trust equation tells us how trust is hard to build and easy to destroy.
 
 Kanban-Zai is a graph.  It provides transparency about teams and individuals not possible previously.
 [core-jml](core-jml.md) 
+
 ---
 
 # THE RATIONAL TRUST MODEL
@@ -30,14 +37,6 @@ context is default.  This means these should all be found on the root node.  Whe
 default, given that it can also not be one of the reserved words, then you use the settings on the root node named the
 same as the current context.
 
-### CLAIMS
-
-Claims are something that an individual or team claim to be true about themselves.
-
-Claims are listed in the kanban-zai.yaml file.  If a claim does not have a uri attached then the claim is defined as
-the claim of the same name defined in the core.  If the name does not exist in the core it is considered invalid.  If
-the content at the resolution of an uri does not describe a Kanban-Zai claim it is invalid.
-
 ### JOURNAL (Referral Chain)
 
 All deviations from Rational Player Models, Rational Outcome Models or The Rational Trust Model must be journaled in 
@@ -47,32 +46,59 @@ However, anything may be journaled and by anyone in their own personal kanban-za
 
 See [core-jml](./core-jml.md) for more.
 
+---
+### BELIEFS
+
+#### RATIONALITY
+
+To be rational in Kanban-Zai is to want to play by the rules.  However, rationality is not enough: each player must also 
+believe that all other players are rational. Even this is not enough: each player must believe that all other players 
+believe that all other players are rational.
+
+#### IRRATIONALITY
+
+To be irrational in Kanban-Zai is to not share the same belief of rationality because they do not understand them, and
+quite likely never will.  Irrational players do not have say in a Kanban-Zai Team.
+
+### COMMONSENSE
+
+Common sense works different in the digital world.  What is obvious and sensibly in the real world may not be in the 
+digital.  A poor choice in the digital can have outrageous time and cost penalties when compared to a similar 
+circumstance in the real.  Maybe.
+
+---
+
 ### TEAM NORMS
 
 These are behaviours that are regularly encouraged or required of team members.  They can also be behaviours that, 
 while not common or generally accepted as normal, are accepted as normal on a team.
 
-#### NORM:DEVIATE
+#### DEVIATE
 
 A deviation is not a retrospective in the agile sense.
 
 It is a formal method of allowing settings to be changed in Kanban-Zai and must be run regularly with the maximum time 
 allowed between deviations being 3 monthly.  Keep it short and involve everybody.  Change by a consensus only. 
 
-#### NORM:MUSTER
+#### MUSTER
 
 The roster is a list of all current team members and interested parties.  New members must be added.  
 Old members must be removed.  A consensus vote is required to be mustered as a team member.
 
 
-#### NORM:CONSENSUS
+#### CONSENSUS
 
 Core consensus requires an agreement of a quorum of the mustered team members about the direction the team should be 
 taking.  Negative votes, and the reasons for them must be journaled.
 
+#### PAN
 
+Via a quorum a rational player can be granted the privilege of pan.  Pan, has veto power over all consensus for a defined 
+period of no more than 1 month maximum.  The election must be journaled as must the start and end dates.
 
-### SETTINGS
+---
+
+### SETTINGS (constraints)
   
 #### egos (READONLY)
 
@@ -82,6 +108,7 @@ Required Value: off
 
 Possible Values: 2 | # > 2  DEFAULT: 2
 
+---
 
 ### VALUES
 
@@ -93,8 +120,25 @@ Objectivity is necessary to get an accurate explanation of how things work.
 
 The fact of always behaving or occurring in the way expected.
 
+#### tolerance (READONLY)
+
+Miscommunication is inevitable.  Only through tolerance can it be dampened.
+
 #### trust (READONLY)
 
 Without trust, there is no future, it is the capital and engine of progress.
 
+---
 
+### OUTCOMES
+
+#### value
+
+Value to customers and ultimately the definition of quality, is a very subjective concept.  It is what your customers 
+perceive it to be.  It's so subjective, that it's hard to define it. If you know what customers benchmark as value 
+you can provide it.  
+
+Ultimately the client holds the responsibility of defining what value means to them and it depends on 3 factors
+* Market Fit
+* Business Fit
+* Technology Fit
