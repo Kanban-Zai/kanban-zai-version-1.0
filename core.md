@@ -1,6 +1,10 @@
 #  KANBAN-ZAI CORE - WHAT IS IT?
 
-Kanban-Zai is an interpretation and implementation of [collaborative game theory](https://en.wikipedia.org/wiki/Cooperative_game_theory), [constraint theory](https://en.wikipedia.org/wiki/Theory_of_constraints), [consensus theory](https://en.wikipedia.org/wiki/Consensus_theory) and [swift trust theory](https://en.wikipedia.org/wiki/Swift_trust_theory) amongst others.  
+Kanban-Zai is an interpretation and implementation of, amongst others
+* [collaborative game theory](https://en.wikipedia.org/wiki/Cooperative_game_theory)
+* [constraint theory](https://en.wikipedia.org/wiki/Theory_of_constraints)
+* [consensus theory](https://en.wikipedia.org/wiki/Consensus_theory)
+* [swift trust theory](https://en.wikipedia.org/wiki/Swift_trust_theory)  
 When you implement Kanban-Zai you are making a conscious choice to VALUE objectivity, predictability, tolerance and trust.
 
 ### Beliefs, Behaviours and constraints
@@ -122,7 +126,7 @@ The fact of always behaving or occurring in the way expected.
 
 #### tolerance (READONLY)
 
-Miscommunication is inevitable.  Only through tolerance can it be dampened.
+Tolerance is a value orientation towards difference.
 
 #### trust (READONLY)
 
