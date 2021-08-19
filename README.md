@@ -19,7 +19,7 @@ _It is also predicted that the global developer population will increase to crus
 
 ...
 
-[Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers](https://www.future-processing.com/blog/how-many-developers-are-there-in-the-world-in-2019/#how-many-developers-are-there-in-the-world-in-2021)
+[Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers](https://www.future-processing.com/blog/how-many-developers-are-there-in-the-world-in-2019/#how-many-developers-are-there-in-the-world-in-2021)
 
 
 # Kanban-Zai.
