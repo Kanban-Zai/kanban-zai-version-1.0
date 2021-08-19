@@ -43,10 +43,14 @@ same as the current context.
 
 ### JOURNAL (Referral Chain)
 
-All deviations from Rational Player Models, Rational Outcome Models or The Rational Trust Model must be journaled in 
-the team kanban-zai.yaml file, but ony when explicitly stated by the kanban-zai implementation.
+A journal entry is a record of dissent from consensus.  For practical purposes only two types of dissent are detailed
+here, but anything may be recorded.  The two types are, disagreeing with the rules and breaking the rules.  
 
-However, anything may be journaled and by anyone in their own personal kanban-zai.yaml files.  
+Both must be journaled in the team or if that is not possible your own personal kanban-zai.yaml file.  Anything may be 
+journaled and by anyone in their own personal kanban-zai.yaml files.
+
+Generally speaking the team Kanban-Zai file is reserved for recording breaches of consensus from outside the team and
+where Kanban-Zai rules explicity state a journal is required.  But it is not limited to this. 
 
 See [core-jml](./core-jml.md) for more.
 
@@ -136,24 +140,32 @@ Without trust, there is no future, it is the capital and engine of progress.
 
 ### OUTCOMES
 
+All work has outcomes.  In the digital world rational outcomes are required to limit the total possible scope of work.
+For example. A definition of done or a supported browser matrix are great examples of rational outcomes.  Outcomes are 
+everywhere.  An outcome can be measured after the first step of a process or the last or anywhere in the middle.
+
 #### value
 
-Value to customers and ultimately the definition of quality, is a very subjective concept.  It is what your customers 
+Value to customers and ultimately tangible quality, is a very subjective concept.  It is what your customers 
 perceive it to be.  It's so subjective, that it's hard to define it. If you know what customers benchmark as value 
 you can provide it.  
 
-Ultimately the client holds the responsibility of defining what value means to them and it depends on 3 factors
+Ultimately the client holds the responsibility of defining what value means to them, and it depends on 3 factors
 * Market Fit
 * Business Fit
 * Technology Fit
 
 #### quality
 
-Quality is defined as exact delivery of value asked for.  There is hidden danger in this statement as it seems to say
-that value is the responsibility of the delivery team.  It is not.  
+Quality is value made tangible. What was asked for is delivered.  
 
-Value is what the customer defines, the more accurate the definition the better the value.  A poor definition of value 
-must still result in the exact delivery of the value described.
+There is hidden danger in this statement as it seems to say that value is the responsibility of the delivery team.  
+It is not.  
+
+Value is what the customer defines, quality is what is finally delivered.  Tangibility.
+
+The more accurate the definition of value the better the tangible quality.  A poor definition of value must still result
+in the exact delivery of the value described.
 
 The caveat here is that development is not static.  The delivery team are the people best situated to give early 
 feedback about the value proposition as well as cost/benefit ratios and work around's.  Therefore, value can be tweaked
