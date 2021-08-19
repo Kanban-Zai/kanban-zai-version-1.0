@@ -45,7 +45,7 @@ kanban-zai.yaml file in a public code repository of your choice.
 * It must be kept current and reflective of the present.
 * May only be modified by rostered team members.
 
-[The Kanban-Zai Core](https://github.com/Kanban-Zai/kbz-core/core.md)
+[The Kanban-Zai Core](https://github.com/Kanban-Zai/kbz-core/blob/master/core.md)
 
 ## EXTEND
 
