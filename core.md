@@ -35,6 +35,11 @@ Kanban-Zai is a graph.  It provides transparency about teams and individuals not
 
 # THE RATIONAL TRUST MODEL
 
+The rational trust model that is Kanban-Zai is defined in succinctly the [kanban-zai.yaml](./kanban-zai.yaml) file.  
+This readme file (that you are looking at now ) and other official documentation provide depth and clarity.  Tools to 
+make leverage the power of the Kanban-Zai file are planned.
+
+
 ### CONTEXT
 
 Context defines which root node to find your collections of settings, method, values, norms and claims on.  The initial 
