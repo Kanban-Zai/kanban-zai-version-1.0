@@ -14,8 +14,8 @@ Kanban-Zai is a belief system that leverages behaviors and constraints to define
 objectively and effectively.  It is a way for humans to collaborate and co-opts many different ideas about project
 management to build heuristics that help teams be better.  It is important to recognise that it is not dogma. 
 
-NOTE: In constraint theory constraints restrict throughput and should be.  In Kanban-Zai constraints focus attention and
-must not be broken.
+NOTE: In constraint theory, constraints restrict throughput must be broken.  In Kanban-Zai constraints focus attention 
+and must not be broken.
 
 ### The Trust Equation
 
