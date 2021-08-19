@@ -126,7 +126,7 @@ The fact of always behaving or occurring in the way expected.
 
 #### tolerance (READONLY)
 
-Tolerance is a value orientation towards difference.
+Tolerance is a value orientation towards difference.  Or more simply.  Difference is good.
 
 #### trust (READONLY)
 
@@ -146,3 +146,15 @@ Ultimately the client holds the responsibility of defining what value means to t
 * Market Fit
 * Business Fit
 * Technology Fit
+
+#### quality
+
+Quality is defined as exact delivery of value asked for.  There is hidden danger in this statement as it seems to say
+that value is the responsibility of the delivery team.  It is not.  
+
+Value is what the customer defines, the more accurate the definition the better the value.  A poor definition of value 
+must still result in the exact delivery of the value described.
+
+The caveat here is that development is not static.  The delivery team are the people best situated to give early 
+feedback about the value proposition as well as cost/benefit ratios and work around's.  Therefore, value can be tweaked
+as part of the delivery process.
