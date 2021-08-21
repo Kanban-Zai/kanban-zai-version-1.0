@@ -1,14 +1,24 @@
-...
 
-The latest available entrepreneur statistics worldwide in 2020 reveal that there are now 582 million entrepreneurs in 
-the world, with many operating from exotic locations.
+Is there really a shortage of developers? Yes, But The Problem Is More Complicated Than It Looks.
 
 ...
 
-Today, software is the driving force of the world – with an estimated 9 trillion devices in use, it is the glue that 
-connects people from all around the globe. 
+a shortage of four million cybersecurity workers...
 
-_Software developers are shaping and building the modern technological world._
+...
+
+In 2020, an estimated 1 million computer programming-related jobs in the US are expected to be unfilled.
+
+...
+
+The IT industry is rapidly changing, which has led to a shortage of software engineers to help manage workloads, new 
+technologies and new ways of working. According to November 2019 insights from CNBC News, there are about 920,000 
+unfilled IT positions.
+
+...
+
+The root of the problem is a general shortage of engineers across the tech space. In London alone (2020), there are over
+ 5,000 software engineer vacancies and over 6,500 for software developers according to Adzuna
 
 ...
 
@@ -19,7 +29,30 @@ _It is also predicted that the global developer population will increase to crus
 
 ...
 
-[Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers](https://www.future-processing.com/blog/how-many-developers-are-there-in-the-world-in-2019/#how-many-developers-are-there-in-the-world-in-2021)
+Reportedly, there are about 300 million people who are trying to start 150 million businesses worldwide. One-third of 
+that number are to be launched, and there are about 50 million new businesses each year, which leads to 137,000 startups
+ made per day.
+
+...
+
+The latest available entrepreneur statistics worldwide in 2020 reveal that there are now 582 million entrepreneurs in 
+the world, with many operating from exotic locations.
+
+...
+
+Worldwide, there are about 472 million entrepreneurs. Statistically, there are about 305 million total startups created
+in a year. 1.35 million businesses out of those startups are tech related.
+
+...
+
+Today, software is the driving force of the world – with an estimated 9 trillion devices in use, it is the glue that 
+connects people from all around the globe. 
+
+_Software developers are shaping and building the modern technological world._
+
+...
+
+[Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers](https://www.gemconsortium.org/reports/latest-global-report)
 
 
 # Kanban-Zai.
