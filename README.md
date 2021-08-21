@@ -99,7 +99,7 @@ its delivery process, backed by the core ROMS.  It is recommended that you use a
 
 What is a module?
 
-Modules a pre-packaged collections of Kanban-Zai concepts and ideas that you might want to include in yout process.
+Modules a pre-packaged collections of Kanban-Zai concepts and ideas that you might want to include in your process.
 
 The rules of extension:
 
