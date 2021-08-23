@@ -3,13 +3,16 @@ Is there really a shortage of developers? Yes, But The Problem Is More Complicat
 
 ...
 
-In 2020, an estimated 1 million computer programming-related jobs in the US are expected to be unfilled.
+The IT industry is rapidly changing, which has led to a shortage of software engineers to help manage workloads, new 
+technologies and new ways of working. 
 
 ...
 
-The IT industry is rapidly changing, which has led to a shortage of software engineers to help manage workloads, new 
-technologies and new ways of working. According to November 2019 insights from CNBC News, there are about 920,000 
-unfilled IT positions.
+According to November 2019 insights from CNBC News, there are about 920,000 unfilled IT positions.
+
+...
+
+In 2020, an estimated 1 million, computer programming-related jobs in the US are expected to be unfilled.
 
 ...
 
@@ -31,20 +34,34 @@ that number are to be launched, and there are about 50 million new businesses ea
 
 ...
 
-The latest available entrepreneur statistics worldwide in 2020 reveal that there are now 582 million entrepreneurs in 
-the world, with many operating from exotic locations.
+
+Worldwide, there are between 300 million and 582 million entrepreneurs. With many operating from  exotic locations.
 
 ...
 
-Worldwide, there are about 472 million entrepreneurs. Statistically, there are about 305 million total startups created
-in a year. 1.35 million businesses out of those startups are tech related.
+Statistically, there are between 150 million and 305 million total startups created in a year. 
 
 ...
+
+1.35 million businesses out of those startups are tech related.  Almost all require software to function.
+
+...
+
+The U.S. is the largest tech market in the world, coming in at $1.6 trillion in 2019 with the smallest tech markets 
+being in the few billions.
+
+... 
 
 Today, software is the driving force of the world – with an estimated 9 trillion devices in use, it is the glue that 
-connects people from all around the globe. 
+connects people from all around the globe.  It's growth and complexity will only continue.
+
+...
 
 _Software developers are shaping and building the modern technological world._
+
+...
+
+The demand for developers, testers, product owners, technical owners and peripheral roles will not be met soon.
 
 ...
 
