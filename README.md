@@ -61,7 +61,7 @@ connects people from all around the globe.  It's growth and complexity will only
 
 ...
 
-_Software developers are shaping and building the modern technological world._
+_Software developers and the technical sphere are shaping and building the modern technological world._
 
 ...
 
