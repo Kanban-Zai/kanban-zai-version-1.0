@@ -28,12 +28,6 @@ _It is also predicted that the global developer population will increase to crus
 
 ...
 
-Reportedly, there are about 300 million people who are trying to start 150 million businesses worldwide. One-third of 
-that number are to be launched, and there are about 50 million new businesses each year, which leads to 137,000 startups
- made per day.
-
-...
-
 
 Worldwide, there are between 300 million and 582 million entrepreneurs. With many operating from  exotic locations.
 
@@ -41,6 +35,11 @@ Worldwide, there are between 300 million and 582 million entrepreneurs. With man
 
 Statistically, there are between 150 million and 305 million total startups created in a year. 
 
+...
+
+If One-third of that number are to be launched, and there are about 50 to 100 million new businesses each year, which 
+leads to 137,000 - 200,000 startups made per day.
+ 
 ...
 
 1.35 million businesses out of those startups are tech related.  Almost all require software to function.
