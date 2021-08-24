@@ -46,8 +46,13 @@ leads to 137,000 - 200,000 startups made per day.
 
 ...
 
-The U.S. is the largest tech market in the world, coming in at $1.6 trillion in 2019 with the smallest tech markets 
-being in the few billions.
+The U.S. is the largest tech market in the world, coming in at $1.6 trillion followed by the European Union, China, 
+Japan and India.  The rest of the world accounts for 30% of the total market estimated to be between 4-8 trillion 
+dollars.
+
+...
+
+And Growing.
 
 ... 
 
