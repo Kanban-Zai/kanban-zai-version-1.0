@@ -2,7 +2,7 @@ Kanban-Zai:
   version: 2.5
   context: default
   implements:
-    - kbz-increment-m
+    - kbz-example-m
   settings:
     - egos: off|READONLY
     - quorum: 2
