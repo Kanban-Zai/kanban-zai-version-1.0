@@ -1,21 +1,12 @@
 #  KANBAN-ZAI CORE - WHAT IS IT?
 
-Kanban-Zai is an interpretation and implementation of, amongst others
-* [collaborative game theory](https://en.wikipedia.org/wiki/Cooperative_game_theory)
-* [constraint theory](https://en.wikipedia.org/wiki/Theory_of_constraints)
-* [consensus theory](https://en.wikipedia.org/wiki/Consensus_theory)
-* [swift trust theory](https://en.wikipedia.org/wiki/Swift_trust_theory)
-
-When you implement Kanban-Zai you are making a conscious choice to VALUE objectivity, predictability, tolerance and trust.
+Kanban-Zai is about bringing objectivity to a development team by inspiring tolerance and trust.
 
 ### Beliefs, Behaviours and constraints
 
 Kanban-Zai is a belief system that leverages behaviors and constraints to define a framework in which people can work
-objectively and effectively.  It is a way for humans to collaborate and co-opts many different ideas about project
+objectively.  It is a way for humans to collaborate and co-opts many different ideas about project
 management to build heuristics that help teams be better.  It is important to recognise that it is not dogma. 
-
-NOTE: In constraint theory, constraints restrict throughput must be broken.  In Kanban-Zai constraints focus attention 
-and must not be broken.
 
 ### The Trust Equation
 
@@ -33,11 +24,11 @@ Kanban-Zai is a graph.  It provides transparency about teams and individuals not
 
 ---
 
-# THE RATIONAL TRUST MODEL
+# DESCRIBING THE RATIONAL TRUST MODEL (kanban-zai.yml)
 
 The rational trust model that is Kanban-Zai is defined in succinctly the [kanban-zai.yaml](./kanban-zai.yaml) file.  
 This readme file (that you are looking at now ) and other official documentation provide depth and clarity.  Tools to 
-make leverage the power of the Kanban-Zai file are planned.
+leverage the power of the Kanban-Zai file, are planned.
 
 
 ### CONTEXT
@@ -76,7 +67,7 @@ quite likely never will.  Irrational players do not have say in a Kanban-Zai Tea
 
 ### COMMONSENSE
 
-Common sense works different in the digital world.  What is obvious and sensibly in the real world may not be in the 
+Common sense works different in the digital world.  What is obvious and sensible in the real world may not be in the 
 digital.  A poor choice in the digital can have outrageous time and cost penalties when compared to a similar 
 circumstance in the real.  Maybe.
 

@@ -118,10 +118,6 @@ An extension defines a delivery process.  The method your team is going to use, 
 how it is going to keep doing that or when it is going to stop.  The core itself uses a standard prioritised backlog as
 its delivery process, backed by the core ROMS.  It is recommended that you use an extension early on.
 
-What is a module?
-
-Modules a pre-packaged collections of Kanban-Zai concepts and ideas that you might want to include in your process.
-
 The rules of extension:
 
 * The core must be used by ALL (100%) Kanban-Zai implementations
@@ -134,6 +130,10 @@ The rules of extension:
 * You may only change the properties of an extension or module to the values, if specified, of the extension or module.
 * If there is a property that does not work for you then do not use that extension or module.  Create your own.
 * Your customisations must not contradict any aspect of the Kanban-Zai core or any extension or module you use.
+
+What is a module?
+
+Modules a pre-packaged collections of Kanban-Zai concepts and ideas that you might want to include in your process.
 
 SANITY CHECK:
 
