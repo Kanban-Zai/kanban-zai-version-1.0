@@ -115,8 +115,9 @@ Rejoice!
 What is an extension?
 
 An extension defines a delivery process.  The method your team is going to use, to get from idea stage to product and 
-how it is going to keep doing that or when it is going to stop.  The core itself uses a standard prioritised backlog as
-its delivery process, backed by the core ROMS.  It is recommended that you use an extension early on.
+how it is going to keep doing that or when it is going to stop.  
+
+In other words in defines the objective behaviours, processes, values and goals for yout team.
 
 The rules of extension:
 
