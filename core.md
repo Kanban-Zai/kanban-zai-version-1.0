@@ -117,6 +117,8 @@ Possible Values: 2 | # > 2  DEFAULT: 2
 
 ### VALUES
 
+This is an ordered list, from most important to least important, of values that guide team discipline.
+
 #### objectivity (READONLY)
 
 Objectivity is necessary to get an accurate explanation of how things work.
