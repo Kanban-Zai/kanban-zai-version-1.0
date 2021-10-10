@@ -4,6 +4,8 @@ Kanban-Zai:
   settings:
     - egos: off|READONLY
     - quorum: 2
+    - cadence: 1 week
+    - prime-limit: 2
   beliefs:
     - rationality
     - irrationality
