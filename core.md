@@ -113,6 +113,21 @@ Required Value: off
 
 Possible Values: 2 | # > 2  DEFAULT: 2
 
+The minimum amount of votes needed to reach consensus
+
+#### cadence (class)
+
+Possible Values: 1 week | a unit of time  DEFAULT: 1 week
+
+The minimum amount of time that must pass before new work may be pushed to a team.  IF all other class related constraints are broken
+
+#### Prime limit (cadence)
+
+Possible Values: 2| # > 2  DEFAULT: 2
+
+The maximum amount of work that may be pushed to a team at any one time.
+
+
 ---
 
 ### VALUES
