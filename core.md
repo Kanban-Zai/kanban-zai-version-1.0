@@ -119,7 +119,7 @@ The minimum amount of votes needed to reach consensus
 
 Possible Values: 1 week | a unit of time  DEFAULT: 1 week
 
-The minimum amount of time that must pass before new work may be pushed to a team.  IF all other class related constraints are broken
+The minimum tick of of the team, from which all timing is based.
 
 #### Prime limit (cadence)
 
