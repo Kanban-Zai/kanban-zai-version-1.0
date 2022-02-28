@@ -1,108 +1,89 @@
+# Kanban-Zai.  Revision 2.  The serenity update.
 
-Is there really a shortage of developers? Yes, But The Problem Is More Complicated Than It Looks.
+## The elevator pitch
 
-...
+Kanban-Zai (KBZ) R2 is a way for new software development teams start smoother.
 
-The IT industry is rapidly changing, which has led to a shortage of software engineers to help manage workloads, new 
-technologies and new ways of working. 
+## Why would anybody do this?
 
-...
+Software development is complex.  There are many hidden pitfalls.  Kanban-Zai is a tool to keep your compass pointing
+in the direction you want to travel.
 
-According to November 2019 insights from CNBC News, there are about 920,000 unfilled IT positions.
+## How does it work?
 
-...
+Kanban-Zai introduces 3 new concepts.
 
-In 2020, an estimated 1 million, computer programming-related jobs in the US are expected to be unfilled.
+1. Soft consensus
 
-...
+    Each team member has 1 vote.  This includes the client representitive who woks daily with the team.  If you 
+    do not work daily with the team you should not consider yourself part of soft consensus.
+    
+    Occasions will occur when a dilemma is encountered, a decision affecting the team or outcome must be made.  In such
+    a case a vote should be taken and the result respected amongst the team.
+    
+    Soft consensus accounts for the fact that not all people on the team will have as much experience as some others
+    and may not full understand the consequences of decision they are making and therefore must be guided.  Not directed.
+    
+    Soft consensus should be made in good faith with the future of the team in mind and therefore the future of the
+    team output.
 
-The root of the problem is a general shortage of engineers across the tech space. In London alone (2020), there are over
- 5,000 software engineer vacancies and over 6,500 for software developers according to Adzuna
+    note: Undue Influencers.  This can happen in a soft consensus situation.  It could be a stakeholder, tech lead,
+          senior dev, more experienced person.  Undue influencers should be resisted by the team, for the overall good
+          of the team.
 
-...
+2.  Team norms
 
-Evans Data Corporation recently announced the results for their Global Developer Population and Demographic Study, 
-which suggests that there are currently 26.9 million developers worldwide. 
+    Sometimes the way forward is unclear because many people have good ideas, many people have bad ideas or many people
+    have no ideas.  Team norms gives you the chance to make a choice (good, bad or ugly) and move forward without
+    to much overhead.
+    
+    A team norm is a behaviour that the team, through consensus, decides is the correct way "FOR NOW" to handle any
+    given situation.  It should be printed on paper and plastered all over the walls.  It should be repeated amongst the
+    team continuously like a mantra.  When a team member does not follow a norm it should be pointed out to them.
+    
+    Team norms should be tried for a period of time and reviewed.
+    
+3.  Extensions
 
-_It is also predicted that the global developer population will increase to crushing 45 million by 2030_
+    Because the core can never be modified by your team, extensions give your team a way to add their own flavour to 
+    Kanban-Zai.
 
-...
+## Can anybody use Kanban-Zai?
 
+It's open source.  So yes.
 
-Worldwide, there are between 300 million and 582 million entrepreneurs. With many operating from  exotic locations.
+## Are there any limitations of its use.
 
-...
+These are specified in the license.
 
-Statistically, there are between 150 million and 305 million total startups created in a year. 
-
-...
-
-If One-third of that number are to be launched, and there are about 50 to 100 million new businesses each year, which 
-leads to 137,000 - 200,000 startups made per day.
- 
-...
-
-1.35 million businesses out of those startups are tech related.  Almost all require software to function.
-
-...
-
-The U.S. is the largest tech market in the world, coming in at $1.6 trillion followed by the European Union, China, 
-Japan and India.  The rest of the world accounts for 30% of the total market estimated to be between 4-8 trillion 
-dollars.
-
-...
-
-And Growing.
-
-... 
-
-Today, software is the driving force of the world – with an estimated 9 trillion devices in use, it is the glue that 
-connects people from all around the globe.  It's growth and complexity will only continue.
-
-...
-
-_Software developers and the technical sphere are shaping and building the modern technological world._
-
-...
-
-The demand for developers, testers, product owners, technical owners and peripheral roles will not be met soon.
-
-...
-
-[Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers Developers](https://www.gemconsortium.org/reports/latest-global-report)
-
-
-# Kanban-Zai.
-
-Kanban-Zai (KBZ) is a teleology that replaces the Agile and Waterfall Methodologies, in specific situations.
-
-The concept of Kanban-Zai has evolved from more than 20 years in the trenches of waterfall and agile.
-
-The rationale behind Kanban-Zai can be reduced to 3 observations.
+The rationale behind Kanban-Zai formed from more than 20 years of experience in the trenches of waterfall and agile 
+and can be reduced to 3 observations.
 
 * Software Development is a creative process.
-* People can operate optimally in creative mode or survival mode but not both.
+* People can operate optimally in creative mode or survival mode, but not both.
 * The best creative work comes when you empower everyone.  
+
+However, for this explanation to make sense you must accept that current methods of working can be improved upon.  A 
+fuller explanation can be found in [The Kanban-Zai Core](./core.md)
 
 ## IMPLEMENT
 
 To implement Kanban-Zai in your project all you need to do is formally adopt the core by creating your own 
-kanban-zai.yaml file in a public code repository of your choice.
+kanban-zai.yaml file in a public code repository of your choice.  This is a living document that file formalizes the 
+ethical behaviours and boundries of your team.
 
-* This file documents the behaviours, claims, constraints and values of a Kanban-Zai.
+THE RULES:
 * It must be held in a public repo.
 * All changes to this file must be tracked.
 * It must be kept current and reflective of the present.
 * May only be modified by rostered team members.
 
-[The Kanban-Zai Core](./core.md)
+
 
 ## EXTEND
 
-Next specify which core module you are extending from.  
-
-All kbz implementations must extend from the core, ultimately.  This means you can extend from another extension that 
-ultimately extends from the core. 
+Next specify which core extension you are extending from.  All kbz implementations must extend from the core, 
+ultimately.  This means you can extend from another extension that ultimately extends from the core. 
 
 Not specifying an extension implies you are extending from the latest core module, but the preference is that an origin 
 should be explicitly stated.
@@ -112,7 +93,7 @@ Kanban-Zai team.
 
 Rejoice!
 
-What is an extension?
+### What is an extension?
 
 An extension defines a delivery process.  The method your team is going to use, to get from idea stage to product and 
 how it is going to keep doing that or when it is going to stop.  
@@ -132,7 +113,7 @@ The rules of extension:
 * If there is a property that does not work for you then do not use that extension or module.  Create your own.
 * Your customisations must not contradict any aspect of the Kanban-Zai core or any extension or module you use.
 
-What is a module?
+### What is a module?
 
 Modules a pre-packaged collections of Kanban-Zai concepts and ideas that you might want to include in your process.
 
@@ -156,41 +137,7 @@ version.  If there is a significant deviation in meaning the minor version will 
 
 Any changes to any version of the core will be done conservatively and as a result of robust debate.
 
-## KANBAN-ZAI LICENSE
-
-If you choose to implement Kanban-Zai and wish to say you are running a Kanban-Zai project then you MUST, at a minimum, 
-implement the Kanban-Zai core.
-
-You may not modify the Kanban-Zai Core in any way, but you may extend your implementation through the 
-approved methodologies described in the Kanban-Zai core.
-
-You may not extend your implementation in any way that nullifies or alters the meaning of any part of the Kanban-Zai core.
-
-Breaching any part of this license revokes your right to publicly declare, any endeavour you undertake, as Kanban-Zai.
-
-This license applies to all legal and illegal entities including but not limited to individual people, companies, 
-partnerships, sole traders, dogs called max, Artificial Intelligences, movie producers...I don't know...you name it, 
-it applies.
-
----
-
-### KANBAN-ZAI LICENSE  - CONTINUED
-
-Reserved words in Kanban-zai
-
-These words are reserved for the Kanban-Zai core team only.  You may not use them in the name of any extension,
-module, setting or property without the prior approval of the core team.
-
-    Kanban-Zai, black, white, red, blue, yellow, green, amber, settings, claims, norms, values, journal,
-    roster, method, implements, hints, extends
-
-General requirements for naming in Kanban-Zai:
-
-* Name collisions are not allowed. 
-* Names are granted on a first come first served basis as determined by the  creation timestamp of the kanban-zai.yaml 
-files of the relevant extensions or modules.
-
-
+ 
 #### PERSONAL RECOMMENDATIONS
 
 It’s mentally tough trying to explain simplicity to people. 
@@ -219,3 +166,4 @@ They all want it to be difficult, I think. It isn’t really.
     Edward scotcher https://www.linkedin.com/in/edwardscotcher/
     Raf Rasile https://www.linkedin.com/in/rafrasile/
     Cyrus Richardson https://www.linkedin.com/in/richardson/
+    Sarah Yock https://www.linkedin.com/in/sarah-yock-689ba6b/

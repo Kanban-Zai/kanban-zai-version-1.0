@@ -1,8 +1,28 @@
 #  KANBAN-ZAI CORE - WHAT IS IT?
 
-Kanban-Zai is about bringing objectivity to a development team by inspiring tolerance and trust.
+The goal of Kanban-Zai is to bring Objectivity to a team by defining a set of components that can be used to build
+a "Rational Trust Model"
 
-### Beliefs, Behaviours and constraints
+
+TRUST: The first component is trust.
+
+Defining trust
+
+
+NORMS:
+
+JOURNAL:
+
+
+
+Each component defines an aspect of a team, generally not formally defined and is therefore subject to interpretation.
+
+
+engagement, trust, reputation, norms,beliefs,settings,values,outcomes
+
+TODO: merge beliefs and norms 
+make values less complex and more understandable
+are there any outcomes other than value and quality?
 
 Kanban-Zai is a belief system that leverages behaviors and constraints to define a framework in which people can work
 objectively.  It is a way for humans to collaborate and co-opts many different ideas about project
@@ -15,12 +35,17 @@ to think objectively about trust and how it works.
 
     Trust = ( Vibability + Credibility + Reliability ) / Self Orientation (Selfishness)
     
-The trust equation tells us how trust is hard to build and easy to destroy.
+The trust equation explains how trust is hard to build and easy to destroy.
 
 ### Reputation and the Referral Chain
 
 Kanban-Zai is a graph.  It provides transparency about teams and individuals not possible previously.
 [core-jml](core-jml.md) 
+
+### Circuit Breakers ( engagement )
+
+a progressive list of conditions signifing the closeness to failure of the engagement relationship that gives both 
+parties clear signals of incursions into the relationship and a path to remedy and re engage the circuit breaker
 
 ---
 
